@@ -1,0 +1,650 @@
+{
+  "scientific_research": {
+    "title": "Scientific Research",
+    "icon": "fas fa-flask-vial", 
+    "description": "منهجيات البحث العلمي وتطبيقاته.",
+    "lectures": {
+      "overview_research": {
+        "title": "Overview about research",
+        "icon": "fas fa-search",
+        "description": "مقدمة عامة حول البحث العلمي.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "research_process": {
+        "title": "Research process",
+        "icon": "fas fa-project-diagram",
+        "description": "خطوات عملية البحث العلمي.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "cross_sectional": {
+        "title": "Cross-sectional study design",
+        "icon": "fas fa-chart-pie",
+        "description": "تصميم الدراسة المقطعية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "qualitative_research": {
+        "title": "Qualitative research",
+        "icon": "fas fa-comments",
+        "description": "البحث النوعي ومناهجه.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "analytical_design": {
+        "title": "Analytical research design",
+        "icon": "fas fa-magnifying-glass-chart",
+        "description": "تصميم البحث التحليلي.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "experimental_design": {
+        "title": "Experimental research design",
+        "icon": "fas fa-vial",
+        "description": "تصميم البحث التجريبي.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "research_proposal": {
+        "title": "Research proposal",
+        "icon": "fas fa-file-signature",
+        "description": "كيفية كتابة مقترح البحث.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "data_collection_tools": {
+        "title": "Tools and methods of data collections",
+        "icon": "fas fa-clipboard-list",
+        "description": "أدوات وطرق جمع البيانات.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "sampling": {
+        "title": "Sampling",
+        "icon": "fas fa-users-viewfinder",
+        "description": "طرق اختيار العينات.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "ethics_research": {
+        "title": "Ethics in research",
+        "icon": "fas fa-balance-scale",
+        "description": "الأخلاقيات في البحث العلمي.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "appendices": {
+        "title": "Appendices",
+        "icon": "fas fa-paperclip",
+        "description": "الملاحق في البحث.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      }
+    }
+  },
+  "midwifery_theory": {
+    "title": "Midwifery Theory",
+     "icon": "fas fa-book-medical",
+     "description": "الأسس النظرية لممارسة القبالة.",
+    "lectures": {
+      "intro_midwifery": {
+        "title": "Introduction of Midwifery",
+        "icon": "fas fa-baby",
+        "description": "مقدمة في علم القبالة.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "physiology_fertilization": {
+        "title": "Physiology of Fertilization",
+        "icon": "fas fa-atom",
+        "description": "فسيولوجيا الإخصاب.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "normal_pregnancy": {
+        "title": "Normal pregnancy",
+        "icon": "fas fa-person-pregnant",
+        "description": "الحمل الطبيعي ومراحله.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "physiological_changes": {
+        "title": "Physiological changes during pregnancy",
+        "icon": "fas fa-heart-pulse",
+        "description": "التغيرات الفسيولوجية أثناء الحمل.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "antenatal_care": {
+        "title": "Antenatal care",
+        "icon": "fas fa-stethoscope",
+        "description": "الرعاية ما قبل الولادة.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+       "normal_pregnancy_childbirth": {
+        "title": "Normal Pregnancy and Childbirth",
+        "icon": "fas fa-child",
+        "description": "الحمل والولادة الطبيعية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+       },
+      "normal_postpartum": {
+        "title": "Normal Postpartum Care",
+        "icon": "fas fa-hospital-user",
+        "description": "الرعاية الطبيعية بعد الولادة.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "nursing_care_postpartum": {
+        "title": "Nursing Care for Postpartum women",
+        "icon": "fas fa-user-nurse",
+        "description": "الرعاية التمريضية للمرأة بعد الولادة.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      }
+    }
+  },
+  "midwifery_clinical": {
+    "title": "Midwifery Clinical",
+    "icon": "fas fa-briefcase-medical",
+    "description": "المهارات السريرية العملية في القبالة.",
+    "lectures": {
+      "abdominal_exam": {
+        "title": "Abdominal Examination",
+        "icon": "fas fa-hand-holding-medical",
+        "description": "فحص البطن للحامل.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "auscultation_fhr": {
+        "title": "Auscultation Fetal Heart Rate",
+        "icon": "fas fa-ear-listen",
+        "description": "سماع نبضات قلب الجنين.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "oxytocin_infusion": {
+        "title": "Management of oxytocin infusion",
+        "icon": "fas fa-syringe",
+        "description": "إدارة محلول الأوكسيتوسين.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "partogram": {
+        "title": "The Partogram",
+        "icon": "fas fa-chart-line",
+        "description": "استخدام وتفسير مخطط الولادة.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "perineal_care": {
+        "title": "Perineal care",
+        "icon": "fas fa-pump-soap",
+        "description": "العناية بمنطقة العجان.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "bishop_score": {
+        "title": "Bishop score",
+        "icon": "fas fa-list-ol",
+        "description": "تقييم درجة بيشوب.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "placental_exam": {
+        "title": "Placental examination",
+        "icon": "fas fa-microscope",
+        "description": "فحص المشيمة بعد الولادة.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "episiotomy": {
+        "title": "Episiotomy",
+        "icon": "fas fa-scissors",
+        "description": "شق العجان.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "immediate_baby_care": {
+        "title": "Immediate baby care",
+        "icon": "fas fa-baby-carriage",
+        "description": "الرعاية الفورية للمولود.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "uterine_massage": {
+        "title": "Uterine massage",
+        "icon": "fas fa-hands-praying",
+        "description": "تدليك الرحم بعد الولادة.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "breast_care": {
+        "title": "Breast care",
+        "icon": "fas fa-notes-medical",
+        "description": "العناية بالثدي.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      }
+    }
+  },
+   "maternity_clinical": {
+    "title": "Maternity Clinical",
+     "icon": "fas fa-hospital",
+     "description": "المهارات السريرية في تمريض الأمومة.",
+    "lectures": {
+      "fetal_movement_count": {
+        "title": "Daily fetal movement count",
+        "icon": "fas fa-person-running",
+        "description": "عد حركات الجنين اليومية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "non_stress_test": {
+        "title": "Fetal non-stress test",
+        "icon": "fas fa-wave-square",
+        "description": "اختبار عدم الإجهاد للجنين.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "stress_test": {
+        "title": "Fetal stress test",
+        "icon": "fas fa-heart-crack",
+        "description": "اختبار الإجهاد للجنين.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "urine_analysis": {
+        "title": "Urine analysis (albumin, acetone, sugar)",
+        "icon": "fas fa-flask",
+        "description": "تحليل البول (زلال، أسيتون، سكر).",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "pitting_edema": {
+        "title": "Pitting Edema Assessment",
+        "icon": "fas fa-person-dots-from-line",
+        "description": "تقييم الوذمة الانطباعية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "deep_tendon_reflex": {
+        "title": "Deep Tendon Reflex Assessment",
+        "icon": "fas fa-hammer",
+        "description": "تقييم المنعكسات الوترية العميقة.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "magnesium_sulphate": {
+        "title": "Administration of Magnesium Sulphate",
+        "icon": "fas fa-prescription-bottle-medical",
+        "description": "إعطاء سلفات المغنيسيوم.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "pap_smear": {
+        "title": "Pap smear",
+        "icon": "fas fa-vial-circle-check",
+        "description": "مسحة عنق الرحم.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "pelvic_floor_assessment": {
+        "title": "Assessment of the pelvic floor muscle",
+        "icon": "fas fa-weight-scale",
+        "description": "تقييم عضلات قاع الحوض.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "gynecological_assessment": {
+        "title": "Gynecological assessment",
+        "icon": "fas fa-file-medical",
+        "description": "التقييم النسائي.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "breast_exam": {
+        "title": "Breast examination",
+        "icon": "fas fa-person-breastfeeding",
+        "description": "فحص الثدي.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      }
+    }
+   },
+  "informatics": {
+    "title": "Informatics in Nursing",
+     "icon": "fas fa-laptop-medical",
+     "description": "المعلوماتية وتطبيقاتها في التمريض.",
+    "lectures": {
+      "evolution_informatics": {
+        "title": "Evolution of informatics",
+        "icon": "fas fa-timeline",
+        "description": "تطور علم المعلوماتية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "information_system": {
+        "title": "Information system",
+        "icon": "fas fa-database",
+        "description": "نظم المعلومات.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "health_information_system": {
+        "title": "Health information system",
+        "icon": "fas fa-notes-medical",
+        "description": "نظم المعلومات الصحية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "telecommunication": {
+        "title": "Telecommunication",
+        "icon": "fas fa-satellite-dish",
+        "description": "الاتصالات عن بعد.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "nursing_informatics_app": {
+        "title": "Application of nursing informatics",
+        "icon": "fas fa-mobile-screen-button",
+        "description": "تطبيقات المعلوماتية التمريضية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "personal_health_records": {
+        "title": "Personal health records",
+        "icon": "fas fa-address-card",
+        "description": "السجلات الصحية الشخصية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "electronic_health_record": {
+        "title": "Electronic health record",
+        "icon": "fas fa-laptop-file",
+        "description": "السجل الصحي الإلكتروني.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "evidence_based_practice_info": {
+        "title": "Evidence based practice",
+        "icon": "fas fa-book-reader",
+        "description": "الممارسة القائمة على الأدلة.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "virtual_lab": {
+        "title": "Virtual lab",
+        "icon": "fas fa-vr-cardboard",
+        "description": "المختبر الافتراضي.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "e_learning": {
+        "title": "E- Learning",
+        "icon": "fas fa-graduation-cap",
+        "description": "التعلم الإلكتروني.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      }
+    }
+  },
+  "maternity": {
+    "title": "Maternity",
+    "icon": "fas fa-person-pregnant",
+    "description": "تمريض الأمومة والحمل.",
+    "lectures": {
+      "glossary_terms": {
+        "title": "Glossary of terms",
+        "icon": "fas fa-book",
+        "description": "مسرد المصطلحات.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "anatomy_physiology_female": {
+        "title": "Anatomy and Physiology of Female Reproductive System",
+        "icon": "fas fa-venus",
+        "description": "تشريح وفسيولوجيا الجهاز التناسلي الأنثوي.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "high_risk_pregnancy_m": {
+        "title": "High Risk Pregnancy",
+        "icon": "fas fa-triangle-exclamation",
+        "description": "الحمل عالي الخطورة.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "abnormal_labor_m": {
+        "title": "Abnormal Labor",
+        "icon": "fas fa-truck-medical",
+        "description": "الولادة غير الطبيعية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "abnormal_postpartum_m": {
+        "title": "Abnormal Postpartum",
+        "icon": "fas fa-bed-pulse",
+        "description": "فترة ما بعد الولادة غير الطبيعية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "gynecological_disorders_m": {
+        "title": "Gynecological Disorders",
+        "icon": "fas fa-disease",
+        "description": "الاضطرابات النسائية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "family_planning": {
+        "title": "Family Planing",
+        "icon": "fas fa-users",
+        "description": "تنظيم الأسرة.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      }
+    }
+  },
+  "obstetrics_medicine": {
+    "title": "Obstetric and Midwifery Medicine",
+    "icon": "fas fa-pills",
+    "description": "الطب المتعلق بالتوليد والقبالة.",
+    "lectures": {
+      "high_risk_pregnancy_med": {
+        "title": "High Risk Pregnancy",
+        "icon": "fas fa-triangle-exclamation",
+        "description": "الحمل عالي الخطورة من منظور طبي.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "normal_abnormal_labor_med": {
+        "title": "Normal Abnormal labor",
+        "icon": "fas fa-person-dots-from-line",
+        "description": "الولادة الطبيعية وغير الطبيعية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "normal_abnormal_postpartum_med": {
+        "title": "Normal Abnormal postpartum",
+        "icon": "fas fa-baby",
+        "description": "فترة ما بعد الولادة الطبيعية وغير الطبيعية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "ovarian_menstrual_cycle": {
+        "title": "Ovarian menstrual cycle",
+        "icon": "fas fa-calendar-alt",
+        "description": "دورة المبيض والدورة الشهرية.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      },
+      "abnormal_uterine_bleeding": {
+        "title": "Abnormal uterine bleeding",
+        "icon": "fas fa-droplet",
+        "description": "النزيف الرحمي غير الطبيعي.",
+        "quiz": [],
+        "explanation": "<p>الشرح غير متوفر حاليًا.</p>",
+        "flipCards": []
+      }
+    }
+  },
+  "marketing": {
+    "title": "Marketing",
+    "icon": "fas fa-chart-line",
+    "description": "Healthcare marketing strategies and principles",
+    "lectures": {
+      "healthcare_marketing": {
+        "title": "Healthcare Marketing",
+        "icon": "fas fa-chart-line",
+        "description": "Marketing principles applied to healthcare services",
+        "quiz": [
+          {
+            "question": "What is the primary focus of healthcare marketing?",
+            "options": {
+              "A": "Maximizing profits",
+              "B": "Building patient relationships and improving health outcomes",
+              "C": "Reducing healthcare costs",
+              "D": "Increasing medication sales"
+            },
+            "correctAnswer": "B",
+            "explanation": "The primary focus of healthcare marketing is building patient relationships and improving health outcomes, rather than simply maximizing profits."
+          },
+          {
+            "question": "Which marketing approach emphasizes understanding patient needs and delivering value?",
+            "options": {
+              "A": "Product-oriented marketing",
+              "B": "Sales-oriented marketing",
+              "C": "Market-oriented marketing",
+              "D": "Production-oriented marketing"
+            },
+            "correctAnswer": "C",
+            "explanation": "Market-oriented marketing focuses on understanding patient needs and delivering value that meets those needs, rather than simply pushing products or services."
+          }
+        ],
+        "explanation": "\n                            <h3>Healthcare Marketing Overview</h3>\n                            <p>Healthcare marketing involves planning and executing the conception, pricing, promotion, and distribution of health services to create exchanges that satisfy individual and organizational objectives.</p>\n                            <h3>Unique Aspects of Healthcare Marketing</h3>\n                            <p>Healthcare marketing differs from other industries due to several factors:</p>\n                            <ul>\n                                <li><strong>Intangibility</strong>: Services cannot be seen or touched before purchase</li>\n                                <li><strong>Inseparability</strong>: Services are produced and consumed simultaneously</li>\n                                <li><strong>Variability</strong>: Service quality can vary between providers and encounters</li>\n                                <li><strong>Perishability</strong>: Services cannot be stored for future use</li>\n                                <li><strong>Regulatory environment</strong>: Strict regulations govern healthcare marketing</li>\n                            </ul>\n                            <h3>Marketing Mix in Healthcare (7 Ps)</h3>\n                            <p>The traditional marketing mix is expanded for services like healthcare:</p>\n                            <ol>\n                                <li><strong>Product</strong>: Healthcare services, treatments, and programs</li>\n                                <li><strong>Price</strong>: Cost of services, insurance coverage, and payment options</li>\n                                <li><strong>Place</strong>: Location and accessibility of healthcare facilities</li>\n                                <li><strong>Promotion</strong>: Communication about services through various channels</li>\n                                <li><strong>People</strong>: Healthcare providers and staff who deliver services</li>\n                                <li><strong>Process</strong>: Procedures and systems for delivering care</li>\n                                <li><strong>Physical evidence</strong>: Facility appearance, equipment, and materials</li>\n                            </ol>\n                            <h3>Ethical Considerations</h3>\n                            <p>Healthcare marketing must adhere to ethical principles:</p>\n                            <ul>\n                                <li>Truthfulness in all communications</li>\n                                <li>Respect for patient privacy and confidentiality</li>\n                                <li>Avoidance of fear-based marketing tactics</li>\n                                <li>Transparency about costs and outcomes</li>\n                                <li>Compliance with regulatory requirements</li>\n                            </ul>\n                            <h3>Digital Marketing in Healthcare</h3>\n                            <p>Digital channels have become increasingly important in healthcare marketing:</p>\n                            <ul>\n                                <li>Website and search engine optimization</li>\n                                <li>Social media engagement</li>\n                                <li>Email marketing for patient education and retention</li>\n                                <li>Online reputation management</li>\n                                <li>Telehealth and virtual care options</li>\n                            </ul>\n                        ",
+        "flipCards": [
+          {
+            "front": "What are the 7 Ps of healthcare marketing?",
+            "back": "Product, Price, Place, Promotion, People, Process, and Physical evidence."
+          },
+          {
+            "front": "What makes healthcare marketing different from other industries?",
+            "back": "Intangibility, inseparability, variability, perishability, and a strict regulatory environment."
+          },
+          {
+            "front": "What is the primary focus of healthcare marketing?",
+            "back": "Building patient relationships and improving health outcomes."
+          }
+        ]
+      },
+      "patient_engagement": {
+        "title": "Patient Engagement",
+        "icon": "fas fa-users",
+        "description": "Strategies for involving patients in their healthcare",
+        "quiz": [
+          {
+            "question": "What is patient engagement?",
+            "options": {
+              "A": "Patients paying their bills on time",
+              "B": "Patients actively participating in their healthcare decisions",
+              "C": "Patients following doctor's orders without question",
+              "D": "Patients attending all scheduled appointments"
+            },
+            "correctAnswer": "B",
+            "explanation": "Patient engagement refers to patients actively participating in their healthcare decisions and management, collaborating with providers to achieve better health outcomes."
+          },
+          {
+            "question": "Which strategy is most effective for improving patient engagement?",
+            "options": {
+              "A": "Using complex medical terminology",
+              "B": "Providing clear, understandable health information",
+              "C": "Limiting patient access to medical records",
+              "D": "Discouraging questions during appointments"
+            },
+            "correctAnswer": "B",
+            "explanation": "Providing clear, understandable health information is one of the most effective strategies for improving patient engagement, as it empowers patients to participate meaningfully in their care."
+          }
+        ],
+        "explanation": "\n                            <h3>Patient Engagement Overview</h3>\n                            <p>Patient engagement involves collaborative relationships between patients and healthcare providers to promote and support active patient involvement in their own healthcare.</p>\n                            <h3>Benefits of Patient Engagement</h3>\n                            <p>Engaged patients experience better health outcomes and healthcare systems achieve greater efficiency:</p>\n                            <ul>\n                                <li>Improved adherence to treatment plans</li>\n                                <li>Better health outcomes and quality of life</li>\n                                <li>Reduced hospital readmissions</li>\n                                <li>Enhanced patient satisfaction</li>\n                                <li>More efficient use of healthcare resources</li>\n                                <li>Stronger patient-provider relationships</li>\n                            </ul>\n                            <h3>Strategies for Enhancing Patient Engagement</h3>\n                            <p>Healthcare providers can use various strategies to increase patient engagement:</p>\n                            <ol>\n                                <li><strong>Health literacy</strong>: Provide clear, understandable health information</li>\n                                <li><strong>Shared decision-making</strong>: Involve patients in treatment choices</li>\n                                <li><strong>Patient portals</strong>: Enable access to health records and communication</li>\n                                <li><strong>Self-management support</strong>: Teach skills for managing chronic conditions</li>\n                                <li><strong>Cultural competence</strong>: Respect diverse backgrounds and beliefs</li>\n                                <li><strong>Follow-up and reminders</strong>: Support adherence between visits</li>\n                            </ol>\n                            <h3>Technology in Patient Engagement</h3>\n                            <p>Digital tools play an increasingly important role in patient engagement:</p>\n                            <ul>\n                                <li>Patient portals for accessing health records</li>\n                                <li>Mobile health apps for tracking health metrics</li>\n                                <li>Telehealth for remote consultations</li>\n                                <li>Wearable devices for monitoring health indicators</li>\n                                <li>Online patient communities for peer support</li>\n                                <li>Automated reminders for appointments and medications</li>\n                            </ul>\n                            <h3>Measuring Patient Engagement</h3>\n                            <p>Healthcare organizations can measure patient engagement through:</p>\n                            <ul>\n                                <li>Patient satisfaction surveys</li>\n                                <li>Adherence to treatment plans</li>\n                                <li>Portal usage statistics</li>\n                                <li>Patient-reported outcome measures</li>\n                                <li>Participation in preventive care</li>\n                                <li>Self-management behaviors</li>\n                            </ul>\n                        ",
+        "flipCards": [
+          {
+            "front": "What is patient engagement?",
+            "back": "Collaborative relationships between patients and healthcare providers that promote active patient involvement in healthcare decisions and management."
+          },
+          {
+            "front": "What are the benefits of patient engagement?",
+            "back": "Improved adherence to treatment, better health outcomes, reduced readmissions, enhanced satisfaction, and more efficient resource use."
+          },
+          {
+            "front": "What role does technology play in patient engagement?",
+            "back": "Technology enables patient portals, mobile health apps, telehealth, wearable devices, and online communities that support patient engagement."
+          }
+        ]
+      }
+    }
+  }
+}
