@@ -1,4 +1,0 @@
-    # يحدد مكان مجلد وظائف Netlify
-    [functions]
-      directory = "netlify/functions/"
-    
