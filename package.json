@@ -1,0 +1,17 @@
+    {
+      "name": "mr-nursawy-quiz",
+      "version": "1.0.0",
+      "description": "Quiz App Content Management",
+      "main": "index.html",
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "keywords": [],
+      "author": "",
+      "license": "ISC",
+      "dependencies": {
+        "@netlify/functions": "^2.0.0",  
+        "@octokit/rest": "^20.0.0"  // <-- المكتبة المطلوبة لوظائف GitHub
+      }
+    }
+    
