@@ -1,0 +1,1751 @@
+{
+  "scientific_research": {
+    "title": "Scientific Research",
+    "icon": "fas fa-flask-vial",
+    "description": "Scientific research methodologies and applications.",
+    "lectures": {
+      "overview_research": {
+        "title": "Overview about research",
+        "icon": "fas fa-search",
+        "description": "General introduction to scientific research.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "research_process": {
+        "title": "Research process",
+        "icon": "fas fa-project-diagram",
+        "description": "Steps of the scientific research process.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "cross_sectional": {
+        "title": "Cross-sectional study design",
+        "icon": "fas fa-chart-pie",
+        "description": "Understanding cross-sectional studies.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "qualitative_research": {
+        "title": "Qualitative research",
+        "icon": "fas fa-comments",
+        "description": "Qualitative research and its approaches.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "analytical_design": {
+        "title": "Analytical research design",
+        "icon": "fas fa-magnifying-glass-chart",
+        "description": "Designing analytical research.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "experimental_design": {
+        "title": "Experimental research design",
+        "icon": "fas fa-vial",
+        "description": "Designing experimental research.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "research_proposal": {
+        "title": "Research proposal",
+        "icon": "fas fa-file-signature",
+        "description": "How to write a research proposal.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "data_collection_tools": {
+        "title": "Tools and methods of data collections",
+        "icon": "fas fa-clipboard-list",
+        "description": "Tools and methods for data collection.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "sampling": {
+        "title": "Sampling",
+        "icon": "fas fa-users-viewfinder",
+        "description": "Methods for selecting samples.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "ethics_research": {
+        "title": "Ethics in research",
+        "icon": "fas fa-balance-scale",
+        "description": "Ethical considerations in scientific research.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "appendices": {
+        "title": "Appendices",
+        "icon": "fas fa-paperclip",
+        "description": "Appendices in research.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      }
+    }
+  },
+  "midwifery_theory": {
+    "title": "Midwifery Theory",
+     "icon": "fas fa-book-medical",
+     "description": "Theoretical foundations of midwifery practice.",
+    "lectures": {
+      "intro_midwifery": {
+        "title": "Introduction of Midwifery",
+        "icon": "fas fa-baby",
+        "description": "Introduction to the science of midwifery.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "physiology_fertilization": {
+        "title": "Physiology of Fertilization",
+        "icon": "fas fa-atom",
+        "description": "The physiology of fertilization.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "normal_pregnancy": {
+        "title": "Normal pregnancy",
+        "icon": "fas fa-person-pregnant",
+        "description": "Normal pregnancy and its stages.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "physiological_changes": {
+        "title": "Physiological changes during pregnancy",
+        "icon": "fas fa-heart-pulse",
+        "description": "Physiological changes during pregnancy.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "antenatal_care": {
+        "title": "Antenatal care",
+        "icon": "fas fa-stethoscope",
+        "description": "Care provided before childbirth.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+       "normal_pregnancy_childbirth": {
+        "title": "Normal Pregnancy and Childbirth",
+        "icon": "fas fa-child",
+        "description": "Normal pregnancy and the process of childbirth.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+       },
+      "normal_postpartum": {
+        "title": "Normal Postpartum Care",
+        "icon": "fas fa-hospital-user",
+        "description": "Standard care after childbirth.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "nursing_care_postpartum": {
+        "title": "Nursing Care for Postpartum women",
+        "icon": "fas fa-user-nurse",
+        "description": "Nursing care for women after delivery.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      }
+    }
+  },
+  "midwifery_clinical": {
+    "title": "Midwifery Clinical",
+    "icon": "fas fa-briefcase-medical",
+    "description": "Practical clinical skills in midwifery.",
+    "lectures": {
+      "abdominal_exam": {
+        "title": "Abdominal Examination",
+        "icon": "fas fa-hand-holding-medical",
+        "description": "Examination of the pregnant abdomen.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "auscultation_fhr": {
+        "title": "Auscultation Fetal Heart Rate",
+        "icon": "fas fa-ear-listen",
+        "description": "Listening to the fetal heart rate.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "oxytocin_infusion": {
+        "title": "Management of oxytocin infusion",
+        "icon": "fas fa-syringe",
+        "description": "Managing oxytocin infusion.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "partogram": {
+        "title": "The Partogram",
+        "icon": "fas fa-chart-line",
+        "description": "Using and interpreting the partogram.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "perineal_care": {
+        "title": "Perineal care",
+        "icon": "fas fa-pump-soap",
+        "description": "Care of the perineal area.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "bishop_score": {
+        "title": "Bishop score",
+        "icon": "fas fa-list-ol",
+        "description": "Assessing the Bishop score.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "placental_exam": {
+        "title": "Placental examination",
+        "icon": "fas fa-microscope",
+        "description": "Examination of the placenta after birth.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "episiotomy": {
+        "title": "Episiotomy",
+        "icon": "fas fa-scissors",
+        "description": "Understanding episiotomy.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "immediate_baby_care": {
+        "title": "Immediate baby care",
+        "icon": "fas fa-baby-carriage",
+        "description": "Immediate care for the newborn.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "uterine_massage": {
+        "title": "Uterine massage",
+        "icon": "fas fa-hand-holding-heart", 
+        "description": "Postpartum uterine massage.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "breast_care": {
+        "title": "Breast care",
+        "icon": "fas fa-notes-medical",
+        "description": "Care of the breasts.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      }
+    }
+  },
+   "maternity_clinical": {
+    "title": "Maternity Clinical",
+     "icon": "fas fa-hospital",
+     "description": "Clinical skills in maternity nursing.",
+    "lectures": {
+      "fetal_movement_count": {
+        "title": "Daily fetal movement count",
+        "icon": "fas fa-person-running",
+        "description": "Counting daily fetal movements.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "non_stress_test": {
+        "title": "Fetal non-stress test",
+        "icon": "fas fa-wave-square",
+        "description": "The fetal non-stress test (NST).",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "stress_test": {
+        "title": "Fetal stress test",
+        "icon": "fas fa-heart-crack",
+        "description": "The fetal stress test (CST).",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "urine_analysis": {
+        "title": "Urine analysis (albumin, acetone, sugar)",
+        "icon": "fas fa-flask",
+        "description": "Urine analysis for albumin, acetone, and sugar.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "pitting_edema": {
+        "title": "Pitting Edema Assessment",
+        "icon": "fas fa-person-dots-from-line",
+        "description": "Assessment of pitting edema.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "deep_tendon_reflex": {
+        "title": "Deep Tendon Reflex Assessment",
+        "icon": "fas fa-hammer",
+        "description": "Assessment of deep tendon reflexes (DTRs).",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "magnesium_sulphate": {
+        "title": "Administration of Magnesium Sulphate",
+        "icon": "fas fa-prescription-bottle-medical",
+        "description": "Administering magnesium sulphate.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "pap_smear": {
+        "title": "Pap smear",
+        "icon": "fas fa-vial-circle-check",
+        "description": "Understanding the Pap smear test.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "pelvic_floor_assessment": {
+        "title": "Assessment of the pelvic floor muscle",
+        "icon": "fas fa-weight-scale",
+        "description": "Assessing pelvic floor muscles.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "gynecological_assessment": {
+        "title": "Gynecological assessment",
+        "icon": "fas fa-file-medical",
+        "description": "Performing a gynecological assessment.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "breast_exam": {
+        "title": "Breast examination",
+        "icon": "fas fa-person-breastfeeding",
+        "description": "Performing a breast examination.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      }
+    }
+   },
+  "informatics": {
+    "title": "Informatics in Nursing",
+     "icon": "fas fa-laptop-medical",
+     "description": "Informatics and its applications in nursing.",
+    "lectures": {
+      "evolution_informatics": {
+        "title": "Evolution of informatics",
+        "icon": "fas fa-timeline",
+        "description": "The evolution of informatics.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "information_system": {
+        "title": "Information system",
+        "icon": "fas fa-database",
+        "description": "Understanding information systems.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "health_information_system": {
+        "title": "Health information system",
+        "icon": "fas fa-notes-medical",
+        "description": "Health information systems (HIS).",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "telecommunication": {
+        "title": "Telecommunication",
+        "icon": "fas fa-satellite-dish",
+        "description": "Telecommunication in healthcare.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "nursing_informatics_app": {
+        "title": "Application of nursing informatics",
+        "icon": "fas fa-mobile-screen-button",
+        "description": "Applications of nursing informatics.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "personal_health_records": {
+        "title": "Personal health records",
+        "icon": "fas fa-address-card",
+        "description": "Personal health records (PHRs).",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "electronic_health_record": {
+        "title": "Electronic health record",
+        "icon": "fas fa-laptop-file",
+        "description": "Electronic health records (EHRs).",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "evidence_based_practice_info": {
+        "title": "Evidence based practice",
+        "icon": "fas fa-book-reader",
+        "description": "Evidence-based practice (EBP).",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "virtual_lab": {
+        "title": "Virtual lab",
+        "icon": "fas fa-vr-cardboard",
+        "description": "Virtual laboratories in education.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "e_learning": {
+        "title": "E- Learning",
+        "icon": "fas fa-graduation-cap",
+        "description": "E-learning in nursing education.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      }
+    }
+  },
+  "maternity": {
+    "title": "Maternity",
+    "icon": "fas fa-person-pregnant",
+    "description": "Maternity and pregnancy nursing.",
+    "lectures": {
+      "glossary_terms": {
+        "title": "Glossary of terms",
+        "icon": "fas fa-book",
+        "description": "Common maternity terms.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "anatomy_physiology_female": {
+        "title": "Anatomy and Physiology of Female Reproductive System",
+        "icon": "fas fa-venus",
+        "description": "Anatomy and physiology of the female reproductive system.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "high_risk_pregnancy_m": {
+        "title": "High Risk Pregnancy",
+        "icon": "fas fa-triangle-exclamation",
+        "description": "Managing high-risk pregnancies.",
+        "quiz": [
+                                                {
+                        question: "Bleeding in early pregnancy is defined as bleeding from the genital tract during the first how many weeks of gestation?",
+                        options: {
+                            A: "12 weeks",
+                            B: "20 weeks",
+                            C: "24 weeks",
+                            D: "28 weeks"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Which of the following is NOT a common cause of bleeding in early pregnancy?",
+                        options: {
+                            A: "Abortion",
+                            B: "Ectopic pregnancy",
+                            C: "Placenta previa",
+                            D: "Vesicular mole"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "Abortion is defined as the loss of pregnancy before fetal viability, which is up to:",
+                        options: {
+                            A: "16 weeks or fetal weight below 250 grams",
+                            B: "20 weeks or fetal weight below 500 grams",
+                            C: "24 weeks or fetal weight below 750 grams",
+                            D: "28 weeks or fetal weight below 1000 grams"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Which of the following is a MATERNAL cause of abortion?",
+                        options: {
+                            A: "Chromosomal anomalies",
+                            B: "Diseases of the fertilized ovum",
+                            C: "Chronic nephritis",
+                            D: "Hypoxia"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "What type of abortion involves the termination of pregnancy for medical reasons or illegally?",
+                        options: {
+                            A: "Spontaneous abortion",
+                            B: "Induced abortion",
+                            C: "Missed abortion",
+                            D: "Septic abortion"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In which type of spontaneous abortion is the cervical os closed and the membranes intact?",
+                        options: {
+                            A: "Inevitable abortion",
+                            B: "Incomplete abortion",
+                            C: "Threatened abortion",
+                            D: "Missed abortion"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "A patient who has had three or more successive spontaneous abortions is diagnosed with:",
+                        options: {
+                            A: "Septic abortion",
+                            B: "Missed abortion",
+                            C: "Habitual abortion",
+                            D: "Incomplete abortion"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "Which type of abortion is characterized by the retention of a dead fetus in the uterus for two weeks or longer?",
+                        options: {
+                            A: "Threatened abortion",
+                            B: "Inevitable abortion",
+                            C: "Missed abortion",
+                            D: "Complete abortion"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "In an incomplete abortion:",
+                        options: {
+                            A: "All products of conception are expelled.",
+                            B: "The fetus is expelled, but the placenta and membranes remain.",
+                            C: "The fetus dies and is retained in the uterus.",
+                            D: "The cervical os is closed."
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A general sign or symptom of abortion is:",
+                        options: {
+                            A: "High fever",
+                            B: "History of amenorrhea",
+                            C: "Offensive vaginal discharge",
+                            D: "Severe hypotension"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In a threatened abortion, the cervical os is:",
+                        options: {
+                            A: "Dilated",
+                            B: "Partly closed",
+                            C: "Closed",
+                            D: "Ruptured"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "Which of the following is a sign of septic abortion?",
+                        options: {
+                            A: "Painless bleeding",
+                            B: "Offensive vaginal bleeding and high temperature",
+                            C: "Hard, small uterus",
+                            D: "Negative pregnancy test"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In an inevitable abortion, the cervical os is:",
+                        options: {
+                            A: "Closed",
+                            B: "Partly closed",
+                            C: "Dilated",
+                            D: "Not assessed"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "A key symptom of a missed abortion is:",
+                        options: {
+                            A: "Severe cramping pain",
+                            B: "Heavy bright red bleeding",
+                            C: "Fundal height that does not increase",
+                            D: "Dilated cervical os"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "In a complete abortion:",
+                        options: {
+                            A: "Severe bleeding continues.",
+                            B: "The uterus is soft and larger than expected.",
+                            C: "Pain stops and the uterus is hard and small.",
+                            D: "The cervical os remains open."
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "A common complication of abortion is:",
+                        options: {
+                            A: "Hypertension",
+                            B: "Hyperglycemia",
+                            C: "Hypovolemic shock",
+                            D: "Polyuria"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "Which investigation is used for a woman with abortion?",
+                        options: {
+                            A: "",
+                            B: "Ultrasound",
+                            C: "Barium swallow",
+                            D: "Pulmonary function test"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Management of a threatened abortion includes:",
+                        options: {
+                            A: "Immediate surgical evacuation",
+                            B: "Complete bed rest and avoiding sexual intercourse",
+                            C: "Administration of oxytocin",
+                            D: "Encouraging strenuous exercise"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "What drug is used in the medical management of an incomplete or missed abortion?",
+                        options: {
+                            A: "Oxytocin",
+                            B: "Progesterone",
+                            C: "Misoprostol",
+                            D: "Terbutaline"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "Surgical treatment for an inevitable or incomplete abortion may include:",
+                        options: {
+                            A: "Laparotomy",
+                            B: "",
+                            C: "Cesarean section",
+                            D: "Cervical cerclage"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "For a woman with a complete abortion who is Rhesus-negative, what should be administered?",
+                        options: {
+                            A: "Iron supplements",
+                            B: "Anti-D Immunoglobulin",
+                            C: "Tetanus toxoid",
+                            D: "Folic acid"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "The primary goal in managing a septic abortion is:",
+                        options: {
+                            A: "Induction of labor",
+                            B: "Administration of antibiotics and infection control",
+                            C: "Immediate blood transfusion",
+                            D: "Psychological counseling only"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A recommendation for a woman after an abortion is to:",
+                        options: {
+                            A: "Avoid all future pregnancies",
+                            B: "Report back if fever or foul-smelling discharge occurs",
+                            C: "Start on oral contraceptives immediately without consultation",
+                            D: "Not discuss family planning"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Prevention of spontaneous abortion can include:",
+                        options: {
+                            A: "A nutritional diet and avoiding smoking",
+                            B: "Taking any available over-the-counter drugs",
+                            C: "Engaging in violent exercises",
+                            D: "Avoiding all immunizations"
+                        },
+                        correctAnswer: "A",
+                        explanation: ""
+                    },
+                    {
+                        question: "Hydatidiform mole is a malformation of which structure?",
+                        options: {
+                            A: "The endometrium",
+                            B: "The myometrium",
+                            C: "The trophoblast",
+                            D: "The corpus luteum"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "A risk factor for hydatidiform mole is:",
+                        options: {
+                            A: "Maternal age between 25-35 years",
+                            B: "Excellent nutrition",
+                            C: "Maternal age above 40 years",
+                            D: "Primigravida status"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "In a complete hydatidiform mole:",
+                        options: {
+                            A: "There is a fetus present.",
+                            B: "The chromosomal origin is purely maternal.",
+                            C: "The whole conceptus is transformed into vesicles.",
+                            D: "It is always benign."
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "A sign of hydatidiform mole is:",
+                        options: {
+                            A: "Uterus smaller than dates",
+                            B: "Absence of vomiting",
+                            C: "Excessive vomiting and uterus larger than dates",
+                            D: "Strong fetal movements"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "How is a hydatidiform mole often diagnosed?",
+                        options: {
+                            A: "X-ray",
+                            B: "Amniocentesis",
+                            C: "Ultrasound scanning",
+                            D: "Laparoscopy"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "A serious complication of hydatidiform mole is:",
+                        options: {
+                            A: "Gestational diabetes",
+                            B: "Choriocarcinoma",
+                            C: "Preterm labor",
+                            D: "Anemia only"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Management of a hydatidiform mole involves:",
+                        options: {
+                            A: "Expectant management until term",
+                            B: "Evacuation of the uterus",
+                            C: "Cervical cerclage",
+                            D: "Administration of progesterone"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "After a hydatidiform mole, a woman is advised to avoid pregnancy for:",
+                        options: {
+                            A: "3 months",
+                            B: "6 months",
+                            C: "1 year",
+                            D: "2 years"
+                        },
+                        correctAnswer: "D",
+                        explanation: ""
+                    },
+                    {
+                        question: "Ectopic pregnancy is defined as:",
+                        options: {
+                            A: "A pregnancy with a genetic abnormality",
+                            B: "A pregnancy occurring outside the normal uterine cavity",
+                            C: "A pregnancy that ends in miscarriage",
+                            D: "A multiple pregnancy"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "The most common site for an ectopic pregnancy is the:",
+                        options: {
+                            A: "Ovary",
+                            B: "Abdominal cavity",
+                            C: "Fallopian tube",
+                            D: "Cervix"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "A cause of tubal pregnancy is:",
+                        options: {
+                            A: "A well-functioning tubal ciliary action",
+                            B: "Occlusion of the fallopian tube",
+                            C: "Increased sperm mobility",
+                            D: "The use of a diaphragm"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A risk factor for tubal pregnancy is:",
+                        options: {
+                            A: "Primigravida",
+                            B: "History of pelvic inflammatory disease",
+                            C: "Regular menstrual cycles",
+                            D: "Young maternal age"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A sign of tubal pregnancy is:",
+                        options: {
+                            A: "Painless vaginal bleeding",
+                            B: "Unilateral pelvic pain in early amenorrhea",
+                            C: "A non-tender cervix",
+                            D: "Bilateral adnexal masses"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A possible outcome of a tubal pregnancy is:",
+                        options: {
+                            A: "Molar transformation",
+                            B: "Tubal rupture",
+                            C: "Conversion to a normal pregnancy",
+                            D: "Spontaneous resolution always"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Which investigation is used for a woman with a suspected tubal pregnancy?",
+                        options: {
+                            A: "Barium enema",
+                            B: "Pregnancy test and ultrasound",
+                            C: "Stool analysis",
+                            D: "Echocardiogram"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Management of a tubal pregnancy is primarily:",
+                        options: {
+                            A: "Medical management with antibiotics",
+                            B: "Surgical intervention",
+                            C: "Bed rest and observation",
+                            D: "Hormonal therapy"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Antepartum hemorrhage (APH) is defined as bleeding from the genital tract after the ____ week of pregnancy and before the onset of labor.",
+                        options: {
+                            A: "12th",
+                            B: "20th",
+                            C: "24th",
+                            D: "28th"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "The two main causes of antepartum hemorrhage are:",
+                        options: {
+                            A: "Abortion and ectopic pregnancy",
+                            B: "Placenta previa and abruptio placentae",
+                            C: "Cervical polyp and varicose veins",
+                            D: "Hydatidiform mole and septic abortion"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Placenta previa is a condition where the placenta is:",
+                        options: {
+                            A: "Separated prematurely",
+                            B: "Implanted over the lower uterine segment",
+                            C: "Abnormally small",
+                            D: "Located in the fundus"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A predisposing factor for placenta previa is:",
+                        options: {
+                            A: "Primigravida",
+                            B: "Deficient endometrium",
+                            C: "Young maternal age",
+                            D: "Low parity"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In which type of placenta previa does the placenta cover the internal os completely even when fully dilated?",
+                        options: {
+                            A: "",
+                            B: "",
+                            C: "",
+                            D: ""
+                        },
+                        correctAnswer: "D",
+                        explanation: ""
+                    },
+                    {
+                        question: "A classic symptom of placenta previa is:",
+                        options: {
+                            A: "Painful, dark red bleeding",
+                            B: "Painless, bright red bleeding",
+                            C: "Bleeding associated with severe abdominal tenderness",
+                            D: "Bleeding only during labor"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "What is a crucial nursing action for a woman with suspected placenta previa?",
+                        options: {
+                            A: "Perform a routine vaginal examination immediately",
+                            B: "Administer enemas to prevent constipation",
+                            C: "Avoid vaginal and rectal examinations",
+                            D: "Encourage ambulation to reduce bleeding"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "How is placenta previa typically diagnosed?",
+                        options: {
+                            A: "By abdominal palpation alone",
+                            B: "Using ultrasonic scanning",
+                            C: "By the patient's symptoms only",
+                            D: "Via a routine blood test"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Cesarean section is indicated in placenta previa if:",
+                        options: {
+                            A: "Bleeding is slight and the placenta is Type I",
+                            B: "The patient is a young primigravida",
+                            C: "The placenta is of the third or fourth degree",
+                            D: "The patient is in active labor with a fully dilated cervix"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "Abruptio placentae is defined as:",
+                        options: {
+                            A: "Implantation of the placenta in the lower segment",
+                            B: "Premature separation of a normally situated placenta",
+                            C: "A genetic abnormality of the placenta",
+                            D: "Infection of the placental tissue"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A major cause of abruptio placentae is:",
+                        options: {
+                            A: "Hypotension",
+                            B: "Hypertension due to toxemia",
+                            C: "Fetal anomalies",
+                            D: "Oligohydramnios"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In which type of abruptio placentae is almost all the blood retained inside the uterus?",
+                        options: {
+                            A: "Revealed",
+                            B: "Concealed",
+                            C: "Combined",
+                            D: "Partial"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A sign of concealed abruptio placentae is:",
+                        options: {
+                            A: "Painless vaginal bleeding",
+                            B: "A soft, non-tender uterus",
+                            C: "A hard, tender, and rigid uterus",
+                            D: "Absence of shock"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "A common complication of abruptio placentae is:",
+                        options: {
+                            A: "Postpartum hemorrhage",
+                            B: "Urinary tract infection",
+                            C: "Fetal macrosomia",
+                            D: "Maternal diabetes"
+                        },
+                        correctAnswer: "A",
+                        explanation: ""
+                    },
+                    {
+                        question: "What is a critical investigation for a woman with abruptio placentae?",
+                        options: {
+                            A: "Liver function tests",
+                            B: "Full blood count and coagulation profile",
+                            C: "Thyroid function tests",
+                            D: "Blood sugar level"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Initial management for a woman with abruptio placentae and shock includes:",
+                        options: {
+                            A: "Administering oral fluids",
+                            B: "Inserting IV lines and giving oxygen",
+                            C: "Sending her for an X-ray",
+                            D: "Encouraging walking"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "If the fetus is alive and viable in a case of severe abruptio placentae, the preferred management is often:",
+                        options: {
+                            A: "Induction of labor with oxytocin",
+                            B: "Emergency Cesarean section",
+                            C: "Expectant management at home",
+                            D: "Manual removal of the placenta"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "The role of the nurse in abruptio placentae includes:",
+                        options: {
+                            A: "Encouraging food intake",
+                            B: "Continuous observation for signs of shock",
+                            C: "Withholding all fluids",
+                            D: "Promoting ambulation"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In a revealed abruptio placentae, the bleeding is:",
+                        options: {
+                            A: "Concealed within the uterus",
+                            B: "Expelled through the cervix",
+                            C: "Minimal and brownish",
+                            D: "Absent"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In a combined abruptio placentae, the blood is:",
+                        options: {
+                            A: "Only concealed",
+                            B: "Only revealed",
+                            C: "Partly concealed and partly revealed",
+                            D: "Absent"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "What is a potential renal complication of severe abruptio placentae?",
+                        options: {
+                            A: "Acute renal failure",
+                            B: "Renal calculi",
+                            C: "Chronic kidney disease",
+                            D: "Glomerulonephritis"
+                        },
+                        correctAnswer: "A",
+                        explanation: ""
+                    },
+                    {
+                        question: "For a woman with abruptio placentae and a dead fetus, the preferred delivery method is often:",
+                        options: {
+                            A: "Emergency C-section",
+                            B: "Normal vaginal delivery",
+                            C: "Forceps delivery",
+                            D: "Vacuum extraction"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "What is administered in cases of Disseminated Intravascular Coagulation (DIC) complicating abruptio placentae?",
+                        options: {
+                            A: "Antihypertensive drugs",
+                            B: "Fresh frozen plasma",
+                            C: "Diuretics only",
+                            D: "Antibiotics"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A nursing intervention for placenta previa is:",
+                        options: {
+                            A: "Frequent vaginal examinations to assess progress",
+                            B: "Administration of enemas to prevent constipation",
+                            C: "Continuous observation for signs of premature labor",
+                            D: "Encouraging the patient to walk around"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "Which symptom is characteristic of both placenta previa and abruptio placentae?",
+                        options: {
+                            A: "Painless bleeding",
+                            B: "Vaginal bleeding",
+                            C: "A soft, non-tender uterus",
+                            D: "Fetal parts easily felt"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In placenta previa, the presenting part is often:",
+                        options: {
+                            A: "Engaged",
+                            B: "Not engaged",
+                            C: "In a transverse lie",
+                            D: "Deeply engaged"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In abruptio placentae, the uterus is often described as:",
+                        options: {
+                            A: "Soft and relaxed",
+                            B: "Hard and woody",
+                            C: "Enlarged and boggy",
+                            D: "Normal in consistency"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A key difference in the bleeding of placenta previa versus abruptio placentae is:",
+                        options: {
+                            A: "Color of the blood",
+                            B: "The presence or absence of pain",
+                            C: "The amount of bleeding",
+                            D: "The gestational age at onset"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Which condition is associated with hypertension?",
+                        options: {
+                            A: "Placenta Previa",
+                            B: "Abruptio Placentae",
+                            C: "Hydatidiform Mole",
+                            D: "Ectopic Pregnancy"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Which condition requires monitoring of HCG levels for two years after treatment?",
+                        options: {
+                            A: "Complete Abortion",
+                            B: "Ectopic Pregnancy",
+                            C: "Hydatidiform Mole",
+                            D: "Placenta Previa"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "In a missed abortion, the pregnancy test is typically:",
+                        options: {
+                            A: "Strongly positive",
+                            B: "Negative",
+                            C: "Positive only in diluted urine",
+                            D: "Unreliable"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "For a woman with habitual abortion, management focuses on:",
+                        options: {
+                            A: "Immediate evacuation of the uterus",
+                            B: "Treatment of the underlying cause",
+                            C: "Administration of oxytocin",
+                            D: "Psychological support only"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In a septic abortion, the primary clinical sign is:",
+                        options: {
+                            A: "Painless bleeding",
+                            B: "Hypothermia",
+                            C: "Bradycardia",
+                            D: "High temperature and offensive discharge"
+                        },
+                        correctAnswer: "D",
+                        explanation: ""
+                    },
+                    {
+                        question: "The drug Misoprostol is used in the management of:",
+                        options: {
+                            A: "Only threatened abortion",
+                            B: "Incomplete and missed abortion",
+                            C: "Septic abortion",
+                            D: "Ectopic pregnancy"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "What is a common fetal effect of placenta previa?",
+                        options: {
+                            A: "Macrosomia",
+                            B: "Fetal hypoxia and mortality",
+                            C: "Congenital heart defects",
+                            D: "Polyhydramnios"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In which condition is the uterus typically larger than the expected gestational age?",
+                        options: {
+                            A: "Threatened Abortion",
+                            B: "Missed Abortion",
+                            C: "Hydatidiform Mole",
+                            D: "Ectopic Pregnancy"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "A woman with a complete abortion should be monitored for:",
+                        options: {
+                            A: "Continued heavy bleeding",
+                            B: "Signs of infection",
+                            C: "Fetal heart tones",
+                            D: "Cervical dilation"
+                        },
+                        correctAnswer: "A",
+                        explanation: ""
+                    },
+                    {
+                        question: "The most specific investigation for an ectopic pregnancy is:",
+                        options: {
+                            A: "Urinalysis",
+                            B: "Ultrasound and pregnancy test",
+                            C: "Blood pressure measurement",
+                            D: "Amniocentesis"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A classic triad for a ruptured ectopic pregnancy includes:",
+                        options: {
+                            A: "Pain, amenorrhea, and syncope",
+                            B: "Painless bleeding, fever, and vomiting",
+                            C: "Itching, jaundice, and dark urine",
+                            D: "Headache, visual disturbances, and edema"
+                        },
+                        correctAnswer: "A",
+                        explanation: ""
+                    },
+                    {
+                        question: "In a tubal pregnancy, the most common site within the tube is the:",
+                        options: {
+                            A: "Isthmus",
+                            B: "Ampulla",
+                            C: "Interstitial portion",
+                            D: "Fimbriae"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "What is the primary goal in the conservative management of placenta previa?",
+                        options: {
+                            A: "To induce labor as soon as possible",
+                            B: "To prolong pregnancy and correct anemia",
+                            C: "To perform an immediate C-section",
+                            D: "To encourage vaginal delivery"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In abruptio placentae, the bleeding is typically:",
+                        options: {
+                            A: "Bright red and painless",
+                            B: "Dark red and painful",
+                            C: "Clear and odorless",
+                            D: "Brown and intermittent"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A risk factor for abruptio placentae is:",
+                        options: {
+                            A: "Primigravida",
+                            B: "",
+                            C: "Young maternal age",
+                            D: "Low parity"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "Which maneuver should be avoided in a woman with antepartum hemorrhage of unknown origin?",
+                        options: {
+                            A: "Abdominal palpation",
+                            B: "Vaginal examination",
+                            C: "Fetal heart rate auscultation",
+                            D: "Blood pressure measurement"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "What is a late sign of significant blood loss in APH?",
+                        options: {
+                            A: "Tachycardia and hypotension",
+                            B: "Bradycardia and hypertension",
+                            C: "Polyuria and polydipsia",
+                            D: "Hyperactivity and euphoria"
+                        },
+                        correctAnswer: "A",
+                        explanation: ""
+                    },
+                    {
+                        question: "For a woman with APH, the nurse should ensure availability of:",
+                        options: {
+                            A: "Antihypertensive medication",
+                            B: "Cross-matched blood",
+                            C: "Oral hypoglycemics",
+                            D: "Anticonvulsants"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "What is a potential complication for the mother following a significant APH?",
+                        options: {
+                            A: "Sheehan's syndrome",
+                            B: "Cushing's syndrome",
+                            C: "Addison's disease",
+                            D: "Graves' disease"
+                        },
+                        correctAnswer: "A",
+                        explanation: ""
+                    },
+                    {
+                        question: "In the management of septic abortion, what is a key intervention?",
+                        options: {
+                            A: "Administration of uterotonics",
+                            B: "Isolation and antibiotic therapy",
+                            C: "Encouraging oral fluids only",
+                            D: "Application of heat to the abdomen"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "What is the purpose of administering Anti-D immunoglobulin after an abortion?",
+                        options: {
+                            A: "To prevent infection",
+                            B: "To prevent Rh isoimmunization",
+                            C: "To relieve pain",
+                            D: "To induce contractions"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A woman with a history of habitual abortion may have:",
+                        options: {
+                            A: "An incompetent cervix",
+                            B: "A bicornuate uterus",
+                            C: "Both A and B",
+                            D: "None of the above"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "In a partial hydatidiform mole, the chromosomal number is:",
+                        options: {
+                            A: "46",
+                            B: "69",
+                            C: "23",
+                            D: "92"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "What is a characteristic finding on ultrasound in a complete hydatidiform mole?",
+                        options: {
+                            A: "A clearly visible fetus",
+                            B: "A \"snowstorm\" appearance",
+                            C: "An empty gestational sac",
+                            D: "A twin pregnancy"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "After evacuation of a hydatidiform mole, follow-up includes monitoring:",
+                        options: {
+                            A: "Blood pressure only",
+                            B: "Urine output",
+                            C: "Beta-hCG levels",
+                            D: "Liver enzymes"
+                        },
+                        correctAnswer: "C",
+                        explanation: ""
+                    },
+                    {
+                        question: "In which condition is the uterus often described as \"wooden\" or \"board-like\" on palpation?",
+                        options: {
+                            A: "Placenta Previa",
+                            B: "Abruptio Placentae",
+                            C: "Hydatidiform Mole",
+                            D: "Multiple Gestation"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "What is the most common presenting symptom of an ectopic pregnancy?",
+                        options: {
+                            A: "Painless vaginal bleeding",
+                            B: "Unilateral lower abdominal pain",
+                            C: "Fullness in the suprapubic area",
+                            D: "Severe headache"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A ruptured ectopic pregnancy is a medical emergency because it can lead to:",
+                        options: {
+                            A: "Severe anemia",
+                            B: "Hypovolemic shock",
+                            C: "Hyperemesis gravidarum",
+                            D: "Pre-eclampsia"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "In the context of APH, what does \"revealed\" bleeding mean?",
+                        options: {
+                            A: "Bleeding that is concealed behind the placenta",
+                            B: "Bleeding that is visible, escaping from the cervix",
+                            C: "Bleeding that occurs only internally",
+                            D: "Bleeding that occurs after delivery"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "For a stable, viable pregnancy with a small placental abruption, management might be:",
+                        options: {
+                            A: "Immediate delivery",
+                            B: "Expectant management in hospital",
+                            C: "Outpatient management with weekly visits",
+                            D: "Administration of anticoagulants"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "What is the primary cause of maternal death in ectopic pregnancy?",
+                        options: {
+                            A: "Infection",
+                            B: "Hemorrhage",
+                            C: "Embolism",
+                            D: "Eclampsia"
+                        },
+                        correctAnswer: "B",
+                        explanation: ""
+                    },
+                    {
+                        question: "A key nursing responsibility in any case of antepartum hemorrhage is:",
+                        options: {
+                            A: "To reassure the patient and prepare for potential emergency delivery",
+                            B: "To perform a detailed vaginal exam to find the source",
+                            C: "To administer sedatives to stop the bleeding",
+                            D: "To encourage the patient to go home and rest"
+                        },
+                        correctAnswer: "A",
+                        explanation: ""
+                    },
+                        ],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "abnormal_labor_m": {
+        "title": "Abnormal Labor",
+        "icon": "fas fa-truck-medical",
+        "description": "Complications during labor.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "abnormal_postpartum_m": {
+        "title": "Abnormal Postpartum",
+        "icon": "fas fa-bed-pulse",
+        "description": "Complications in the postpartum period.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "gynecological_disorders_m": {
+        "title": "Gynecological Disorders",
+        "icon": "fas fa-disease",
+        "description": "Common gynecological disorders.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "family_planning": {
+        "title": "Family Planning", 
+        "icon": "fas fa-users",
+        "description": "Methods and counseling for family planning.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      }
+    }
+  },
+  "obstetrics_medicine": {
+    "title": "Obstetric and Midwifery Medicine",
+    "icon": "fas fa-pills",
+    "description": "Medical aspects of obstetrics and midwifery.",
+    "lectures": {
+      "high_risk_pregnancy_med": {
+        "title": "High Risk Pregnancy",
+        "icon": "fas fa-triangle-exclamation",
+        "description": "Medical perspective on high-risk pregnancy.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "normal_abnormal_labor_med": {
+        "title": "Normal & Abnormal labor", 
+        "icon": "fas fa-person-dots-from-line",
+        "description": "Medical management of normal and abnormal labor.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "normal_abnormal_postpartum_med": {
+        "title": "Normal & Abnormal postpartum", 
+        "icon": "fas fa-baby",
+        "description": "Medical management of the postpartum period.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "ovarian_menstrual_cycle": {
+        "title": "Ovarian menstrual cycle",
+        "icon": "fas fa-calendar-alt",
+        "description": "The ovarian and menstrual cycles.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      },
+      "abnormal_uterine_bleeding": {
+        "title": "Abnormal uterine bleeding",
+        "icon": "fas fa-droplet",
+        "description": "Causes and management of AUB.",
+        "quiz": [],
+        "explanation": "<p>Explanation currently unavailable.</p>",
+        "flipCards": []
+      }
+    }
+  },
+  "marketing": {
+    "title": "Marketing",
+    "icon": "fas fa-chart-line",
+    "description": "Healthcare marketing strategies and principles",
+    "lectures": {
+      "healthcare_marketing": {
+        "title": "Healthcare Marketing",
+        "icon": "fas fa-chart-line",
+        "description": "Marketing principles applied to healthcare services",
+        "quiz": [
+          {
+            "question": "What is the primary focus of healthcare marketing?",
+            "options": {
+              "A": "Maximizing profits",
+              "B": "Building patient relationships and improving health outcomes",
+              "C": "Reducing healthcare costs",
+              "D": "Increasing medication sales"
+            },
+            "correctAnswer": "B",
+            "explanation": "The primary focus of healthcare marketing is building patient relationships and improving health outcomes, rather than simply maximizing profits."
+          },
+          {
+            "question": "Which marketing approach emphasizes understanding patient needs and delivering value?",
+            "options": {
+              "A": "Product-oriented marketing",
+              "B": "Sales-oriented marketing",
+              "C": "Market-oriented marketing",
+              "D": "Production-oriented marketing"
+            },
+            "correctAnswer": "C",
+            "explanation": "Market-oriented marketing focuses on understanding patient needs and delivering value that meets those needs, rather than simply pushing products or services."
+          }
+        ],
+        "explanation": "<h3>Healthcare Marketing Overview</h3><p>Healthcare marketing involves planning and executing the conception, pricing, promotion, and distribution of health services to create exchanges that satisfy individual and organizational objectives.</p><h3>Unique Aspects of Healthcare Marketing</h3><p>Healthcare marketing differs from other industries due to several factors:</p><ul><li><strong>Intangibility</strong>: Services cannot be seen or touched before purchase</li><li><strong>Inseparability</strong>: Services are produced and consumed simultaneously</li><li><strong>Variability</strong>: Service quality can vary between providers and encounters</li><li><strong>Perishability</strong>: Services cannot be stored for future use</li><li><strong>Regulatory environment</strong>: Strict regulations govern healthcare marketing</li></ul><h3>Marketing Mix in Healthcare (7 Ps)</h3><p>The traditional marketing mix is expanded for services like healthcare:</p><ol><li><strong>Product</strong>: Healthcare services, treatments, and programs</li><li><strong>Price</strong>: Cost of services, insurance coverage, and payment options</li><li><strong>Place</strong>: Location and accessibility of healthcare facilities</li><li><strong>Promotion</strong>: Communication about services through various channels</li><li><strong>People</strong>: Healthcare providers and staff who deliver services</li><li><strong>Process</strong>: Procedures and systems for delivering care</li><li><strong>Physical evidence</strong>: Facility appearance, equipment, and materials</li></ol><h3>Ethical Considerations</h3><p>Healthcare marketing must adhere to ethical principles:</p><ul><li>Truthfulness in all communications</li><li>Respect for patient privacy and confidentiality</li><li>Avoidance of fear-based marketing tactics</li><li>Transparency about costs and outcomes</li><li>Compliance with regulatory requirements</li></ul><h3>Digital Marketing in Healthcare</h3><p>Digital channels have become increasingly important in healthcare marketing:</p><ul><li>Website and search engine optimization</li><li>Social media engagement</li><li>Email marketing for patient education and retention</li><li>Online reputation management</li><li>Telehealth and virtual care options</li></ul>",
+        "flipCards": [
+          {
+            "front": "What are the 7 Ps of healthcare marketing?",
+            "back": "Product, Price, Place, Promotion, People, Process, and Physical evidence."
+          },
+          {
+            "front": "What makes healthcare marketing different from other industries?",
+            "back": "Intangibility, inseparability, variability, perishability, and a strict regulatory environment."
+          },
+          {
+            "front": "What is the primary focus of healthcare marketing?",
+            "back": "Building patient relationships and improving health outcomes."
+          }
+        ]
+      },
+      "patient_engagement": {
+        "title": "Patient Engagement",
+        "icon": "fas fa-users",
+        "description": "Strategies for involving patients in their healthcare",
+        "quiz": [
+          {
+            "question": "What is patient engagement?",
+            "options": {
+              "A": "Patients paying their bills on time",
+              "B": "Patients actively participating in their healthcare decisions",
+              "C": "Patients following doctor's orders without question",
+              "D": "Patients attending all scheduled appointments"
+            },
+            "correctAnswer": "B",
+            "explanation": "Patient engagement refers to patients actively participating in their healthcare decisions and management, collaborating with providers to achieve better health outcomes."
+          },
+          {
+            "question": "Which strategy is most effective for improving patient engagement?",
+            "options": {
+              "A": "Using complex medical terminology",
+              "B": "Providing clear, understandable health information",
+              "C": "Limiting patient access to medical records",
+              "D": "Discouraging questions during appointments"
+            },
+            "correctAnswer": "B",
+            "explanation": "Providing clear, understandable health information is one of the most effective strategies for improving patient engagement, as it empowers patients to participate meaningfully in their care."
+          }
+        ],
+        "explanation": "<h3>Patient Engagement Overview</h3><p>Patient engagement involves collaborative relationships between patients and healthcare providers to promote and support active patient involvement in their own healthcare.</p><h3>Benefits of Patient Engagement</h3><p>Engaged patients experience better health outcomes and healthcare systems achieve greater efficiency:</p><ul><li>Improved adherence to treatment plans</li><li>Better health outcomes and quality of life</li><li>Reduced hospital readmissions</li><li>Enhanced patient satisfaction</li><li>More efficient use of healthcare resources</li><li>Stronger patient-provider relationships</li></ul><h3>Strategies for Enhancing Patient Engagement</h3><p>Healthcare providers can use various strategies to increase patient engagement:</p><ol><li><strong>Health literacy</strong>: Provide clear, understandable health information</li><li><strong>Shared decision-making</strong>: Involve patients in treatment choices</li><li><strong>Patient portals</strong>: Enable access to health records and communication</li><li><strong>Self-management support</strong>: Teach skills for managing chronic conditions</li><li><strong>Cultural competence</strong>: Respect diverse backgrounds and beliefs</li><li><strong>Follow-up and reminders</strong>: Support adherence between visits</li></ol><h3>Technology in Patient Engagement</h3><p>Digital tools play an increasingly important role in patient engagement:</p><ul><li>Patient portals for accessing health records</li><li>Mobile health apps for tracking health metrics</li><li>Telehealth for remote consultations</li><li>Wearable devices for monitoring health indicators</li><li>Online patient communities for peer support</li><li>Automated reminders for appointments and medications</li></ul><h3>Measuring Patient Engagement</h3><p>Healthcare organizations can measure patient engagement through:</p><ul><li>Patient satisfaction surveys</li><li>Adherence to treatment plans</li><li>Portal usage statistics</li><li>Patient-reported outcome measures</li><li>Participation in preventive care</li><li>Self-management behaviors</li></ul>",
+        "flipCards": [
+          {
+            "front": "What is patient engagement?",
+            "back": "Collaborative relationships between patients and healthcare providers that promote active patient involvement in healthcare decisions and management."
+          },
+          {
+            "front": "What are the benefits of patient engagement?",
+            "back": "Improved adherence to treatment, better health outcomes, reduced readmissions, enhanced satisfaction, and more efficient resource use."
+          },
+          {
+            "front": "What role does technology play in patient engagement?",
+            "back": "Technology enables patient portals, mobile health apps, telehealth, wearable devices, and online communities that support patient engagement."
+          }
+        ]
+      }
+    }
+  }
+}
