@@ -740,7 +740,327 @@
         "title": "Fetal non-stress test",
         "icon": "fas fa-wave-square",
         "description": "The fetal non-stress test (NST).",
-        "quiz": [],
+        "quiz": [
+  {
+    "question": "What is the general objective of the lecture on the fetal non-stress test?",
+    "options": {
+      "A": "To perform surgery",
+      "B": "To obtain knowledge regarding the non-stress test",
+      "C": "To diagnose maternal heart conditions",
+      "D": "To prescribe medication for the fetus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one of the specific objectives of the lecture?",
+    "options": {
+      "A": "To define the non-stress test and contraction stress test",
+      "B": "To perform a cesarean section",
+      "C": "To interpret maternal blood tests",
+      "D": "To administer anesthesia"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "How is the fetal non-stress test defined?",
+    "options": {
+      "A": "An invasive test performed before 20 weeks",
+      "B": "A simple, non-invasive test performed in pregnancies over 28 weeks gestation that measures fetal heart rate in response to movements",
+      "C": "A test that measures maternal blood pressure only",
+      "D": "A test that requires stressing the fetus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why is the test called \"non-stress\"?",
+    "options": {
+      "A": "Because it is stressful for the mother",
+      "B": "Because no stress is placed on the fetus during the test",
+      "C": "Because it measures stress hormones",
+      "D": "Because it is always performed without consent"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "From what gestational week is the NST typically performed?",
+    "options": {
+      "A": "20-22 weeks",
+      "B": "24-26 weeks",
+      "C": "28-30 weeks and onward",
+      "D": "36 weeks only"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is one indication for performing a non-stress test?",
+    "options": {
+      "A": "Routine checkup for all pregnant women at 12 weeks",
+      "B": "Absence of or diminished fetal movements as perceived by the mother",
+      "C": "Maternal common cold",
+      "D": "Normal, uncomplicated pregnancy with no risk factors"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is an advantage of the NST?",
+    "options": {
+      "A": "It is invasive",
+      "B": "It is quick to perform, non-invasive, painless, and inexpensive",
+      "C": "It has many known side effects",
+      "D": "It is very expensive"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a disadvantage of the NST?",
+    "options": {
+      "A": "It is always accurate",
+      "B": "False-positive test can occur if the fetus is in a sleeping cycle",
+      "C": "It requires hospitalization",
+      "D": "It is painful for the mother"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the first step in the NST procedure?",
+    "options": {
+      "A": "Placing the transducer",
+      "B": "Hand washing",
+      "C": "Interpreting the results",
+      "D": "Giving medication"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What position is the woman placed in for the NST?",
+    "options": {
+      "A": "Prone position",
+      "B": "Semi-Fowler's on left lateral position",
+      "C": "Standing",
+      "D": "Right lateral position only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why is the left lateral position used?",
+    "options": {
+      "A": "To avoid maternal hypotension and its effect on the fetus",
+      "B": "Because it is more comfortable for the nurse",
+      "C": "To make the fetus move more",
+      "D": "To improve ultrasound imaging"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is performed before placing the transducers?",
+    "options": {
+      "A": "Abdominal palpation (Leopold maneuver) to assess presentation and position",
+      "B": "A blood test",
+      "C": "An X-ray",
+      "D": "Checking maternal temperature"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of the fetal movement marker (button)?",
+    "options": {
+      "A": "To control the machine",
+      "B": "For the woman to press when she feels fetal movements",
+      "C": "To measure uterine contractions",
+      "D": "To alert the nurse"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How long is the NST typically recorded for initially?",
+    "options": {
+      "A": "5 minutes",
+      "B": "At least 20 minutes",
+      "C": "1 hour",
+      "D": "10 minutes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done if the NST criteria are not met in the first 20 minutes?",
+    "options": {
+      "A": "Stop the test immediately",
+      "B": "Extend the test for another full 20 minutes",
+      "C": "Consider it reactive anyway",
+      "D": "Schedule a cesarean section"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a normal baseline fetal heart rate for a term fetus?",
+    "options": {
+      "A": "90-110 BPM",
+      "B": "110-160 BPM",
+      "C": "160-180 BPM",
+      "D": "180-200 BPM"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is defined as baseline tachycardia?",
+    "options": {
+      "A": "FHR greater than 160 bpm lasting for 10 minutes or longer",
+      "B": "FHR less than 110 bpm for 10 minutes",
+      "C": "Temporary increase in FHR",
+      "D": "FHR between 110-160 bpm"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is defined as baseline bradycardia?",
+    "options": {
+      "A": "FHR greater than 160 bpm",
+      "B": "FHR less than 110 bpm for at least 10 minutes",
+      "C": "A normal finding",
+      "D": "An acceleration"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is an acceleration in FHR?",
+    "options": {
+      "A": "A decrease in FHR of at least 15 beats below baseline",
+      "B": "A temporary increase in FHR of at least 15 beats above baseline lasting at least 15 seconds but less than 2 minutes",
+      "C": "A constant high heart rate",
+      "D": "The baseline heart rate itself"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What defines a reactive NST?",
+    "options": {
+      "A": "No accelerations in 20 minutes",
+      "B": "At least two FHR accelerations meeting specific criteria (15 bpm increase for 15 seconds)",
+      "C": "Continuous tachycardia",
+      "D": "The presence of decelerations"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a non-reactive NST?",
+    "options": {
+      "A": "One that shows continuous accelerations",
+      "B": "One with no accelerations or less than 2 accelerations within 20 minutes",
+      "C": "One with a normal baseline only",
+      "D": "One that is always abnormal"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a post-procedure step?",
+    "options": {
+      "A": "Leaving the gel on the abdomen",
+      "B": "Removing EFM transducers and cleaning the woman's abdomen from the gel",
+      "C": "Discarding the tracing without interpretation",
+      "D": "Not informing the mother of the results"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is indicated on the graph for identification?",
+    "options": {
+      "A": "The nurse's name only",
+      "B": "The woman's name, date of birth, and physician",
+      "C": "The room number",
+      "D": "The time of day only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is recorded in the upper pane of the display?",
+    "options": {
+      "A": "Uterine activity",
+      "B": "Fetal heart tracing",
+      "C": "Maternal blood pressure",
+      "D": "Time of day"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is recorded in the lower pane of the display?",
+    "options": {
+      "A": "Fetal heart tracing",
+      "B": "Uterine activity",
+      "C": "Maternal heart rate",
+      "D": "Fetal movements"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which condition is NOT listed as an indication for NST?",
+    "options": {
+      "A": "Advanced maternal age",
+      "B": "Post-term pregnancy",
+      "C": "Common cold",
+      "D": "Pre-eclampsia"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What should be asked of the woman prior to the NST regarding substances?",
+    "options": {
+      "A": "If she has eaten in the last hour",
+      "B": "If she has taken medications/drugs/used any substances within the two hours prior",
+      "C": "What her favorite color is",
+      "D": "Her travel history"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of the toco transducer?",
+    "options": {
+      "A": "To measure fetal heart rate",
+      "B": "To measure uterine activity (contractions)",
+      "C": "To listen to maternal lungs",
+      "D": "To monitor maternal blood pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Where is the toco transducer placed?",
+    "options": {
+      "A": "Where the fetal heart is best heard",
+      "B": "On the maternal wrist",
+      "C": "On the abdomen where the fundus is located",
+      "D": "On the maternal chest"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -4176,6 +4496,7 @@
     }
   }
 }
+
 
 
 
