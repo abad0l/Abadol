@@ -1762,7 +1762,327 @@
         "title": "Administration of Magnesium Sulphate",
         "icon": "fas fa-prescription-bottle-medical",
         "description": "Administering magnesium sulphate.",
-        "quiz": [],
+        "quiz": [
+  {
+    "question": "What is the general objective of the lecture on Magnesium Sulfate (MgSO4) administration?",
+    "options": {
+      "A": "To perform surgery",
+      "B": "To obtain knowledge regarding MgSO4 administration",
+      "C": "To diagnose kidney disease",
+      "D": "To prescribe antibiotics"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one of the specific objectives of the lecture?",
+    "options": {
+      "A": "To define Magnesium Sulfate (MgSO4)",
+      "B": "To administer general anesthesia",
+      "C": "To interpret X-rays",
+      "D": "To set bone fractures"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "How is Magnesium Sulfate (MgSO4) defined in the lecture?",
+    "options": {
+      "A": "An antibiotic",
+      "B": "The drug of choice recommended by WHO for treatment of severe pre-eclampsia and eclampsia",
+      "C": "A pain reliever",
+      "D": "A vitamin supplement"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one use of Magnesium Sulfate mentioned?",
+    "options": {
+      "A": "Lowering cholesterol",
+      "B": "Preventing seizures in women with severe preeclampsia",
+      "C": "Treating infections",
+      "D": "Increasing appetite"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one mechanism of action of MgSO4?",
+    "options": {
+      "A": "Increases acetylcholine release",
+      "B": "Decreases acetylcholine release, depressing the CNS and providing anticonvulsant action",
+      "C": "Stimulates heart rate",
+      "D": "Increases blood pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a contraindication for using Magnesium Sulfate?",
+    "options": {
+      "A": "Common cold",
+      "B": "Impaired renal function",
+      "C": "Headache",
+      "D": "Mild fever"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is listed as necessary equipment for MgSO4 administration?",
+    "options": {
+      "A": "Stethoscope only",
+      "B": "IV bottle of D5W or normal saline, IV stand, syringe, MgSO4 ampules, cannula, cotton with alcohol, label, urinary catheter, reflex hammer, calcium gluconate, infusion pump",
+      "C": "Bandages and gauze",
+      "D": "Thermometer and blood pressure cuff only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is assessed as part of the preparation before administering MgSO4?",
+    "options": {
+      "A": "Hair color",
+      "B": "Respiratory rate, deep tendon reflexes, and urine output",
+      "C": "Shoe size",
+      "D": "Favorite food"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the acceptable minimum respiratory rate before administration?",
+    "options": {
+      "A": "Not less than 10 cycles/min",
+      "B": "Not less than 16 cycles/min",
+      "C": "Not less than 20 cycles/min",
+      "D": "Not less than 25 cycles/min"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the acceptable minimum urine output?",
+    "options": {
+      "A": "Not less than 10 ml/hr",
+      "B": "Not less than 30 ml/hr",
+      "C": "Not less than 50 ml/hr",
+      "D": "Not less than 100 ml/hr"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is the initial dose of MgSO4 typically administered?",
+    "options": {
+      "A": "1-2 gm I.M.",
+      "B": "4-5 gm I.V. in 250 ml solution over 15-20 minutes",
+      "C": "10 gm orally",
+      "D": "20 gm I.V. push"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a maintenance dose option for MgSO4?",
+    "options": {
+      "A": "10 gm I.M. divided into 5 gm in each buttock",
+      "B": "5 gm I.V. push every hour",
+      "C": "20 gm orally every 4 hours",
+      "D": "1 gm I.M. once daily"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the maximum total dose of MgSO4 in 24 hours?",
+    "options": {
+      "A": "Should not exceed 10 gm",
+      "B": "Should not exceed 24 gm",
+      "C": "Should not exceed 50 gm",
+      "D": "Should not exceed 100 gm"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How often should vital signs be monitored during the loading dose?",
+    "options": {
+      "A": "Every hour",
+      "B": "Every 2 hours",
+      "C": "Every 5-15 minutes",
+      "D": "Every 30 minutes"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What should be assessed hourly during MgSO4 therapy?",
+    "options": {
+      "A": "Hair growth",
+      "B": "Urine output, deep tendon reflexes, edema",
+      "C": "Appetite",
+      "D": "Sleep pattern"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How often should serum magnesium levels be requested?",
+    "options": {
+      "A": "Every hour",
+      "B": "Every 2 hours",
+      "C": "Every 4 to 6 hours",
+      "D": "Once daily"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is a sign of MgSO4 toxicity related to reflexes?",
+    "options": {
+      "A": "Hyperactive reflexes",
+      "B": "Absence of deep tendon reflexes",
+      "C": "Normal reflexes",
+      "D": "Slow reflexes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "At what respiratory rate does respiratory depression occur as a sign of toxicity?",
+    "options": {
+      "A": "< 20 cycles/min",
+      "B": "< 16 cycles/min",
+      "C": "< 12 cycles/min",
+      "D": "< 8 cycles/min"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is a maternal side effect of MgSO4?",
+    "options": {
+      "A": "Increased energy",
+      "B": "Nausea",
+      "C": "Improved vision",
+      "D": "Weight gain"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a fetal side effect of MgSO4?",
+    "options": {
+      "A": "Increased fetal movement",
+      "B": "Decreased variability of fetal heart rate",
+      "C": "Higher birth weight",
+      "D": "Improved lung maturity"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the antidote for MgSO4 toxicity?",
+    "options": {
+      "A": "Vitamin C",
+      "B": "Calcium gluconate",
+      "C": "Sodium bicarbonate",
+      "D": "Epinephrine"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should calcium gluconate be administered as an antidote?",
+    "options": {
+      "A": "1 gm I.M. quickly",
+      "B": "1 gm I.V. slowly over 10 minutes",
+      "C": "5 gm orally",
+      "D": "10 gm I.V. push"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What position should the mother be placed in case of an adverse reaction?",
+    "options": {
+      "A": "Supine position",
+      "B": "Left lateral position",
+      "C": "Right lateral position",
+      "D": "Trendelenburg position"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done in case of any adverse reaction?",
+    "options": {
+      "A": "Increase the medication dose",
+      "B": "Stop medication and report to doctor",
+      "C": "Change the IV fluid only",
+      "D": "Ask the mother to walk around"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be recorded post-administration?",
+    "options": {
+      "A": "The mother's favorite color",
+      "B": "Dose, time of administration, and any signs of toxicity",
+      "C": "The weather",
+      "D": "The nurse's lunch break"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which department is responsible for this lecture?",
+    "options": {
+      "A": "Department of Surgery",
+      "B": "Woman's Health and Midwifery Nursing Department",
+      "C": "Department of Pediatrics",
+      "D": "Department of Cardiology"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "According to the document, what does MgSO4 inhibit?",
+    "options": {
+      "A": "Platelet aggregation",
+      "B": "Insulin secretion",
+      "C": "Gastric acid production",
+      "D": "Bone growth"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is another use of MgSO4 mentioned?",
+    "options": {
+      "A": "Treating diabetes",
+      "B": "Slowing or stopping premature labor",
+      "C": "Curing infections",
+      "D": "Reducing fever"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What level of serum magnesium causes cardiac depression?",
+    "options": {
+      "A": "> 5 mEq/L",
+      "B": "> 10 mEq/L",
+      "C": "> 15 mEq/L",
+      "D": "> 20 mEq/L"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -3525,6 +3845,7 @@
     }
   }
 }
+
 
 
 
