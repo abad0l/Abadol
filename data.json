@@ -2437,7 +2437,338 @@
         "title": "Gynecological assessment",
         "icon": "fas fa-file-medical",
         "description": "Performing a gynecological assessment.",
-        "quiz": [],
+        "quiz": [
+  {
+    "question": "What is the general objective of the lecture on gynecological assessment?",
+    "options": {
+      "A": "To perform surgical procedures",
+      "B": "To obtain knowledge regarding gynecological assessment",
+      "C": "To diagnose neurological disorders",
+      "D": "To prescribe psychiatric medication"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one of the specific objectives of the lecture?",
+    "options": {
+      "A": "To define gynecological assessment",
+      "B": "To administer chemotherapy",
+      "C": "To interpret brain scans",
+      "D": "To set broken bones"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "How is a gynecological examination defined?",
+    "options": {
+      "A": "An examination of the ears",
+      "B": "An examination of the female genitalia including inspection of external genitalia and speculum examination",
+      "C": "An examination of the male reproductive system",
+      "D": "A blood test only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one purpose of a vaginal examination?",
+    "options": {
+      "A": "To check vision",
+      "B": "To inspect external genitalia for signs of inflammation, swelling, bleeding, discharge, and skin changes",
+      "C": "To measure height",
+      "D": "To test hearing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one indication for a gynecological examination?",
+    "options": {
+      "A": "Common cold",
+      "B": "Abnormal bleeding",
+      "C": "Headache",
+      "D": "Back pain unrelated to pelvis"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is part of taking a gynecological history using the ABCD(I)F mnemonic?",
+    "options": {
+      "A": "Abdominal/pelvic pain",
+      "B": "Knee pain",
+      "C": "Elbow swelling",
+      "D": "Hair loss on scalp"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is included in the general examination?",
+    "options": {
+      "A": "Only checking weight",
+      "B": "General appearance, face and neck, chest, breasts, lower limbs, back",
+      "C": "Only listening to the heart",
+      "D": "Only checking blood pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a step in preparing the environment for the examination?",
+    "options": {
+      "A": "Leaving the door wide open",
+      "B": "Keeping privacy, closing window/door/curtain, ensuring adequate lighting",
+      "C": "Turning off all lights",
+      "D": "Having multiple people in the room"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done to prepare the woman for the examination?",
+    "options": {
+      "A": "Rush through the explanation",
+      "B": "Introduce yourself, explain the procedure, obtain informed consent, ask her to empty her bladder",
+      "C": "Skip obtaining consent",
+      "D": "Not inform her about the position"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why is a chaperone important during the examination?",
+    "options": {
+      "A": "To clean the equipment",
+      "B": "To provide emotional support and maintain professionalism",
+      "C": "To interpret the results",
+      "D": "To take notes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is inspected during the external genitalia examination?",
+    "options": {
+      "A": "The ears",
+      "B": "Hair distribution, vulval skin, perineum, labia, urethra",
+      "C": "The scalp",
+      "D": "The feet"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is an indication for a Cusco speculum examination?",
+    "options": {
+      "A": "Routine screening",
+      "B": "Checking blood sugar",
+      "C": "Assessing lung function",
+      "D": "Testing reflexes"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "How should a speculum be inserted?",
+    "options": {
+      "A": "Without warming it",
+      "B": "Inserted closed and obliquely",
+      "C": "Inserted open and vertically",
+      "D": "Without separating the labia"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is assessed during vaginal inspection?",
+    "options": {
+      "A": "Ulcers, cysts, inflammation, bleeding, discharge, dryness",
+      "B": "Bone density",
+      "C": "Liver size",
+      "D": "Heart sounds"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is examined during cervical inspection?",
+    "options": {
+      "A": "Size, type of cervical os, color, bleeding, erosion, discharge",
+      "B": "Length of fingers",
+      "C": "Color of eyes",
+      "D": "Shape of ears"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "When is a cervical smear typically taken?",
+    "options": {
+      "A": "During the abdominal examination",
+      "B": "During the speculum examination when the cervix is visualized",
+      "C": "After the examination is complete",
+      "D": "Before the patient arrives"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of a bimanual examination?",
+    "options": {
+      "A": "To examine the ears",
+      "B": "To assess the cervix, uterus, and adnexae",
+      "C": "To check knee reflexes",
+      "D": "To measure blood pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is assessed about the cervix during a bimanual examination?",
+    "options": {
+      "A": "Whether it is opened or closed, length, consistency, and tenderness",
+      "B": "Its color only",
+      "C": "Its smell",
+      "D": "Its temperature"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "How is the uterus assessed during a bimanual examination?",
+    "options": {
+      "A": "By listening with a stethoscope",
+      "B": "By palpating it between the vaginal fingers and the abdominal hand",
+      "C": "By looking at it directly",
+      "D": "By asking the patient to describe it"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does a retroverted uterus mean during palpation?",
+    "options": {
+      "A": "It is palpated with fingers in the anterior fornix",
+      "B": "It is palpated with fingers in the posterior fornix",
+      "C": "It cannot be palpated",
+      "D": "It is always enlarged"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What are normal-sized ovaries usually like upon palpation?",
+    "options": {
+      "A": "Easily palpable and very large",
+      "B": "Usually not palpable, about 2 cm in diameter, oval and firm",
+      "C": "Always tender",
+      "D": "Irregular in shape"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What might tenderness in the tubo-ovarian area indicate?",
+    "options": {
+      "A": "A healthy state",
+      "B": "PID, ectopic pregnancy, or ovarian cysts",
+      "C": "Normal ovulation",
+      "D": "Nothing significant"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of a rectovaginal examination?",
+    "options": {
+      "A": "To check the stomach",
+      "B": "To assess structures between the vagina and rectum",
+      "C": "To examine the bladder only",
+      "D": "To test for allergies"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is a rectovaginal examination performed?",
+    "options": {
+      "A": "With one ungloved finger",
+      "B": "By inserting a lubricated index finger into the vagina and a middle finger into the rectum",
+      "C": "Without lubricant",
+      "D": "Using a speculum"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a post-procedure step?",
+    "options": {
+      "A": "Leaving the patient on the table",
+      "B": "Helping her off the table, removing equipment, removing gloves, washing hands, documenting",
+      "C": "Throwing gloves on the floor",
+      "D": "Not documenting anything"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be documented after the examination?",
+    "options": {
+      "A": "The weather",
+      "B": "Vulva and vagina, cervix, uterus, adnexae, any additional significant findings",
+      "C": "The nurse's personal thoughts",
+      "D": "The time of day only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which component is NOT part of the gynecological examination as listed?",
+    "options": {
+      "A": "History taking",
+      "B": "General examination",
+      "C": "Abdominal examination",
+      "D": "Dental examination"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What does the acronym ABCD(I)F stand for in gynecological history taking?",
+    "options": {
+      "A": "A different medical system",
+      "B": "Abdominal/pelvic pain, Bleeding, Contraception, Discharge and itch, Incontinence and prolapse, Fertility & Infertility",
+      "C": "A list of medications",
+      "D": "Names of bones"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is assessed during the abdominal examination?",
+    "options": {
+      "A": "Only inspection",
+      "B": "Inspection, auscultation, palpation, percussion",
+      "C": "Only palpation",
+      "D": "Only percussion"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What position is the patient typically in for the pelvic examination?",
+    "options": {
+      "A": "Standing",
+      "B": "Lithotomy or modified dorsal position",
+      "C": "Prone position",
+      "D": "Sitting upright"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -3845,6 +4176,7 @@
     }
   }
 }
+
 
 
 
