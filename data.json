@@ -772,7 +772,338 @@
         "title": "Deep Tendon Reflex Assessment",
         "icon": "fas fa-hammer",
         "description": "Assessment of deep tendon reflexes (DTRs).",
-        "quiz": [],
+        "quiz": [
+  {
+    "question": "What is the primary definition of a Deep Tendon Reflex (DTR)?",
+    "options": {
+      "A": "A voluntary muscle contraction in response to a command.",
+      "B": "An involuntary reaction of a muscle to being passively stretched by percussion of the tendon.",
+      "C": "A test for muscle strength against resistance.",
+      "D": "An assessment of sensory nerve function."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Deep tendon reflexes provide information about the integrity of which parts of the nervous system?",
+    "options": {
+      "A": "Only sensory nerves",
+      "B": "Upper and lower motor neurons",
+      "C": "The autonomic nervous system only",
+      "D": "The cranial nerves exclusively"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What are tendons?",
+    "options": {
+      "A": "Connective tissues that attach bone to bone.",
+      "B": "Connective tissues that attach a muscle to other body parts, usually bones.",
+      "C": "Tissues that connect nerves to muscles.",
+      "D": "The protective coverings of joints."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is a key indication for DTR assessment in obstetric care?",
+    "options": {
+      "A": "To diagnose fetal heart abnormalities",
+      "B": "To determine the need for, evaluate the efficacy of, and prevent toxicity from magnesium therapy",
+      "C": "To assess for gestational diabetes",
+      "D": "To check for cervical dilation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "DTR assessment is specifically indicated for which group of patients?",
+    "options": {
+      "A": "All pregnant women in their first trimester",
+      "B": "Women with a history of asthma",
+      "C": "Pre-eclamptic women",
+      "D": "Postpartum women only"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following conditions is NOT listed as an indication for DTR assessment?",
+    "options": {
+      "A": "Spinal cord injury",
+      "B": "Multiple sclerosis",
+      "C": "Common cold",
+      "D": "Peripheral nerve injury"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is a fundamental principle for performing a DTR assessment?",
+    "options": {
+      "A": "The mother's muscles should be tensed and contracted.",
+      "B": "The mother should be standing upright.",
+      "C": "The muscles must be relaxed to successfully elicit the DTR response.",
+      "D": "The assessment should be done quickly without explanation."
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the recommended position for the woman's legs during the assessment?",
+    "options": {
+      "A": "Legs should be fully extended and straight.",
+      "B": "Legs hanging freely over the end of the table, or lying on her side with knees slightly flexed.",
+      "C": "Legs should be crossed.",
+      "D": "The position of the legs does not matter."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the primary piece of equipment needed for a Deep Tendon Reflex assessment?",
+    "options": {
+      "A": "Stethoscope",
+      "B": "Reflex hammer",
+      "C": "Blood pressure cuff",
+      "D": "Tuning fork"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "In the procedure, where is the blow with the percussion hammer dealt to test the patellar reflex?",
+    "options": {
+      "A": "Directly to the kneecap (patella)",
+      "B": "To the hamstring muscle at the back of the knee",
+      "C": "Directly to the patellar tendon, inferior to the patella",
+      "D": "To the shin bone (tibia)"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which spinal cord levels are primarily involved in the patellar (knee jerk) reflex?",
+    "options": {
+      "A": "C5-C6",
+      "B": "L2-L4",
+      "C": "S1-S2",
+      "D": "T8-T10"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is the biceps reflex tested?",
+    "options": {
+      "A": "By tapping the triceps tendon at the elbow.",
+      "B": "By placing the thumb across the biceps tendon in the antecubital space and tapping the thumb.",
+      "C": "By having the mother flex her elbow against resistance.",
+      "D": "By tapping directly on the biceps muscle."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does a reflex score of \"+2\" indicate?",
+    "options": {
+      "A": "Reflex absent",
+      "B": "Reflex hypoactive (diminished)",
+      "C": "Normal reflex",
+      "D": "Reflex hyperactive (brisk)"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does a reflex score of \"0\" indicate?",
+    "options": {
+      "A": "Normal reflex",
+      "B": "Reflex hyperactive",
+      "C": "Reflex absent",
+      "D": "Clonus present"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "A score of \"+4\" on the reflex scale indicates the presence of what?",
+    "options": {
+      "A": "Hypoactive reflex",
+      "B": "Normal reflex",
+      "C": "Hyperactive reflex",
+      "D": "Clonus"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What is the definition of a positive (abnormal) clonus response?",
+    "options": {
+      "A": "No movement is felt when the foot is dorsiflexed.",
+      "B": "Rhythmic oscillations (jerking) are felt and seen when the foot is dorsiflexed and then released.",
+      "C": "The foot immediately returns to a neutral position.",
+      "D": "A single, sharp dorsiflexion is maintained."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When checking for clonus, what action does the examiner perform?",
+    "options": {
+      "A": "Gently plantar flexes the foot.",
+      "B": "Sharply dorsiflexes the foot and maintains slight pressure before releasing.",
+      "C": "Taps the Achilles tendon with a hammer.",
+      "D": "Massages the calf muscle."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What muscles are observed for rhythmic contraction and relaxation during a clonus test?",
+    "options": {
+      "A": "Quadriceps and hamstrings",
+      "B": "Gastrocnemius and soleus",
+      "C": "Biceps and triceps",
+      "D": "Deltoid and pectoralis"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the final step in the DTR assessment procedure?",
+    "options": {
+      "A": "Immediately report abnormal findings to the physician without informing the mother.",
+      "B": "Record findings, remove equipment, wash hands, and reassure the mother.",
+      "C": "Have the mother walk around to test for stability.",
+      "D": "Apply a cold compress to the tested area."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why is it important to compare current DTR findings with previously recorded ones?",
+    "options": {
+      "A": "To determine if the reflex hammer is working properly.",
+      "B": "To identify any changes or trends in the mother's neurological status.",
+      "C": "To calculate the correct dosage of pain medication.",
+      "D": "To satisfy hospital documentation requirements only."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is part of preparing the mother for the procedure?",
+    "options": {
+      "A": "Asking her to tense all her muscles.",
+      "B": "Explaining the procedure and reassuring her.",
+      "C": "Performing the test without any prior explanation to avoid anxiety.",
+      "D": "Telling her the test will be very painful."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "A \"hyperactive\" reflex, scored as +3, is characterized by:",
+    "options": {
+      "A": "No response.",
+      "B": "A diminished or sluggish response.",
+      "C": "A brisk response where the foot is sharply dorsiflexed and the position is maintained for a moment.",
+      "D": "Continuous rhythmic oscillations."
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does the term \"hypoactive\" reflex mean?",
+    "options": {
+      "A": "The reflex is stronger than normal.",
+      "B": "The reflex is absent.",
+      "C": "The reflex is diminished or weaker than normal.",
+      "D": "The reflex causes clonus."
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "The biceps reflex provides information about nerves arising from which spinal cord levels?",
+    "options": {
+      "A": "L4-S1",
+      "B": "C5-C6",
+      "C": "T1-T2",
+      "D": "L2-L4"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "In the context of magnesium sulfate (MgSO4) therapy, why is DTR assessment crucial?",
+    "options": {
+      "A": "To see if the mother is allergic to magnesium.",
+      "B": "To evaluate for hypo-reflexia, which can be a sign of magnesium toxicity.",
+      "C": "To stimulate uterine contractions.",
+      "D": "To assess fetal well-being indirectly."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which statement best describes the role of the sensory neuron in a stretch reflex arc?",
+    "options": {
+      "A": "It carries the motor command from the spinal cord to the muscle.",
+      "B": "It detects the stretch in the muscle tendon and carries the signal to the spinal cord.",
+      "C": "It inhibits the opposing muscle group.",
+      "D": "It connects directly to the brain for conscious perception."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the correct sequence for testing clonus?",
+    "options": {
+      "A": "Plantar flex the foot, release, and observe.",
+      "B": "Dorsiflex the foot sharply, maintain pressure, release, and observe for oscillations.",
+      "C": "Tap the Achilles tendon and count the number of twitches.",
+      "D": "Have the mother voluntarily contract and relax her calf muscle."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "A normal (negative) clonus test is characterized by:",
+    "options": {
+      "A": "One or two beats of oscillation before the foot drops.",
+      "B": "No rhythmic oscillations felt or seen as the foot drops to plantar flexion.",
+      "C": "Sustained dorsiflexion for over 10 seconds.",
+      "D": "Pain in the calf muscle upon dorsiflexion."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "After explaining the procedure, what is the next step in the DTR assessment?",
+    "options": {
+      "A": "Locate the tendon and corresponding muscle to be tested.",
+      "B": "Immediately begin tapping the tendon.",
+      "C": "Have the mother sign a consent form.",
+      "D": "Administer a sedative if the mother is anxious."
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the overarching goal of the DTR assessment in the provided context?",
+    "options": {
+      "A": "To diagnose specific psychiatric conditions.",
+      "B": "To obtain knowledge and perform a neurological assessment, particularly in the context of pre-eclampsia and magnesium therapy.",
+      "C": "To assess for bone fractures.",
+      "D": "To evaluate cardiovascular health."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -2212,5 +2543,6 @@
     }
   }
 }
+
 
 
