@@ -756,7 +756,338 @@
         "title": "Urine analysis (albumin, acetone, sugar)",
         "icon": "fas fa-flask",
         "description": "Urine analysis for albumin, acetone, and sugar.",
-        "quiz": [],
+        "quiz": [
+  {
+    "question": "What is the definition of urine analysis according to the lecture?",
+    "options": {
+      "A": "A test done to analyze blood",
+      "B": "A group of physical, chemical, and microscopic exams",
+      "C": "A visual exam of skin color",
+      "D": "A test for measuring blood pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one of the specific objectives of the lecture?",
+    "options": {
+      "A": "To perform a surgical procedure",
+      "B": "To define urine analysis",
+      "C": "To administer intravenous medication",
+      "D": "To conduct a physical therapy session"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which department is responsible for this lecture on urine analysis?",
+    "options": {
+      "A": "Department of Surgery",
+      "B": "Department of Pediatrics",
+      "C": "Woman's Health and Midwifery Nursing Department",
+      "D": "Department of Cardiology"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is checked during the microscopic exam of urine?",
+    "options": {
+      "A": "Color and clarity",
+      "B": "Protein and glucose",
+      "C": "Cells, crystals, casts, and bacteria",
+      "D": "Blood pressure and heart rate"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the first step in the preparation for urine analysis?",
+    "options": {
+      "A": "Putting on sterile gloves",
+      "B": "Hand washing",
+      "C": "Preparing the bedpan",
+      "D": "Opening the urine container"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which equipment is needed for urine analysis?",
+    "options": {
+      "A": "Stethoscope and thermometer",
+      "B": "Urine dipsticks, disposable towel, bedpan, sterile container, clean gloves",
+      "C": "Syringe and needle",
+      "D": "Blood pressure cuff and otoscope"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the urine sample be collected?",
+    "options": {
+      "A": "First few drops of the stream",
+      "B": "Last few drops of the stream",
+      "C": "Mid-stream catch",
+      "D": "Random sample at any time"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done after immersing the reagent strip in urine?",
+    "options": {
+      "A": "Leave it in for 5 minutes",
+      "B": "Shake it vigorously",
+      "C": "Remove it immediately and tap it gently",
+      "D": "Rinse it with water"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "How long should you wait before reading the reagent strip?",
+    "options": {
+      "A": "5-10 seconds",
+      "B": "30-60 seconds",
+      "C": "2-3 minutes",
+      "D": "10-15 minutes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the reagent strip result be interpreted?",
+    "options": {
+      "A": "By tasting the strip",
+      "B": "By comparing its color with the color chart on the container",
+      "C": "By measuring its length",
+      "D": "By weighing it on a scale"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a post-procedure task?",
+    "options": {
+      "A": "Discard urine, remove gloves, perform hand hygiene",
+      "B": "Give the patient medication",
+      "C": "Serve the patient food",
+      "D": "Schedule a surgery"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What does the presence of glucose in urine before 20 weeks of gestation indicate?",
+    "options": {
+      "A": "Gestational diabetes",
+      "B": "Pre-eclampsia",
+      "C": "DM (Diabetes Mellitus)",
+      "D": "UTI (Urinary Tract Infection)"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does the presence of protein in urine after 20 weeks of gestation suggest?",
+    "options": {
+      "A": "Renal disorder",
+      "B": "Pre-eclampsia",
+      "C": "DM (Diabetes Mellitus)",
+      "D": "Dehydration"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does the presence of bacteria in urine after 20 weeks of gestation indicate?",
+    "options": {
+      "A": "DM (Diabetes Mellitus)",
+      "B": "Pre-eclampsia",
+      "C": "UTI (Urinary Tract Infection)",
+      "D": "Dehydration"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "According to the lecture, what is an indication for urine analysis related to abnormalities?",
+    "options": {
+      "A": "To check for glycosuria",
+      "B": "To measure height and weight",
+      "C": "To assess vision",
+      "D": "To test hearing"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is one indication mentioned for urine analysis?",
+    "options": {
+      "A": "To check for pitting edema",
+      "B": "To confirm pregnancy",
+      "C": "To diagnose heart disease",
+      "D": "To evaluate liver function tests"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be documented after the procedure?",
+    "options": {
+      "A": "The patient's favorite color",
+      "B": "The findings of the test",
+      "C": "The weather conditions",
+      "D": "The nurse's lunch break"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of obtaining the woman's consent?",
+    "options": {
+      "A": "To explain the steps in the procedure",
+      "B": "To charge her for the test",
+      "C": "To schedule another appointment",
+      "D": "To administer anesthesia"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done with the urine sample container after use?",
+    "options": {
+      "A": "Reuse it for the next patient",
+      "B": "Wash it and put it away",
+      "C": "Discard it appropriately",
+      "D": "Return it to the manufacturer"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does the chemical exam of urine primarily provide information about?",
+    "options": {
+      "A": "The patient's diet",
+      "B": "Certain diseases",
+      "C": "The patient's exercise routine",
+      "D": "Family medical history"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which university faculty is associated with this lecture?",
+    "options": {
+      "A": "Faculty of Engineering",
+      "B": "Faculty of Medicine",
+      "C": "Faculty of Nursing",
+      "D": "Faculty of Law"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the name of the university mentioned?",
+    "options": {
+      "A": "Cairo University",
+      "B": "Mansoura National University",
+      "C": "Alexandria University",
+      "D": "Ain Shams University"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the correct sequence in the procedure steps?",
+    "options": {
+      "A": "Document, then collect sample",
+      "B": "Collect sample, then immerse strip, then compare colors",
+      "C": "Compare colors, then discard urine",
+      "D": "Remove gloves, then hand wash"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What might protein in urine before 20 weeks of gestation indicate?",
+    "options": {
+      "A": "Gestational diabetes",
+      "B": "Pre-eclampsia",
+      "C": "Renal disorder",
+      "D": "UTI"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What might glucose in urine after 20 weeks of gestation indicate?",
+    "options": {
+      "A": "DM",
+      "B": "Gestational diabetes",
+      "C": "Renal disorder",
+      "D": "Dehydration"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does the presence of ketones in urine generally indicate?",
+    "options": {
+      "A": "Not specified in the table",
+      "B": "Always indicates UTI",
+      "C": "Always indicates pre-eclampsia",
+      "D": "Always indicates DM"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the final action after recording findings?",
+    "options": {
+      "A": "Thank the patient",
+      "B": "Start a new test",
+      "C": "Not specified in the document",
+      "D": "Give the patient a gift"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the brand name of the test strip mentioned?",
+    "options": {
+      "A": "One Step",
+      "B": "Quick Test",
+      "C": "Rapid Check",
+      "D": "Fast Dip"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the document's title?",
+    "options": {
+      "A": "Blood Analysis",
+      "B": "Urine Analysis",
+      "C": "Stool Analysis",
+      "D": "Saliva Analysis"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the main focus of the lecture's interpretation section?",
+    "options": {
+      "A": "Normal findings",
+      "B": "Abnormal findings",
+      "C": "Equipment maintenance",
+      "D": "Patient demographics"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -2863,6 +3194,7 @@
     }
   }
 }
+
 
 
 
