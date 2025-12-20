@@ -269,7 +269,470 @@
         "title": "Daily fetal movement count",
         "icon": "fas fa-person-running",
         "description": "Counting daily fetal movements.",
-        "quiz": [],
+        "quiz": [
+  {
+    "question": "What is the main purpose of fetal movement counting (kick counting)?",
+    "options": {
+      "A": "To predict the exact delivery date",
+      "B": "To assess the health and well-being of the fetus",
+      "C": "To determine the fetal gender",
+      "D": "To measure maternal blood pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "During which weeks of pregnancy do primigravida women typically first become aware of fetal movements?",
+    "options": {
+      "A": "10-12 weeks",
+      "B": "15-17 weeks",
+      "C": "18-20 weeks",
+      "D": "24-26 weeks"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "At approximately which week of gestation do fetal movements usually peak?",
+    "options": {
+      "A": "24 weeks",
+      "B": "28 weeks",
+      "C": "32 weeks",
+      "D": "36 weeks"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "For which type of fetus is kick counting NOT typically indicated as per the document?",
+    "options": {
+      "A": "The healthy fetus",
+      "B": "The structurally normal fetus but at risk",
+      "C": "The anomalous fetus",
+      "D": "All of the above are indications"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "Why is fetal kick counting considered a valuable monitoring technique?",
+    "options": {
+      "A": "It is the simplest and least expensive technique for monitoring fetal well-being in the second half of pregnancy.",
+      "B": "It requires expensive hospital-grade monitoring devices.",
+      "C": "It can replace all other forms of antenatal testing.",
+      "D": "It is only useful for diagnosing fetal anomalies."
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is listed as a factor that can affect the perception of fetal movement?",
+    "options": {
+      "A": "Posterior placental localization",
+      "B": "Increased maternal weight",
+      "C": "Maternal age over 35",
+      "D": "Fetal gender"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "According to the principles of fetal kick count, what should a mother do before starting the count?",
+    "options": {
+      "A": "Eat a heavy meal",
+      "B": "Drink a glass of juice",
+      "C": "Take a sleeping pill",
+      "D": "Engage in strenuous exercise"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the recommended maternal position for performing a fetal kick count?",
+    "options": {
+      "A": "Standing upright",
+      "B": "Lying flat on the back (supine)",
+      "C": "Sitting with feet up or lying on the left side",
+      "D": "Kneeling on all fours"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "In the \"Count-to-ten\" or Cardiff method, what is the normal criterion?",
+    "options": {
+      "A": "At least 4 movements in 1 hour",
+      "B": "At least 10 movements within a 12-hour period",
+      "C": "At least 10 movements within a 2-hour period",
+      "D": "At least 15 movements per day"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What action is recommended if fewer than 10 movements are perceived in 12 hours using the Cardiff method?",
+    "options": {
+      "A": "Consider it normal and repeat tomorrow.",
+      "B": "Further medical evaluation is needed.",
+      "C": "Switch to counting only once a week.",
+      "D": "Immediately go to the emergency room."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How many times per day does the Sadovsky method involve counting fetal movements?",
+    "options": {
+      "A": "Once",
+      "B": "Twice",
+      "C": "Three times",
+      "D": "Every hour"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "According to the Sadovsky method, what is the normal number of movements expected per counting hour?",
+    "options": {
+      "A": "1-2 movements",
+      "B": "4-5 movements",
+      "C": "10 movements",
+      "D": "12 movements"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "The Sadovsky method recommends further investigation if there are less than how many fetal movements in an hour?",
+    "options": {
+      "A": "10",
+      "B": "5",
+      "C": "4",
+      "D": "3"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "For how long does the Rayburn method involve counting movements in one session?",
+    "options": {
+      "A": "30 minutes",
+      "B": "1 hour",
+      "C": "2 hours",
+      "D": "12 hours"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "In the Rayburn method, what is the normal expected count within the 2-hour period?",
+    "options": {
+      "A": "At least 3 movements",
+      "B": "At least 5 movements",
+      "C": "At least 10 movements",
+      "D": "At least 15 movements"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the first step a nurse should take when preparing to instruct a mother on kick counting?",
+    "options": {
+      "A": "Prepare the equipment",
+      "B": "Hand washing",
+      "C": "Explain the procedure",
+      "D": "Close the windows"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When preparing the environment for the kick count, what should the nurse do?",
+    "options": {
+      "A": "Open windows for ventilation.",
+      "B": "Keep privacy and close windows.",
+      "C": "Ensure the television is on for distraction.",
+      "D": "Have bright overhead lights on."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should the mother be instructed to do just before starting the count?",
+    "options": {
+      "A": "Have a large meal",
+      "B": "Empty her bladder",
+      "C": "Take a warm bath",
+      "D": "Walk around for 20 minutes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "During the count, what should the mother concentrate on?",
+    "options": {
+      "A": "Relaxing music",
+      "B": "Her own breathing patterns",
+      "C": "Fetal movements, counting them",
+      "D": "The time passing"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "When should the mother stop counting in a typical \"count-to-ten\" session?",
+    "options": {
+      "A": "After 1 hour has passed",
+      "B": "After she feels 5 movements",
+      "C": "After she feels 10 movements",
+      "D": "When she gets tired"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What information should be documented after completing the fetal kick count?",
+    "options": {
+      "A": "Maternal heart rate and blood pressure",
+      "B": "Date, time started, time completed, and number of movements",
+      "C": "Fetal heart rate from a Doppler",
+      "D": "Mother's weight gain that week"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When should the mother call her healthcare provider immediately?",
+    "options": {
+      "A": "If she feels 10 movements in 30 minutes.",
+      "B": "If she doesn't feel 10 movements within 2 hours.",
+      "C": "If the fetus is more active than the day before.",
+      "D": "If she feels hungry after the count."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Another reason to contact the provider is if the mother notices what change over several days?",
+    "options": {
+      "A": "A significant deviation from the baby's usual movement pattern over 3-4 days.",
+      "B": "The baby is most active in the evening.",
+      "C": "Movements feel stronger.",
+      "D": "It takes 45 minutes to feel 10 movements."
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "In late pregnancy, distinct kicks often decrease and are replaced by what?",
+    "options": {
+      "A": "More frequent hiccups",
+      "B": "Stronger, more painful kicks",
+      "C": "Slow squirming movements",
+      "D": "No movement at all for long periods"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Fetal movement counting evaluates well-being and requires appropriate development of which fetal systems?",
+    "options": {
+      "A": "Digestive and respiratory systems",
+      "B": "Osseous, neurological, and muscular systems",
+      "C": "Circulatory and endocrine systems",
+      "D": "Renal and hepatic systems"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What simple action can help ensure the fetus is awake before counting begins?",
+    "options": {
+      "A": "Drinking ice water",
+      "B": "Gently patting or rubbing the belly",
+      "C": "Shining a flashlight on the abdomen",
+      "D": "Playing loud music"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "According to the document, fetal biological rhythms suggest the fetus is often most active when?",
+    "options": {
+      "A": "In the early morning",
+      "B": "Around noon",
+      "C": "In the evening",
+      "D": "After midnight"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What qualifies as one \"movement\" to be counted?",
+    "options": {
+      "A": "Only strong, painful kicks",
+      "B": "Each kick, position change, or rolling motion",
+      "C": "Only movements visible from the outside",
+      "D": "Movements that last more than 10 seconds"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "According to the chart instructions, what should the mother do if she hasn't marked 10 kicks in 2 hours?",
+    "options": {
+      "A": "Go to sleep and try again tomorrow.",
+      "B": "Call her doctor or healthcare provider.",
+      "C": "Assume the baby is in a deep sleep cycle.",
+      "D": "Start counting for a 12-hour period instead."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "During which trimester is daily fetal movement count most routinely recommended?",
+    "options": {
+      "A": "First trimester",
+      "B": "Second trimester",
+      "C": "Third trimester",
+      "D": "It is recommended equally in all trimesters"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is a potential serious implication of undetected decreased fetal movement?",
+    "options": {
+      "A": "Maternal gestational diabetes",
+      "B": "Fetal distress that may go unrecognized",
+      "C": "Increased risk of maternal infection",
+      "D": "Early onset of maternal labor"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "For fetal kick counting to be effective, what does the conclusion state is essential?",
+    "options": {
+      "A": "Access to daily ultrasound",
+      "B": "Consistent education and support for the mother",
+      "C": "An anteriorly located placenta",
+      "D": "The mother having a medical background"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which counting method involves measuring the time it takes to reach a fixed number of movements?",
+    "options": {
+      "A": "Sadovsky Method",
+      "B": "Rayburn Method",
+      "C": "Cardiff Method (\"Count-to-ten\")",
+      "D": "Pearson Method"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "In the Rayburn method, what finding necessitates further evaluation?",
+    "options": {
+      "A": "Less than 10 movements in 2 hours.",
+      "B": "Less than 3 movements per hour for 2 consecutive hours.",
+      "C": "More than 15 movements in 2 hours.",
+      "D": "The count taking 30 minutes."
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should the mother use to record her kick counts?",
+    "options": {
+      "A": "Rely solely on her memory",
+      "B": "A special form or a blank sheet of paper",
+      "C": "A dedicated smartphone app (only)",
+      "D": "Tell her partner to remember the count"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the nurse's primary role in the fetal kick count procedure?",
+    "options": {
+      "A": "To perform the count for the mother",
+      "B": "To instruct, educate, and support the mother in performing the count herself",
+      "C": "To interpret the results and make a diagnosis",
+      "D": "To administer sedatives if the mother is anxious"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "The occurrence of fetal movements is dependent on adequate oxygenation, nutrition, and what else?",
+    "options": {
+      "A": "The mother's emotional state",
+      "B": "The time of year",
+      "C": "Appropriate fetal system development",
+      "D": "The mother's level of exercise"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "A \"significant deviation from the pattern\" that warrants a call to the provider refers to a change in what?",
+    "options": {
+      "A": "The mother's urinary frequency",
+      "B": "The usual frequency or strength of fetal movements",
+      "C": "The mother's appetite",
+      "D": "The color of the mother's urine"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "The main goal of empowering mothers through kick counting is to enable them to do what?",
+    "options": {
+      "A": "Diagnose specific fetal abnormalities",
+      "B": "Actively participate in recognizing changes that may indicate complications",
+      "C": "Schedule their induction of labor",
+      "D": "Reduce the total number of required prenatal visits"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of these is NOT listed as a factor affecting fetal movement (FM)?",
+    "options": {
+      "A": "Fetal sleep",
+      "B": "Maternal blood type",
+      "C": "Oligohydramnios",
+      "D": "Smoking"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does the abbreviation \"FM\" stand for in this context?",
+    "options": {
+      "A": "Fetal Monitoring",
+      "B": "Fetal Movement",
+      "C": "Fetal Mass",
+      "D": "Fetal Maturity"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "According to the introduction, what is maternal perception of fetal movements considered?",
+    "options": {
+      "A": "The newest technological method",
+      "B": "The oldest method of evaluating fetal well-being",
+      "C": "An unreliable method",
+      "D": "A method only for high-risk pregnancies"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -1749,4 +2212,5 @@
     }
   }
 }
+
 
