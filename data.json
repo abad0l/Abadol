@@ -1778,7 +1778,338 @@
         "title": "Assessment of the pelvic floor muscle",
         "icon": "fas fa-weight-scale",
         "description": "Assessing pelvic floor muscles.",
-        "quiz": [],
+        "quiz": [
+  {
+    "question": "What is the general objective of the lecture on pelvic floor muscle assessment?",
+    "options": {
+      "A": "To perform surgery",
+      "B": "To obtain knowledge regarding pelvic floor muscle assessment",
+      "C": "To diagnose heart conditions",
+      "D": "To prescribe medication"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one of the specific objectives of the lecture?",
+    "options": {
+      "A": "To define pelvic floor muscles",
+      "B": "To administer anesthesia",
+      "C": "To conduct a blood test",
+      "D": "To interpret an ECG"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the definition of pelvic floor muscles?",
+    "options": {
+      "A": "Muscles in the upper back",
+      "B": "A group of muscles that stretch like a hammock across the bottom of the pelvis",
+      "C": "Muscles in the legs",
+      "D": "Muscles in the arms"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What organs do the pelvic floor muscles support?",
+    "options": {
+      "A": "Heart and lungs",
+      "B": "Liver and spleen",
+      "C": "Bladder, uterus, and rectum",
+      "D": "Stomach and intestines"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is one purpose of pelvic floor muscle assessment?",
+    "options": {
+      "A": "To measure blood pressure",
+      "B": "To detect muscle weakness, overactivity, or dysfunction",
+      "C": "To check vision",
+      "D": "To assess hearing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is listed as equipment for the assessment?",
+    "options": {
+      "A": "Stethoscope",
+      "B": "Examination gloves, tissue, water-based lubricant",
+      "C": "Blood pressure cuff",
+      "D": "Thermometer"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the first step in the procedure?",
+    "options": {
+      "A": "Put on gloves",
+      "B": "Prepare the equipment and place it on a tray",
+      "C": "Ask the woman to cough",
+      "D": "Insert fingers into the vagina"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done before the procedure regarding the bladder?",
+    "options": {
+      "A": "Ask the woman to drink water",
+      "B": "Ask the woman to empty her bladder",
+      "C": "Catheterize the woman",
+      "D": "Nothing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the woman's privacy be maintained?",
+    "options": {
+      "A": "By having family members present",
+      "B": "By closing the window and only removing underwear from the waist down",
+      "C": "By conducting the exam in a public area",
+      "D": "By not explaining the procedure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should the client be asked to do while the vulva is being observed?",
+    "options": {
+      "A": "To hold her breath",
+      "B": "To cough",
+      "C": "To sing a song",
+      "D": "To stand up"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the examiner's fingers be inserted into the vagina?",
+    "options": {
+      "A": "Without lubricant",
+      "B": "Using a small amount of water-based lubricant",
+      "C": "Using oil-based lubricant",
+      "D": "Using soap and water"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the fingers be positioned inside the vagina during assessment?",
+    "options": {
+      "A": "Held together",
+      "B": "Separated in a scissor fashion, side to side and top to bottom",
+      "C": "Moved in a circular motion",
+      "D": "Kept completely still"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the woman asked to do with her pelvic floor muscles during the assessment?",
+    "options": {
+      "A": "To relax them completely",
+      "B": "To contract them to try to squeeze the examiner's fingers together",
+      "C": "To push down as if having a bowel movement",
+      "D": "To keep them neutral"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "According to the modified Oxford grading scale, what does a grade of 0 indicate?",
+    "options": {
+      "A": "A strong PFM contraction",
+      "B": "A moderate PFM contraction",
+      "C": "No discernible PFM contraction",
+      "D": "A very weak PFM contraction"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does a grade of 5 on the modified Oxford scale indicate?",
+    "options": {
+      "A": "No contraction",
+      "B": "A weak contraction",
+      "C": "A moderate contraction",
+      "D": "A strong contraction"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done with the gloves after the procedure?",
+    "options": {
+      "A": "Reuse them",
+      "B": "Remove, discard, and wash hands properly",
+      "C": "Wash and store them",
+      "D": "Give them to the patient"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be offered to the woman after completion of the examination?",
+    "options": {
+      "A": "A glass of water",
+      "B": "A tissue to wipe the vulva",
+      "C": "Medication",
+      "D": "A snack"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Where should the grade and observations be recorded?",
+    "options": {
+      "A": "On a separate notepad",
+      "B": "In the woman's profile",
+      "C": "On the examiner's glove",
+      "D": "Verbally told to the woman"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is recommended for a woman whose pelvic floor muscle tone is graded as 4-5?",
+    "options": {
+      "A": "Further assessment",
+      "B": "To continue regular pelvic floor muscle exercises",
+      "C": "An exercise regime and reassessment appointment",
+      "D": "Surgery"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is recommended for a woman whose pelvic floor muscle tone is graded as 3?",
+    "options": {
+      "A": "Further assessment",
+      "B": "To continue regular exercises",
+      "C": "An exercise regime and an appointment for reassessment",
+      "D": "No action needed"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is recommended for a woman whose pelvic floor muscle tone is graded as 0-2?",
+    "options": {
+      "A": "To continue regular exercises",
+      "B": "An exercise regime and reassessment",
+      "C": "Further assessment",
+      "D": "Discharge with no follow-up"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What should be provided to the woman at the end of the session?",
+    "options": {
+      "A": "A prescription for medication",
+      "B": "Appropriate written information on pelvic floor exercises and healthy bladder habits",
+      "C": "A referral for surgery",
+      "D": "A bill for the service"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one thing the pelvic floor muscles help control?",
+    "options": {
+      "A": "Heart rate",
+      "B": "Breathing",
+      "C": "Urination",
+      "D": "Eye movement"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is assessed during the pelvic floor muscle assessment besides strength?",
+    "options": {
+      "A": "Endurance and coordination",
+      "B": "Blood sugar levels",
+      "C": "Lung capacity",
+      "D": "Bone density"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the position of the client during the procedure?",
+    "options": {
+      "A": "Standing",
+      "B": "Positioned on a couch and covered",
+      "C": "Walking around",
+      "D": "Sitting in a chair"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done with the light in the room?",
+    "options": {
+      "A": "Turned off",
+      "B": "Positioned and turned on",
+      "C": "Covered with a cloth",
+      "D": "Nothing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should the examiner do before putting on gloves?",
+    "options": {
+      "A": "Eat a meal",
+      "B": "Wash and dry hands",
+      "C": "Touch other surfaces",
+      "D": "Skip hand hygiene"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is inspected during the external examination?",
+    "options": {
+      "A": "The ears",
+      "B": "The vulva and external genitalia",
+      "C": "The scalp",
+      "D": "The feet"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is observed for any abnormality?",
+    "options": {
+      "A": "Vulva, vaginal introitus, perineum, and anus",
+      "B": "Elbows and knees",
+      "C": "Hair and nails",
+      "D": "Chest and back"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "According to the document, what is the name of the university?",
+    "options": {
+      "A": "Cairo University",
+      "B": "Mansoura National University",
+      "C": "Alexandria University",
+      "D": "Kenhub University"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -3194,6 +3525,7 @@
     }
   }
 }
+
 
 
 
