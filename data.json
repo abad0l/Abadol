@@ -2081,32 +2081,10 @@
         "description": "Assessing pelvic floor muscles.",
         "quiz": [
   {
-    "question": "What is the general objective of the lecture on pelvic floor muscle assessment?",
-    "options": {
-      "A": "To perform surgery",
-      "B": "To obtain knowledge regarding pelvic floor muscle assessment",
-      "C": "To diagnose heart conditions",
-      "D": "To prescribe medication"
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "What is one of the specific objectives of the lecture?",
-    "options": {
-      "A": "To define pelvic floor muscles",
-      "B": "To administer anesthesia",
-      "C": "To conduct a blood test",
-      "D": "To interpret an ECG"
-    },
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
     "question": "What is the definition of pelvic floor muscles?",
     "options": {
       "A": "Muscles in the upper back",
-      "B": "A group of muscles that stretch like a hammock across the bottom of the pelvis",
+      "B": "A group of muscles that stretch like a hammock across the bottom of the pelvis, supporting pelvic organs",
       "C": "Muscles in the legs",
       "D": "Muscles in the arms"
     },
@@ -2128,7 +2106,7 @@
     "question": "What is one purpose of pelvic floor muscle assessment?",
     "options": {
       "A": "To measure blood pressure",
-      "B": "To detect muscle weakness, overactivity, or dysfunction",
+      "B": "To detect any weakness, overactivity, or dysfunction",
       "C": "To check vision",
       "D": "To assess hearing"
     },
@@ -2400,14 +2378,36 @@
     "explanation": ""
   },
   {
-    "question": "According to the document, what is the name of the university?",
+    "question": "What does the modified Oxford scale grade?",
     "options": {
-      "A": "Cairo University",
-      "B": "Mansoura National University",
-      "C": "Alexandria University",
-      "D": "Kenhub University"
+      "A": "Blood pressure",
+      "B": "Pelvic floor muscle tone",
+      "C": "Heart rate",
+      "D": "Respiratory rate"
     },
     "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "According to the document, what is the purpose of asking the woman to repeat the exercise?",
+    "options": {
+      "A": "To tire her out",
+      "B": "To assess muscle endurance and consistency",
+      "C": "To make the exam longer",
+      "D": "No specific reason"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the final step in the documentation process?",
+    "options": {
+      "A": "Write the grade and any observations in the woman's profile",
+      "B": "Throw away the notes",
+      "C": "Tell the woman verbally only",
+      "D": "Do nothing"
+    },
+    "correctAnswer": "A",
     "explanation": ""
   }
         ],
@@ -4465,6 +4465,7 @@
     }
   }
 }
+
 
 
 
