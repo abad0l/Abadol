@@ -1745,56 +1745,34 @@
         "description": "Administering magnesium sulphate.",
         "quiz": [
   {
-    "question": "What is the general objective of the lecture on Magnesium Sulfate (MgSO4) administration?",
+    "question": "According to the document, what is Magnesium Sulfate (MgSO4)?",
     "options": {
-      "A": "To perform surgery",
-      "B": "To obtain knowledge regarding MgSO4 administration",
-      "C": "To diagnose kidney disease",
-      "D": "To prescribe antibiotics"
+      "A": "An antibiotic for treating infections",
+      "B": "The drug of choice recommended by WHO for treating severe pre-eclampsia and eclampsia",
+      "C": "A pain reliever for headaches",
+      "D": "A vitamin supplement for pregnancy"
     },
     "correctAnswer": "B",
     "explanation": ""
   },
   {
-    "question": "What is one of the specific objectives of the lecture?",
+    "question": "What is one of the listed uses for Magnesium Sulfate?",
     "options": {
-      "A": "To define Magnesium Sulfate (MgSO4)",
-      "B": "To administer general anesthesia",
-      "C": "To interpret X-rays",
-      "D": "To set bone fractures"
-    },
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "question": "How is Magnesium Sulfate (MgSO4) defined in the lecture?",
-    "options": {
-      "A": "An antibiotic",
-      "B": "The drug of choice recommended by WHO for treatment of severe pre-eclampsia and eclampsia",
-      "C": "A pain reliever",
-      "D": "A vitamin supplement"
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "What is one use of Magnesium Sulfate mentioned?",
-    "options": {
-      "A": "Lowering cholesterol",
+      "A": "Treating diabetes",
       "B": "Preventing seizures in women with severe preeclampsia",
-      "C": "Treating infections",
+      "C": "Curing infections",
       "D": "Increasing appetite"
     },
     "correctAnswer": "B",
     "explanation": ""
   },
   {
-    "question": "What is one mechanism of action of MgSO4?",
+    "question": "What is a mechanism of action of MgSO4?",
     "options": {
       "A": "Increases acetylcholine release",
-      "B": "Decreases acetylcholine release, depressing the CNS and providing anticonvulsant action",
+      "B": "Decreases acetylcholine release, depressing the CNS and acting as an anticonvulsant",
       "C": "Stimulates heart rate",
-      "D": "Increases blood pressure"
+      "D": "Raises blood pressure"
     },
     "correctAnswer": "B",
     "explanation": ""
@@ -1811,7 +1789,7 @@
     "explanation": ""
   },
   {
-    "question": "Which of the following is listed as necessary equipment for MgSO4 administration?",
+    "question": "Which item is listed as necessary equipment for MgSO4 administration?",
     "options": {
       "A": "Stethoscope only",
       "B": "IV bottle of D5W or normal saline, IV stand, syringe, MgSO4 ampules, cannula, cotton with alcohol, label, urinary catheter, reflex hammer, calcium gluconate, infusion pump",
@@ -2020,29 +1998,7 @@
     "explanation": ""
   },
   {
-    "question": "Which department is responsible for this lecture?",
-    "options": {
-      "A": "Department of Surgery",
-      "B": "Woman's Health and Midwifery Nursing Department",
-      "C": "Department of Pediatrics",
-      "D": "Department of Cardiology"
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "According to the document, what does MgSO4 inhibit?",
-    "options": {
-      "A": "Platelet aggregation",
-      "B": "Insulin secretion",
-      "C": "Gastric acid production",
-      "D": "Bone growth"
-    },
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "question": "What is another use of MgSO4 mentioned?",
+    "question": "What is another listed use of MgSO4?",
     "options": {
       "A": "Treating diabetes",
       "B": "Slowing or stopping premature labor",
@@ -2053,7 +2009,7 @@
     "explanation": ""
   },
   {
-    "question": "What level of serum magnesium causes cardiac depression?",
+    "question": "At what serum magnesium level does cardiac depression occur?",
     "options": {
       "A": "> 5 mEq/L",
       "B": "> 10 mEq/L",
@@ -2061,6 +2017,50 @@
       "D": "> 20 mEq/L"
     },
     "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does MgSO4 inhibit according to its mechanism of action?",
+    "options": {
+      "A": "Platelet aggregation",
+      "B": "Insulin secretion",
+      "C": "Gastric acid production",
+      "D": "Bone growth"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What does the document specify about urine output as a sign of toxicity?",
+    "options": {
+      "A": "More than 200 ml in 4 hours",
+      "B": "Less than 100 cc during the last four hours",
+      "C": "Exactly 30 ml per hour",
+      "D": "No specific measure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of the reflex hammer in the equipment list?",
+    "options": {
+      "A": "To test deep tendon reflexes",
+      "B": "To break ampules",
+      "C": "To measure blood pressure",
+      "D": "To stimulate uterine contractions"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is one step in preparing the IV solution for MgSO4 administration?",
+    "options": {
+      "A": "Use IV line to evacuate 250 ml of D5W or normal saline from a 500cc bottle",
+      "B": "Mix MgSO4 powder directly into the IV bag",
+      "C": "Use only plain water",
+      "D": "No preparation is needed"
+    },
+    "correctAnswer": "A",
     "explanation": ""
   }
         ],
@@ -4465,6 +4465,7 @@
     }
   }
 }
+
 
 
 
