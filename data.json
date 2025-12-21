@@ -2759,54 +2759,43 @@
         "description": "Performing a gynecological assessment.",
         "quiz": [
   {
-    "question": "What is the general objective of the lecture on gynecological assessment?",
+    "question": "What is the definition of a gynecological examination?",
     "options": {
-      "A": "To perform surgical procedures",
-      "B": "To obtain knowledge regarding gynecological assessment",
-      "C": "To diagnose neurological disorders",
-      "D": "To prescribe psychiatric medication"
+      "A": "An examination of the male reproductive system",
+      "B": "An examination of the pelvic per vagina, including inspection of external genitalia and speculum examination",
+      "C": "A blood test for hormonal levels",
+      "D": "An imaging test of the uterus only"
     },
     "correctAnswer": "B",
     "explanation": ""
   },
   {
-    "question": "What is one of the specific objectives of the lecture?",
+    "question": "Which of the following is NOT a component of a gynecological examination as listed?",
     "options": {
-      "A": "To define gynecological assessment",
-      "B": "To administer chemotherapy",
-      "C": "To interpret brain scans",
-      "D": "To set broken bones"
+      "A": "History taking",
+      "B": "General examination",
+      "C": "Dental examination",
+      "D": "Pelvic examination"
     },
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "question": "How is a gynecological examination defined?",
-    "options": {
-      "A": "An examination of the ears",
-      "B": "An examination of the female genitalia including inspection of external genitalia and speculum examination",
-      "C": "An examination of the male reproductive system",
-      "D": "A blood test only"
-    },
-    "correctAnswer": "B",
+    "correctAnswer": "C",
     "explanation": ""
   },
   {
     "question": "What is one purpose of a vaginal examination?",
     "options": {
-      "A": "To check vision",
-      "B": "To inspect external genitalia for signs of inflammation, swelling, bleeding, discharge, and skin changes",
-      "C": "To measure height",
-      "D": "To test hearing"
+      "A": "To check blood sugar levels",
+      "B": "To inspect external genitalia for signs of inflammation, swelling, bleeding, and discharge",
+      "C": "To measure bone density",
+      "D": "To assess lung function"
     },
     "correctAnswer": "B",
     "explanation": ""
   },
   {
-    "question": "What is one indication for a gynecological examination?",
+    "question": "What is an indication for a gynecological examination?",
     "options": {
       "A": "Common cold",
-      "B": "Abnormal bleeding",
+      "B": "Abnormal vaginal discharge",
       "C": "Headache",
       "D": "Back pain unrelated to pelvis"
     },
@@ -2814,14 +2803,14 @@
     "explanation": ""
   },
   {
-    "question": "Which of the following is part of taking a gynecological history using the ABCD(I)F mnemonic?",
+    "question": "Which item is part of taking a gynecological history using the ABCD(I)F mnemonic?",
     "options": {
-      "A": "Abdominal/pelvic pain",
-      "B": "Knee pain",
+      "A": "Knee pain",
+      "B": "Abdominal/pelvic pain",
       "C": "Elbow swelling",
       "D": "Hair loss on scalp"
     },
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": ""
   },
   {
@@ -3045,45 +3034,364 @@
     "explanation": ""
   },
   {
-    "question": "Which component is NOT part of the gynecological examination as listed?",
+    "question": "What is the purpose of the abdominal examination in gynecology?",
     "options": {
-      "A": "History taking",
-      "B": "General examination",
-      "C": "Abdominal examination",
-      "D": "Dental examination"
+      "A": "To check for heart disease",
+      "B": "To assess for distention, masses, scars, and organomegaly",
+      "C": "To test reflexes",
+      "D": "To examine the throat"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does inspection during the abdominal examination include?",
+    "options": {
+      "A": "Listening to bowel sounds",
+      "B": "Looking for distention, shape, masses, scars, hernia",
+      "C": "Tapping for dullness",
+      "D": "Deep palpation only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is auscultation of the abdomen usually used for in gynecology?",
+    "options": {
+      "A": "Listening to fetal heart sounds",
+      "B": "Listening to bowel sounds, usually postoperatively",
+      "C": "Checking lung sounds",
+      "D": "Assessing heart murmurs"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of percussion during the abdominal examination?",
+    "options": {
+      "A": "To measure blood pressure",
+      "B": "To differentiate between solid tumors, cystic fluid, and intestinal gas",
+      "C": "To test muscle strength",
+      "D": "To check skin temperature"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of inspecting hair distribution on the external genitalia?",
+    "options": {
+      "A": "To assess for personal hygiene",
+      "B": "To detect disorders of androgen excess",
+      "C": "To check for lice",
+      "D": "To determine age"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should the woman be asked to do during inspection of the external genitalia to check for stress incontinence?",
+    "options": {
+      "A": "Hold her breath",
+      "B": "Cough",
+      "C": "Bear down",
+      "D": "Sing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why should the speculum be warmed before use?",
+    "options": {
+      "A": "To sterilize it",
+      "B": "For patient comfort",
+      "C": "To make it easier to insert",
+      "D": "Both B and C"
     },
     "correctAnswer": "D",
     "explanation": ""
   },
   {
-    "question": "What does the acronym ABCD(I)F stand for in gynecological history taking?",
+    "question": "What is the correct hand position for separating the labia during speculum insertion?",
     "options": {
-      "A": "A different medical system",
-      "B": "Abdominal/pelvic pain, Bleeding, Contraception, Discharge and itch, Incontinence and prolapse, Fertility & Infertility",
-      "C": "A list of medications",
-      "D": "Names of bones"
+      "A": "Use the thumb and index finger of the left hand",
+      "B": "Use the right hand only",
+      "C": "Use a sterile cotton swab",
+      "D": "The patient does it herself"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the \"nulliparous os\" typically described as?",
+    "options": {
+      "A": "A smile shape",
+      "B": "A small round dimple",
+      "C": "A slit",
+      "D": "Irregular"
     },
     "correctAnswer": "B",
     "explanation": ""
   },
   {
-    "question": "What is assessed during the abdominal examination?",
+    "question": "What is the \"multiparous os\" typically described as?",
     "options": {
-      "A": "Only inspection",
-      "B": "Inspection, auscultation, palpation, percussion",
-      "C": "Only palpation",
-      "D": "Only percussion"
+      "A": "A small round dimple",
+      "B": "A smile shape",
+      "C": "Closed",
+      "D": "Star-shaped"
     },
     "correctAnswer": "B",
     "explanation": ""
   },
   {
-    "question": "What position is the patient typically in for the pelvic examination?",
+    "question": "During bimanual examination, where is the left hand placed on the abdomen?",
     "options": {
-      "A": "Standing",
-      "B": "Lithotomy or modified dorsal position",
-      "C": "Prone position",
-      "D": "Sitting upright"
+      "A": "On the upper abdomen near the ribs",
+      "B": "Just above the symphysis pubis",
+      "C": "On the lower back",
+      "D": "On the right flank"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does cervical excitation tenderness indicate?",
+    "options": {
+      "A": "A normal finding",
+      "B": "Pelvic inflammation or ectopic pregnancy",
+      "C": "A healthy pregnancy",
+      "D": "Menstrual cramps"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does a firm consistency of the cervix usually indicate?",
+    "options": {
+      "A": "Normal state",
+      "B": "Pregnancy",
+      "C": "Fibrosis or carcinoma",
+      "D": "Infection"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What does a soft consistency of the cervix suggest?",
+    "options": {
+      "A": "Fibrosis",
+      "B": "Carcinoma",
+      "C": "Pregnancy",
+      "D": "Menopause"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is a tubo-ovarian mass?",
+    "options": {
+      "A": "A normal, palpable tube",
+      "B": "An enlarged tube or ovary that cannot be differentiated by palpation",
+      "C": "A mass always arising from the uterus",
+      "D": "A benign finding in all cases"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What conditions can a tubo-ovarian mass arise from?",
+    "options": {
+      "A": "Only ovarian cysts",
+      "B": "Ovarian cysts, benign tumors, malignancy, ectopic pregnancy, abscess",
+      "C": "Only ectopic pregnancy",
+      "D": "Only pelvic inflammatory disease"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the final step in the rectovaginal examination?",
+    "options": {
+      "A": "Remove gloves and wash hands",
+      "B": "Check for tenderness or masses between the uterus and rectum",
+      "C": "Insert the speculum",
+      "D": "Document the findings"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of asking the woman to empty her bladder before the examination?",
+    "options": {
+      "A": "To make her more comfortable and facilitate the examination",
+      "B": "To test kidney function",
+      "C": "To collect a urine sample",
+      "D": "To prevent infection"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What equipment is needed for a Pap test during the speculum examination?",
+    "options": {
+      "A": "Gloves only",
+      "B": "Cotton swabs, spatula, cytobrush, slides, fixative, specimen containers",
+      "C": "Blood pressure cuff",
+      "D": "Reflex hammer"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why is it important to avoid an air draft in the examination room?",
+    "options": {
+      "A": "To prevent the spread of infection",
+      "B": "For patient comfort and to prevent chilling",
+      "C": "To keep equipment sterile",
+      "D": "To improve lighting"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is assessed during the breast examination?",
+    "options": {
+      "A": "For early detection of breast cancer",
+      "B": "For heart sounds",
+      "C": "For lung consolidation",
+      "D": "For abdominal masses"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is examined in the lower limbs during the general examination?",
+    "options": {
+      "A": "For edema, varicose veins, signs of DVT",
+      "B": "For fractures",
+      "C": "For skin color only",
+      "D": "For muscle strength only"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of superficial palpation of the abdomen?",
+    "options": {
+      "A": "To feel deep organs",
+      "B": "To assess for swelling, tenderness, rigidity",
+      "C": "To listen to bowel sounds",
+      "D": "To percuss for dullness"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of deep palpation of the abdomen?",
+    "options": {
+      "A": "To check skin texture",
+      "B": "To assess for organomegaly and deep masses",
+      "C": "To auscultate heart sounds",
+      "D": "To inspect for scars"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "During the bimanual examination, what is the purpose of placing fingers in the lateral vaginal fornix?",
+    "options": {
+      "A": "To assess the cervix",
+      "B": "To assess the adnexae (tubes and ovaries)",
+      "C": "To assess the urethra",
+      "D": "To assess the bladder"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should the examiner do before wearing gloves?",
+    "options": {
+      "A": "Eat a meal",
+      "B": "Wash hands",
+      "C": "Touch other surfaces",
+      "D": "Skip hand hygiene"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What information is included in the \"Personal data\" part of history taking?",
+    "options": {
+      "A": "Name, age, occupation, residence, level of education, marital status",
+      "B": "Only the chief complaint",
+      "C": "Family history of cancer only",
+      "D": "Current medications only"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What does \"Gravidity\" refer to in the past obstetric history?",
+    "options": {
+      "A": "Number of living children",
+      "B": "Total number of pregnancies",
+      "C": "Mode of delivery",
+      "D": "History of abortion"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does \"Parity\" refer to?",
+    "options": {
+      "A": "Number of pregnancies reaching viable gestational age",
+      "B": "Number of abortions",
+      "C": "Number of cesarean sections",
+      "D": "Age at first pregnancy"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of asking about medications and allergies?",
+    "options": {
+      "A": "To judge the patient's lifestyle",
+      "B": "To avoid adverse reactions and plan safe care",
+      "C": "For billing purposes",
+      "D": "To satisfy curiosity"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of the perineal pad provided after the examination?",
+    "options": {
+      "A": "For the patient to take home as a souvenir",
+      "B": "To absorb any lubricant or discharge",
+      "C": "To use as a bandage",
+      "D": "To clean the equipment"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the reason for raising the examination table to the best level?",
+    "options": {
+      "A": "To intimidate the patient",
+      "B": "For good body mechanics for the examiner",
+      "C": "To make the room look bigger",
+      "D": "To allow better airflow"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the main goal of providing continual emotional support during the examination?",
+    "options": {
+      "A": "To make the exam longer",
+      "B": "To reduce the woman's anxiety and gain her cooperation",
+      "C": "To impress the chaperone",
+      "D": "To follow hospital protocol only"
     },
     "correctAnswer": "B",
     "explanation": ""
@@ -4496,6 +4804,7 @@
     }
   }
 }
+
 
 
 
