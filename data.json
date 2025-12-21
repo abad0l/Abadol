@@ -1078,47 +1078,69 @@
         "description": "Urine analysis for albumin, acetone, and sugar.",
         "quiz": [
   {
-    "question": "What is the definition of urine analysis according to the lecture?",
+    "question": "What is the definition of urine analysis?",
     "options": {
-      "A": "A test done to analyze blood",
-      "B": "A group of physical, chemical, and microscopic exams",
-      "C": "A visual exam of skin color",
+      "A": "A test to analyze blood",
+      "B": "A group of physical, chemical, and microscopic exams of urine",
+      "C": "A visual exam of skin only",
       "D": "A test for measuring blood pressure"
     },
     "correctAnswer": "B",
     "explanation": ""
   },
   {
-    "question": "What is one of the specific objectives of the lecture?",
+    "question": "What does the physical exam of urine analysis involve?",
     "options": {
-      "A": "To perform a surgical procedure",
-      "B": "To define urine analysis",
-      "C": "To administer intravenous medication",
-      "D": "To conduct a physical therapy session"
+      "A": "Checking for protein and glucose",
+      "B": "Visual examination of color and clarity",
+      "C": "Identifying bacteria under a microscope",
+      "D": "Measuring specific gravity"
     },
     "correctAnswer": "B",
     "explanation": ""
   },
   {
-    "question": "Which department is responsible for this lecture on urine analysis?",
+    "question": "What does the chemical exam of urine check for?",
     "options": {
-      "A": "Department of Surgery",
-      "B": "Department of Pediatrics",
-      "C": "Woman's Health and Midwifery Nursing Department",
-      "D": "Department of Cardiology"
+      "A": "Color and odor",
+      "B": "Cells and crystals",
+      "C": "Substances like protein, glucose, bilirubin, and ketones",
+      "D": "Volume and pH only"
     },
     "correctAnswer": "C",
     "explanation": ""
   },
   {
-    "question": "What is checked during the microscopic exam of urine?",
+    "question": "What does the microscopic exam of urine include?",
     "options": {
       "A": "Color and clarity",
-      "B": "Protein and glucose",
-      "C": "Cells, crystals, casts, and bacteria",
-      "D": "Blood pressure and heart rate"
+      "B": "Cells, crystals, casts, bacteria, and mucus",
+      "C": "Protein and glucose levels",
+      "D": "Specific gravity"
     },
-    "correctAnswer": "C",
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one indication for performing a urine analysis?",
+    "options": {
+      "A": "To measure bone density",
+      "B": "To confirm pregnancy",
+      "C": "To assess lung function",
+      "D": "To check cholesterol levels"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What abnormality might a urine analysis check for?",
+    "options": {
+      "A": "Glycosuria",
+      "B": "High blood pressure",
+      "C": "Low hemoglobin",
+      "D": "Elevated liver enzymes"
+    },
+    "correctAnswer": "A",
     "explanation": ""
   },
   {
@@ -1148,7 +1170,7 @@
     "options": {
       "A": "First few drops of the stream",
       "B": "Last few drops of the stream",
-      "C": "Mid-stream catch",
+      "C": "Main mid-stream catch",
       "D": "Random sample at any time"
     },
     "correctAnswer": "C",
@@ -1199,6 +1221,17 @@
     "explanation": ""
   },
   {
+    "question": "What should be recorded after the procedure?",
+    "options": {
+      "A": "The patient's favorite color",
+      "B": "The findings of the test",
+      "C": "The weather conditions",
+      "D": "The nurse's lunch break"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
     "question": "What does the presence of glucose in urine before 20 weeks of gestation indicate?",
     "options": {
       "A": "Gestational diabetes",
@@ -1210,11 +1243,33 @@
     "explanation": ""
   },
   {
+    "question": "What does the presence of glucose in urine after 20 weeks of gestation indicate?",
+    "options": {
+      "A": "DM (Diabetes Mellitus)",
+      "B": "Gestational diabetes",
+      "C": "Renal disorder",
+      "D": "Dehydration"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does the presence of protein in urine before 20 weeks of gestation suggest?",
+    "options": {
+      "A": "Renal disorder",
+      "B": "Pre-eclampsia",
+      "C": "Gestational diabetes",
+      "D": "UTI"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
     "question": "What does the presence of protein in urine after 20 weeks of gestation suggest?",
     "options": {
       "A": "Renal disorder",
       "B": "Pre-eclampsia",
-      "C": "DM (Diabetes Mellitus)",
+      "C": "DM",
       "D": "Dehydration"
     },
     "correctAnswer": "B",
@@ -1223,7 +1278,7 @@
   {
     "question": "What does the presence of bacteria in urine after 20 weeks of gestation indicate?",
     "options": {
-      "A": "DM (Diabetes Mellitus)",
+      "A": "DM",
       "B": "Pre-eclampsia",
       "C": "UTI (Urinary Tract Infection)",
       "D": "Dehydration"
@@ -1232,40 +1287,18 @@
     "explanation": ""
   },
   {
-    "question": "According to the lecture, what is an indication for urine analysis related to abnormalities?",
+    "question": "What does the table indicate for ketones after 20 weeks of gestation?",
     "options": {
-      "A": "To check for glycosuria",
-      "B": "To measure height and weight",
-      "C": "To assess vision",
-      "D": "To test hearing"
+      "A": "DM",
+      "B": "Pre-eclampsia",
+      "C": "Dehydration",
+      "D": "UTI"
     },
-    "correctAnswer": "A",
+    "correctAnswer": "C",
     "explanation": ""
   },
   {
-    "question": "What is one indication mentioned for urine analysis?",
-    "options": {
-      "A": "To check for pitting edema",
-      "B": "To confirm pregnancy",
-      "C": "To diagnose heart disease",
-      "D": "To evaluate liver function tests"
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "What should be documented after the procedure?",
-    "options": {
-      "A": "The patient's favorite color",
-      "B": "The findings of the test",
-      "C": "The weather conditions",
-      "D": "The nurse's lunch break"
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "What is the purpose of obtaining the woman's consent?",
+    "question": "What is the purpose of obtaining the woman’s consent?",
     "options": {
       "A": "To explain the steps in the procedure",
       "B": "To charge her for the test",
@@ -1298,439 +1331,67 @@
     "explanation": ""
   },
   {
-    "question": "Which university faculty is associated with this lecture?",
+    "question": "What is indicated by the term \"glycosuria\"?",
     "options": {
-      "A": "Faculty of Engineering",
-      "B": "Faculty of Medicine",
-      "C": "Faculty of Nursing",
-      "D": "Faculty of Law"
+      "A": "Protein in urine",
+      "B": "Glucose in urine",
+      "C": "Bacteria in urine",
+      "D": "Ketones in urine"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is indicated by the term \"proteinuria\"?",
+    "options": {
+      "A": "Glucose in urine",
+      "B": "Protein in urine",
+      "C": "Bacteria in urine",
+      "D": "Blood in urine"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is indicated by the term \"bacteriuria\"?",
+    "options": {
+      "A": "Glucose in urine",
+      "B": "Protein in urine",
+      "C": "Bacteria in urine",
+      "D": "Crystals in urine"
     },
     "correctAnswer": "C",
     "explanation": ""
   },
   {
-    "question": "What is the name of the university mentioned?",
+    "question": "Why is a mid-stream urine sample preferred?",
     "options": {
-      "A": "Cairo University",
-      "B": "Mansoura National University",
-      "C": "Alexandria University",
-      "D": "Ain Shams University"
+      "A": "It is easier to collect",
+      "B": "It reduces contamination from the urethra and genital area",
+      "C": "It contains more bacteria",
+      "D": "It has a higher volume"
     },
     "correctAnswer": "B",
     "explanation": ""
   },
   {
-    "question": "What is the correct sequence in the procedure steps?",
+    "question": "What is the role of the color chart on the urine container?",
     "options": {
-      "A": "Document, then collect sample",
-      "B": "Collect sample, then immerse strip, then compare colors",
-      "C": "Compare colors, then discard urine",
-      "D": "Remove gloves, then hand wash"
+      "A": "To decorate the container",
+      "B": "To compare and interpret the reagent strip colors",
+      "C": "To identify the patient",
+      "D": "To measure urine volume"
     },
     "correctAnswer": "B",
     "explanation": ""
   },
   {
-    "question": "What might protein in urine before 20 weeks of gestation indicate?",
+    "question": "What might be a reason to perform a urine analysis aside from confirming pregnancy?",
     "options": {
-      "A": "Gestational diabetes",
-      "B": "Pre-eclampsia",
-      "C": "Renal disorder",
-      "D": "UTI"
-    },
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "question": "What might glucose in urine after 20 weeks of gestation indicate?",
-    "options": {
-      "A": "DM",
-      "B": "Gestational diabetes",
-      "C": "Renal disorder",
-      "D": "Dehydration"
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "What does the presence of ketones in urine generally indicate?",
-    "options": {
-      "A": "Not specified in the table",
-      "B": "Always indicates UTI",
-      "C": "Always indicates pre-eclampsia",
-      "D": "Always indicates DM"
-    },
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "question": "What is the final action after recording findings?",
-    "options": {
-      "A": "Thank the patient",
-      "B": "Start a new test",
-      "C": "Not specified in the document",
-      "D": "Give the patient a gift"
-    },
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "question": "What is the brand name of the test strip mentioned?",
-    "options": {
-      "A": "One Step",
-      "B": "Quick Test",
-      "C": "Rapid Check",
-      "D": "Fast Dip"
-    },
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "question": "What is the document's title?",
-    "options": {
-      "A": "Blood Analysis",
-      "B": "Urine Analysis",
-      "C": "Stool Analysis",
-      "D": "Saliva Analysis"
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "What is the main focus of the lecture's interpretation section?",
-    "options": {
-      "A": "Normal findings",
-      "B": "Abnormal findings",
-      "C": "Equipment maintenance",
-      "D": "Patient demographics"
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  }
-        ],
-        "explanation": "<p>Explanation currently unavailable.</p>",
-        "flipCards": []
-      },
-      "pitting_edema": {
-        "title": "Pitting Edema Assessment",
-        "icon": "fas fa-person-dots-from-line",
-        "description": "Assessment of pitting edema.",
-        "quiz": [
-  {
-    "question": "What is the defining characteristic of pitting edema?",
-    "options": {
-      "A": "Swelling that is red and warm to the touch.",
-      "B": "Swelling that leaves a persistent depression or \"pit\" after firm pressure is applied.",
-      "C": "Swelling that is painful only upon movement.",
-      "D": "Swelling that is symmetrical on both sides of the body."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "Where is pitting edema most commonly found?",
-    "options": {
-      "A": "In the face and hands.",
-      "B": "In the lower body, particularly the legs, ankles, and feet.",
-      "C": "In the abdominal area.",
-      "D": "In the neck and clavicle region."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "What is the primary purpose of assessing for pitting edema during pregnancy?",
-    "options": {
-      "A": "To determine the baby's gender.",
-      "B": "To differentiate between normal physiological edema and pathological edema.",
-      "C": "To assess the mother's lung capacity.",
-      "D": "To check for fetal movements."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "Which serious pregnancy complication is pitting edema assessment crucial for the early detection of?",
-    "options": {
-      "A": "Gestational diabetes.",
-      "B": "Pre-eclampsia.",
-      "C": "Placenta previa.",
-      "D": "Ectopic pregnancy."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "What are the classic triad of symptoms for pre-eclampsia?",
-    "options": {
-      "A": "Edema, headache, and blurred vision.",
-      "B": "Proteinuria, hypertension, and edema.",
-      "C": "Hyperglycemia, thirst, and frequent urination.",
-      "D": "Fever, chills, and back pain."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "When during pregnancy should edema be routinely assessed at each prenatal visit?",
-    "options": {
-      "A": "From the first trimester (before 12 weeks).",
-      "B": "After 20 weeks' gestation.",
-      "C": "Only in the third trimester (after 28 weeks).",
-      "D": "Only if the mother complains of swelling."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "What is the correct position for the mother during a pitting edema assessment?",
-    "options": {
-      "A": "Sitting upright in a chair.",
-      "B": "Standing with weight evenly distributed.",
-      "C": "Lying flat in bed.",
-      "D": "Walking around the room."
-    },
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "question": "What is the first step in the preparation for the procedure?",
-    "options": {
-      "A": "Greeting the mother.",
-      "B": "Explaining the procedure.",
-      "C": "Hand washing.",
-      "D": "Positioning the mother."
-    },
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "question": "Which of the following is part of the initial observation in the assessment?",
-    "options": {
-      "A": "Measuring blood pressure.",
-      "B": "Observing the general appearance and skin texture.",
-      "C": "Listening to fetal heart sounds.",
-      "D": "Checking deep tendon reflexes."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "Which body areas should be inspected for signs of pitting edema?",
-    "options": {
-      "A": "Only the ankles.",
-      "B": "The face, extremities, and sacral area.",
-      "C": "Only the feet.",
-      "D": "The chest and back."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "For how long should you press firmly with your thumb during the assessment?",
-    "options": {
-      "A": "For at least 1 second.",
-      "B": "For at least 2 seconds.",
-      "C": "For at least 5 seconds.",
-      "D": "Until the mother says it hurts."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "On which part of the foot should you apply pressure to check for edema?",
-    "options": {
-      "A": "The sole of the foot.",
-      "B": "The dorsum (top) of the foot.",
-      "C": "The heel.",
-      "D": "The toes."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "Another location to check for edema is behind which bony prominence?",
-    "options": {
-      "A": "The lateral malleolus (outer ankle bone).",
-      "B": "The patella (kneecap).",
-      "C": "The medial malleolus (inner ankle bone).",
-      "D": "The tibial tuberosity."
-    },
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "question": "What three factors are evaluated after pressing on the swollen area?",
-    "options": {
-      "A": "Color, temperature, and pulse.",
-      "B": "The extensiveness of edema, depth of depression, and time for recovery.",
-      "C": "The mother's pain level, skin redness, and mobility.",
-      "D": "The fetal heart rate, maternal heart rate, and blood pressure."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "What does a 2 mm indentation that rebounds rapidly indicate?",
-    "options": {
-      "A": "1+ edema (Trace).",
-      "B": "2+ edema (Mild).",
-      "C": "3+ edema (Moderate).",
-      "D": "4+ edema (Severe)."
-    },
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "question": "What is the grade for a 4 mm indentation that rebounds in a few seconds?",
-    "options": {
-      "A": "1+ edema.",
-      "B": "2+ edema.",
-      "C": "3+ edema.",
-      "D": "4+ edema."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "How is 3+ (Moderate) edema characterized?",
-    "options": {
-      "A": "6 mm indentation lasting about 30 seconds.",
-      "B": "4 mm indentation rebounding in a few seconds.",
-      "C": "8 mm indentation lasting more than 30 seconds.",
-      "D": "2 mm indentation with rapid return."
-    },
-    "correctAnswer": "A",
-    "explanation": ""
-  },
-  {
-    "question": "What defines 4+ (Severe) pitting edema?",
-    "options": {
-      "A": "A 2 mm pit that disappears immediately.",
-      "B": "A 6 mm pit that lasts 15 seconds.",
-      "C": "An 8 mm indentation that takes more than 30 seconds to return to normal.",
-      "D": "Swelling with no indentation at all."
-    },
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "question": "The scoring system for pitting edema primarily measures what?",
-    "options": {
-      "A": "The circumference of the limb.",
-      "B": "The depth of the indentation and the recovery time.",
-      "C": "The color change in the skin.",
-      "D": "The difference in swelling between the left and right sides."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "Which of the following is NOT an indication for pitting edema assessment listed in the document?",
-    "options": {
-      "A": "Monitor progression of edema during antenatal follow-up.",
-      "B": "Evaluate response to management (e.g., rest, salt restriction).",
-      "C": "Detect systemic diseases like cardiac or renal problems.",
-      "D": "Diagnose a specific type of joint arthritis."
-    },
-    "correctAnswer": "D",
-    "explanation": ""
-  },
-  {
-    "question": "What should be done immediately after completing the assessment?",
-    "options": {
-      "A": "Leave the room to document findings.",
-      "B": "Cover the woman and help her to a comfortable position.",
-      "C": "Immediately report the grade to the doctor.",
-      "D": "Ask the mother to walk to see if the edema improves."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "What is a key difference between pitting edema and non-pitting edema?",
-    "options": {
-      "A": "Pitting edema is always painful.",
-      "B": "Pitting edema leaves a temporary pit; non-pitting does not.",
-      "C": "Non-pitting edema is only seen in the face.",
-      "D": "Pitting edema is associated with fever."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "In the context of pregnancy, mild ankle edema in the late afternoon that disappears overnight is often considered:",
-    "options": {
-      "A": "A sign of severe pre-eclampsia.",
-      "B": "Normal physiological edema.",
-      "C": "Pathological edema requiring immediate treatment.",
-      "D": "An indicator of fetal distress."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "Assessing the severity of edema helps in:",
-    "options": {
-      "A": "Prescribing antibiotics.",
-      "B": "Determining the need for induction of labor.",
-      "C": "Grading fluid retention and guiding management.",
-      "D": "Scheduling an ultrasound."
-    },
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "question": "Pitting edema assessment can help evaluate a patient's response to which intervention?",
-    "options": {
-      "A": "Increased caffeine intake.",
-      "B": "Salt restriction and rest.",
-      "C": "High-intensity exercise.",
-      "D": "Iron supplementation."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "Which systemic condition, detectable through edema assessment, can complicate pregnancy?",
-    "options": {
-      "A": "Asthma.",
-      "B": "Migraines.",
-      "C": "Cardiac or renal disease.",
-      "D": "Peptic ulcers."
-    },
-    "correctAnswer": "C",
-    "explanation": ""
-  },
-  {
-    "question": "The procedure for pitting edema assessment includes which of the following sequential steps?",
-    "options": {
-      "A": "Press, Inspect, Evaluate, Observe.",
-      "B": "Observe, Inspect, Press, Evaluate.",
-      "C": "Evaluate, Press, Observe, Inspect.",
-      "D": "Inspect, Evaluate, Observe, Press."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "Why is it important to assess the sacral area for edema?",
-    "options": {
-      "A": "Because it is a common site for rashes.",
-      "B": "Because dependent edema can accumulate there, especially in bedridden patients.",
-      "C": "Because it is the best place to check the fetal heartbeat.",
-      "D": "Because it indicates a liver problem."
-    },
-    "correctAnswer": "B",
-    "explanation": ""
-  },
-  {
-    "question": "What does the term \"indentation recovery time\" refer to?",
-    "options": {
-      "A": "The time it takes for the skin to return to its normal color after pressure.",
-      "B": "The time it takes for the depression (pit) to disappear after pressure is removed.",
-      "C": "The time the examiner holds pressure on the skin.",
-      "D": "The time between assessments during the same visit."
+      "A": "To check for anemia",
+      "B": "To check for abnormalities like glycosuria or proteinuria",
+      "C": "To assess vision",
+      "D": "To test hearing"
     },
     "correctAnswer": "B",
     "explanation": ""
@@ -4804,6 +4465,7 @@
     }
   }
 }
+
 
 
 
