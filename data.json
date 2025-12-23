@@ -1069,7 +1069,470 @@
         "title": "Breast care",
         "icon": "fas fa-notes-medical",
         "description": "Care of the breasts.",
-        "quiz": [],
+        "quiz": [
+          {
+    "question": "What is the definition of breast care?",
+    "options": {
+      "A": "A procedure for cleaning the baby",
+      "B": "A procedure for cleaning the breast of the mother that helps maintain hygiene and prevent cross-infection during feeding",
+      "C": "A procedure for massaging the back",
+      "D": "A procedure for checking breast cancer"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one objective of breast care?",
+    "options": {
+      "A": "To increase body weight",
+      "B": "To clean the breast and promote comfort",
+      "C": "To check blood pressure",
+      "D": "To measure milk production"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which item is listed as equipment for breast care?",
+    "options": {
+      "A": "Stethoscope",
+      "B": "Gloves, warm water, lubricant olive oil, mackintosh, towel, iodine bowl with cotton & gauze, paper bag",
+      "C": "Thermometer and blood pressure cuff",
+      "D": "Baby scale"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the first step in preparation for breast care?",
+    "options": {
+      "A": "Obtain consent",
+      "B": "Hand washing",
+      "C": "Prepare equipment",
+      "D": "Protect from drafts"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done to protect the woman's privacy?",
+    "options": {
+      "A": "Have family members present",
+      "B": "Protect her from drafts and keep her privacy",
+      "C": "Leave the door open",
+      "D": "Skip the explanation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "In what position should the mother be placed for breast care?",
+    "options": {
+      "A": "Lying down",
+      "B": "Sitting position",
+      "C": "Standing",
+      "D": "Side-lying position"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Where should the mackintosh be placed?",
+    "options": {
+      "A": "On the mother's lap",
+      "B": "Under the woman's breast",
+      "C": "On the floor",
+      "D": "On the bedside table"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "On which side of the mother should the nurse stand?",
+    "options": {
+      "A": "Left side",
+      "B": "Right side",
+      "C": "Behind the mother",
+      "D": "In front of the mother"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be assessed on each breast?",
+    "options": {
+      "A": "Only size",
+      "B": "Signs of engorgement, abscess, mastitis, cracked nipples, nipple condition and type",
+      "C": "Only milk production",
+      "D": "Only skin color"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is the breast massaged?",
+    "options": {
+      "A": "From the nipple to the chest wall",
+      "B": "From supra-clavicular area, axillary tail, then whole breast to areola down to nipple",
+      "C": "Only the areola",
+      "D": "Only the sides"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be expressed from the breast?",
+    "options": {
+      "A": "Blood",
+      "B": "Few drops of colostrum or milk",
+      "C": "Pus",
+      "D": "Nothing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the breast be cleaned?",
+    "options": {
+      "A": "With cold water and soap",
+      "B": "With warm water and cotton swab, from nipple towards areola and rest of breast in circular motion",
+      "C": "With alcohol swab",
+      "D": "With dry gauze only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Where should used cotton be discarded?",
+    "options": {
+      "A": "On the floor",
+      "B": "In the paper bag",
+      "C": "In the regular trash",
+      "D": "In the sink"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the breast be dried?",
+    "options": {
+      "A": "With a hairdryer",
+      "B": "Using the previous technique (circular motion from nipple outwards)",
+      "C": "By air drying only",
+      "D": "With a rough towel vigorously"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be applied in case of dry or cracked nipple?",
+    "options": {
+      "A": "Iodine",
+      "B": "Lubricant substance like olive oil",
+      "C": "Alcohol",
+      "D": "Powder"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be applied to absorb running milk?",
+    "options": {
+      "A": "Cotton ball",
+      "B": "Disposable pad on the nipple",
+      "C": "Gauze bandage",
+      "D": "Nothing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "In case of breast engorgement, what should the mother be asked to wear?",
+    "options": {
+      "A": "Tight bra",
+      "B": "Suitable bra",
+      "C": "No bra",
+      "D": "Sports bra only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should the woman be informed about after the procedure?",
+    "options": {
+      "A": "Only the findings",
+      "B": "The procedure findings and taught about routine breast self-care",
+      "C": "Nothing",
+      "D": "Only about medication"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a post-procedure task?",
+    "options": {
+      "A": "Leave equipment uncleaned",
+      "B": "Remove and clean equipment, wash hands, document, report abnormalities",
+      "C": "Discard gloves without washing hands",
+      "D": "Do not document anything"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What abnormalities should be reported?",
+    "options": {
+      "A": "Normal breast changes",
+      "B": "Swollen/painfully engorged breast after expressing several times, breasts feel hot, breast reddened, sore/cracked/bleeding nipples, fever >101°F",
+      "C": "Slight tenderness",
+      "D": "Increased milk production"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What health education should be given regarding washing breasts?",
+    "options": {
+      "A": "Wash with soap and water before every feeding",
+      "B": "Wash breasts with clear, warm water daily during shower",
+      "C": "Do not wash breasts at all",
+      "D": "Use antibacterial wipes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What type of clothing should be worn to prevent clogged ducts?",
+    "options": {
+      "A": "Tight-fitting clothing",
+      "B": "Loose-fitting clothing",
+      "C": "No clothing",
+      "D": "Synthetic fabrics only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What type of bra is recommended for nursing mothers?",
+    "options": {
+      "A": "A regular bra",
+      "B": "A well-fitting nursing bra",
+      "C": "A sports bra",
+      "D": "No bra"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be kept inside the bra to soak up milk leaks?",
+    "options": {
+      "A": "Tissues",
+      "B": "Nursing pads or clean, folded cloths",
+      "C": "Plastic wrap",
+      "D": "Nothing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When should nursing pads be changed?",
+    "options": {
+      "A": "Once a day",
+      "B": "When they get wet",
+      "C": "Every hour",
+      "D": "Never"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Is it necessary to wash breasts before or after breastfeeding?",
+    "options": {
+      "A": "Always before and after",
+      "B": "Do not need to wash breasts before or after",
+      "C": "Only before",
+      "D": "Only after"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done with breast milk after feedings?",
+    "options": {
+      "A": "Wipe it off immediately",
+      "B": "Let breast milk dry on the breasts",
+      "C": "Wash with soap",
+      "D": "Apply lotion"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How can milk flow be helped?",
+    "options": {
+      "A": "By avoiding massage",
+      "B": "By gently massaging the breast",
+      "C": "By applying ice before feeding",
+      "D": "By drinking cold water"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How can milk be expressed between feedings?",
+    "options": {
+      "A": "Only with a pump",
+      "B": "By hand or with a pump",
+      "C": "Not recommended",
+      "D": "Only by the baby"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What can provide relief for engorgement?",
+    "options": {
+      "A": "Cold shower",
+      "B": "Standing in a warm shower or using warm, moist compresses",
+      "C": "Tight binding",
+      "D": "Avoiding feeding"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How long should ice packs be applied to the sides of the breasts after pumping/breastfeeding?",
+    "options": {
+      "A": "1 hour",
+      "B": "No more than 20 minutes",
+      "C": "5 minutes",
+      "D": "All day"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done if the bra is too tight?",
+    "options": {
+      "A": "Tighten it more",
+      "B": "Loosen the bra",
+      "C": "Wear two bras",
+      "D": "Do nothing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "In case of breast engorgement, what should be done with nursing positions?",
+    "options": {
+      "A": "Use one position only",
+      "B": "Continue to vary nursing positions",
+      "C": "Avoid nursing",
+      "D": "Nurse only on the less engorged side"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which breast should nursing start on if one side is sore?",
+    "options": {
+      "A": "The sore side",
+      "B": "The side that is less sore",
+      "C": "Both at the same time",
+      "D": "Avoid the sore side completely"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What can be applied to nipples after breastfeeding for cracked nipples?",
+    "options": {
+      "A": "Alcohol",
+      "B": "Breast milk or lanolin",
+      "C": "Antibiotic ointment",
+      "D": "Powder"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should nipples be dried after applying breast milk or lanolin?",
+    "options": {
+      "A": "Wipe with a towel",
+      "B": "Allow them to air dry",
+      "C": "Use a hairdryer",
+      "D": "Cover immediately"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of expressing a few drops of milk?",
+    "options": {
+      "A": "To test milk quality",
+      "B": "To clear duct openings and stimulate let-down",
+      "C": "To measure volume",
+      "D": "To relieve pain only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why is the nipple squeezed during massage?",
+    "options": {
+      "A": "To cause pain",
+      "B": "To check for blockages and stimulate milk ejection",
+      "C": "To clean it",
+      "D": "To stop milk flow"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of using olive oil?",
+    "options": {
+      "A": "To increase milk production",
+      "B": "To lubricate and soothe dry or cracked nipples",
+      "C": "To sterilize the nipple",
+      "D": "To improve milk flavor"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does a well-fitting nursing bra allow?",
+    "options": {
+      "A": "Uncovering breasts without taking off the bra",
+      "B": "Tighter support",
+      "C": "Better shape",
+      "D": "Prevents all leaks"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the final step in documentation?",
+    "options": {
+      "A": "Document the procedure accurately and report any abnormalities",
+      "B": "Only document if something is wrong",
+      "C": "Do not document routine care",
+      "D": "Document only mother's name"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "When should the nurse wear gloves during the procedure?",
+    "options": {
+      "A": "At the beginning, before touching the breast",
+      "B": "Only at the end",
+      "C": "Never",
+      "D": "Only if there is an infection"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       }
@@ -5280,6 +5743,7 @@
     }
   }
 }
+
 
 
 
