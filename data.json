@@ -1021,7 +1021,448 @@
         "title": "Perineal care",
         "icon": "fas fa-pump-soap",
         "description": "Care of the perineal area.",
-        "quiz": [],
+        "quiz": [
+          {
+    "question": "What is perineal care?",
+    "options": {
+      "A": "A procedure for cleaning the face",
+      "B": "A procedure for cleaning the perineum and vulva",
+      "C": "A procedure for cleaning the breasts",
+      "D": "A procedure for cleaning the hands"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one objective of perineal care?",
+    "options": {
+      "A": "To increase body temperature",
+      "B": "To clean the perineum",
+      "C": "To check blood sugar",
+      "D": "To measure blood pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is an indication for perineal care?",
+    "options": {
+      "A": "Before any gynecological procedure",
+      "B": "Only after surgery",
+      "C": "Only during pregnancy",
+      "D": "Only for diabetic patients"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of a peri-bottle?",
+    "options": {
+      "A": "To drink water",
+      "B": "For rinsing the perineal area with warm water",
+      "C": "To store medication",
+      "D": "To measure urine output"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which item is used to absorb lochia?",
+    "options": {
+      "A": "Towel",
+      "B": "Sterile perineal pads",
+      "C": "Mackintosh",
+      "D": "Ice pack"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of a mackintosh?",
+    "options": {
+      "A": "To dry the perineum",
+      "B": "To protect bedding during the procedure",
+      "C": "To apply antiseptic",
+      "D": "To warm the water"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is used to reduce swelling and discomfort in the first 48 hours?",
+    "options": {
+      "A": "Hot compress",
+      "B": "Ice pack / cold perineal pad",
+      "C": "Heating pad",
+      "D": "Warm water bottle"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does REEDA stand for?",
+    "options": {
+      "A": "Redness, Edema, Ecchymosis, Discharge, Approximation",
+      "B": "Rash, Edema, Erythema, Discharge, Alignment",
+      "C": "Redness, Swelling, Bruising, Secretion, Closure",
+      "D": "Relief, Edema, Ecchymosis, Discharge, Approximation"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the first step in the preparation for perineal care?",
+    "options": {
+      "A": "Prepare supplies",
+      "B": "Perform proper hand hygiene",
+      "C": "Explain the procedure",
+      "D": "Provide privacy"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should the woman be encouraged to do before the procedure?",
+    "options": {
+      "A": "Eat a meal",
+      "B": "Empty her bladder",
+      "C": "Take a walk",
+      "D": "Drink water"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "In what position should the woman be assisted?",
+    "options": {
+      "A": "Prone position",
+      "B": "Dorsal recumbent position (knees bent, legs apart)",
+      "C": "Lateral position",
+      "D": "Sitting position"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should a soiled perineal pad be removed?",
+    "options": {
+      "A": "From back to front",
+      "B": "From front to back",
+      "C": "From side to side",
+      "D": "Any direction"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be assessed on the soiled pad?",
+    "options": {
+      "A": "Only color",
+      "B": "Amount, color, odor, consistency of lochia",
+      "C": "Only odor",
+      "D": "Only size"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "In which order should cleaning be performed?",
+    "options": {
+      "A": "From back to front",
+      "B": "From front to back",
+      "C": "In a circular motion",
+      "D": "From side to side"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which area is cleaned first?",
+    "options": {
+      "A": "Inner thigh",
+      "B": "Clitoris upward to pubic area",
+      "C": "Labia majora",
+      "D": "Vestibule"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should drying be performed?",
+    "options": {
+      "A": "Rubbing vigorously",
+      "B": "Pat dry using front-to-back principle",
+      "C": "Using a hairdryer",
+      "D": "Air drying only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should a sterile perineal pad be applied?",
+    "options": {
+      "A": "Without touching the inner surface",
+      "B": "Touching the inner surface",
+      "C": "Folding it first",
+      "D": "Wetting it first"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done after the procedure regarding the woman?",
+    "options": {
+      "A": "Leave her alone",
+      "B": "Inform her about findings and reassure her",
+      "C": "Only give medication",
+      "D": "Ask her to get dressed immediately"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be documented post-procedure?",
+    "options": {
+      "A": "Only the time",
+      "B": "Time, description of lochia, condition of perineum (REEDA), woman's response, any abnormalities",
+      "C": "Only the woman's name",
+      "D": "Only the nurse's name"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How often should pads be changed?",
+    "options": {
+      "A": "Every 8-10 hours",
+      "B": "Every 2-4 hours or when saturated",
+      "C": "Once a day",
+      "D": "Only when soiled"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is recommended to reduce moisture?",
+    "options": {
+      "A": "Use talcum powder",
+      "B": "Air dry the area regularly",
+      "C": "Wear tight clothing",
+      "D": "Use perfumed sprays"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When should sitz baths be started?",
+    "options": {
+      "A": "Immediately after delivery",
+      "B": "After 48 hours post-delivery",
+      "C": "After one week",
+      "D": "Only if prescribed"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How long should sitz baths last?",
+    "options": {
+      "A": "30 minutes",
+      "B": "10-15 minutes",
+      "C": "5 minutes",
+      "D": "1 hour"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be worn for comfort and hygiene?",
+    "options": {
+      "A": "Tight synthetic underwear",
+      "B": "Loose cotton underwear",
+      "C": "No underwear",
+      "D": "Woolen underwear"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When can pelvic floor exercises (Kegels) be started after birth?",
+    "options": {
+      "A": "Immediately",
+      "B": "2-3 days after birth if pain allows",
+      "C": "After 6 weeks",
+      "D": "Only after doctor's permission"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be avoided to prevent constipation?",
+    "options": {
+      "A": "High-fiber foods",
+      "B": "Dehydration",
+      "C": "Correct toilet posture",
+      "D": "Laxatives"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When can sexual activity be resumed after birth?",
+    "options": {
+      "A": "After 1 week",
+      "B": "After 4-6 weeks, or as advised",
+      "C": "Immediately",
+      "D": "After 3 months"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a postpartum danger sign requiring medical attention?",
+    "options": {
+      "A": "Mild fatigue",
+      "B": "Fever above 100.4°F (38°C)",
+      "C": "Slight discomfort",
+      "D": "Normal lochia"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What type of discharge should prompt medical attention?",
+    "options": {
+      "A": "Normal lochia",
+      "B": "Foul-smelling or unusual vaginal discharge",
+      "C": "Clear discharge",
+      "D": "Slight spotting"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done with used cotton swabs?",
+    "options": {
+      "A": "Reuse them",
+      "B": "Discard them properly",
+      "C": "Wash and reuse",
+      "D": "Leave them on the bed"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why are sterile gloves worn after removing soiled pads?",
+    "options": {
+      "A": "To save time",
+      "B": "To maintain asepsis during cleaning and assessment",
+      "C": "Because they are more comfortable",
+      "D": "It is optional"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of assessing the perineum using the REEDA scale?",
+    "options": {
+      "A": "To check for breast engorgement",
+      "B": "To assess perineal healing and signs of infection",
+      "C": "To measure vital signs",
+      "D": "To assess mental status"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should water temperature be tested?",
+    "options": {
+      "A": "By feeling it with the elbow",
+      "B": "By asking the woman to test it",
+      "C": "Prepare warm water (test temperature)",
+      "D": "Use a thermometer"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the correct cleaning motion for the clitoris to pubic area?",
+    "options": {
+      "A": "Circular motion",
+      "B": "Zigzag motion",
+      "C": "Straight line",
+      "D": "No specific motion"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which part of the vestibule is cleaned first?",
+    "options": {
+      "A": "Rectum",
+      "B": "Vaginal opening",
+      "C": "Urethral opening",
+      "D": "Any order"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What should be used to clean the perineal area?",
+    "options": {
+      "A": "One cotton swab for the entire area",
+      "B": "One cotton swab per stroke",
+      "C": "A washcloth",
+      "D": "Toilet paper"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of educating the woman on self-care perineal hygiene?",
+    "options": {
+      "A": "To make her dependent",
+      "B": "To empower her and promote healing",
+      "C": "To save nurse's time",
+      "D": "It is not necessary"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the woman rinse the perineal area after urination or bowel movement?",
+    "options": {
+      "A": "With cold water",
+      "B": "With soap and water",
+      "C": "With a peri-bottle, front to back, with warm water",
+      "D": "With antiseptic solution"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What should be avoided on the perineal area?",
+    "options": {
+      "A": "Warm water",
+      "B": "Harsh soaps or perfumed products",
+      "C": "Cotton swabs",
+      "D": "Peri-bottle"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What can be used for pain and inflammation?",
+    "options": {
+      "A": "Rubbing alcohol",
+      "B": "Witch hazel pads or sprays",
+      "C": "Antibiotic cream",
+      "D": "Vinegar"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -5743,6 +6184,7 @@
     }
   }
 }
+
 
 
 
