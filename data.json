@@ -1894,7 +1894,470 @@
         "title": "Episiotomy",
         "icon": "fas fa-scissors",
         "description": "Understanding episiotomy.",
-        "quiz": [],
+        "quiz": [
+          {
+    "question": "What is an episiotomy?",
+    "options": {
+      "A": "A tear in the perineum during childbirth",
+      "B": "A surgical incision of the perineum and posterior vaginal wall to enlarge the vaginal opening",
+      "C": "A type of fetal monitoring procedure",
+      "D": "A medication given during labor"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When is an episiotomy typically performed?",
+    "options": {
+      "A": "During the first stage of labor",
+      "B": "During the second stage of labor",
+      "C": "After delivery of the placenta",
+      "D": "During prenatal care"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one purpose of performing an episiotomy?",
+    "options": {
+      "A": "To lengthen the second stage of labor",
+      "B": "To shorten the second stage of labor",
+      "C": "To increase fetal distress",
+      "D": "To prevent uterine atony"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which degree of perineal tear involves only the vaginal mucosa and perineal skin?",
+    "options": {
+      "A": "First degree",
+      "B": "Second degree",
+      "C": "Third degree",
+      "D": "Fourth degree"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Which degree of tear extends into the rectal mucosa?",
+    "options": {
+      "A": "First degree",
+      "B": "Second degree",
+      "C": "Third degree",
+      "D": "Fourth degree"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is a maternal indication for episiotomy?",
+    "options": {
+      "A": "Fetal distress",
+      "B": "Primiparity",
+      "C": "Preterm baby",
+      "D": "Breech delivery"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is a fetal indication for episiotomy?",
+    "options": {
+      "A": "Old perineal scar",
+      "B": "Prolonged second stage",
+      "C": "Large sized baby",
+      "D": "Instrumental delivery"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "When is the incision for an episiotomy ideally made?",
+    "options": {
+      "A": "Before labor begins",
+      "B": "When the fetal head is crowning 3-4 cm, during a contraction",
+      "C": "After delivery of the placenta",
+      "D": "During the first stage of labor"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which local anesthetic is commonly used for episiotomy?",
+    "options": {
+      "A": "Morphine",
+      "B": "Lidocaine",
+      "C": "Ibuprofen",
+      "D": "Epinephrine"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the recommended position for the mother during episiotomy?",
+    "options": {
+      "A": "Left lateral position",
+      "B": "Lithotomy position",
+      "C": "Prone position",
+      "D": "Sitting position"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why should fingers be placed between the fetal presenting part and the perineum before the incision?",
+    "options": {
+      "A": "To speed up delivery",
+      "B": "To prevent injury to the fetal scalp",
+      "C": "To measure cervical dilation",
+      "D": "To reduce maternal pain"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the first step in the preparation for an episiotomy?",
+    "options": {
+      "A": "Explain the procedure",
+      "B": "Hand washing",
+      "C": "Position the mother",
+      "D": "Perform perineal care"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Before injecting local anesthesia, what should be checked?",
+    "options": {
+      "A": "Maternal blood pressure",
+      "B": "Allergy to lidocaine",
+      "C": "Fetal heart rate",
+      "D": "Cervical effacement"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the needle be positioned when injecting local anesthesia?",
+    "options": {
+      "A": "At a 90-degree angle to the skin",
+      "B": "At a 20-degree angle to the perineal skin",
+      "C": "Parallel to the perineum",
+      "D": "Directly into the vaginal canal"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done after aspirating the syringe during local anesthesia administration?",
+    "options": {
+      "A": "Inject immediately if blood is seen",
+      "B": "Reposition the needle if blood is aspirated",
+      "C": "Increase the dose",
+      "D": "Withdraw the needle completely"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How long should you wait for the local anesthesia to become effective?",
+    "options": {
+      "A": "1 minute",
+      "B": "7 minutes",
+      "C": "15 minutes",
+      "D": "30 minutes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the typical length of an episiotomy incision?",
+    "options": {
+      "A": "1-2 cm",
+      "B": "3-5 cm",
+      "C": "6-8 cm",
+      "D": "10-12 cm"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which type of episiotomy extends directly from the lower vaginal border towards the anus?",
+    "options": {
+      "A": "Mediolateral",
+      "B": "Median (midline)",
+      "C": "J-shaped",
+      "D": "Lateral"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which type of episiotomy is performed at a 45-60 degree angle?",
+    "options": {
+      "A": "Median",
+      "B": "Mediolateral",
+      "C": "Midline",
+      "D": "Transverse"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is an advantage of a median episiotomy?",
+    "options": {
+      "A": "Less blood loss",
+      "B": "Easier to repair",
+      "C": "Lower risk of third-degree tear",
+      "D": "Both A and B"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What is a disadvantage of a mediolateral episiotomy?",
+    "options": {
+      "A": "More difficult to repair",
+      "B": "More blood loss",
+      "C": "More postoperative pain",
+      "D": "All of the above"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "When is episiotomy repair typically begun?",
+    "options": {
+      "A": "Before delivery of the placenta",
+      "B": "Soon after expulsion of the placenta",
+      "C": "24 hours after delivery",
+      "D": "During the first stage of labor"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done before starting suturing?",
+    "options": {
+      "A": "Administer more anesthesia",
+      "B": "Locate the apex of the episiotomy",
+      "C": "Ask the mother to push",
+      "D": "Apply ice to the perineum"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which suture technique is typically used for the vaginal mucosa?",
+    "options": {
+      "A": "Interrupted sutures",
+      "B": "Continuous sutures",
+      "C": "No sutures needed",
+      "D": "Staples"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why is a finger inserted into the rectum after suturing?",
+    "options": {
+      "A": "To check for hemorrhoids",
+      "B": "To ensure no suture has been placed through the rectal wall",
+      "C": "To stimulate bowel movement",
+      "D": "To apply medication"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be applied to the episiotomy site during post-care?",
+    "options": {
+      "A": "Antibiotic ointment",
+      "B": "Sterile dressing",
+      "C": "Heat pack",
+      "D": "Alcohol swab"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How often should sanitary pads be changed to prevent infection?",
+    "options": {
+      "A": "Every 8 hours",
+      "B": "At least every 4 hours",
+      "C": "Once daily",
+      "D": "Only when saturated"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What dietary advice should be given to a woman after episiotomy?",
+    "options": {
+      "A": "Low-fiber diet",
+      "B": "High-fiber diet and fluids",
+      "C": "High-protein diet only",
+      "D": "Avoid all fluids"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which position should the woman avoid while the episiotomy is healing?",
+    "options": {
+      "A": "Supine position",
+      "B": "Squatting position",
+      "C": "Left lateral position",
+      "D": "Sitting position"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does the \"REEDDA\" scale evaluate?",
+    "options": {
+      "A": "Fetal wellbeing",
+      "B": "Episiotomy healing",
+      "C": "Uterine involution",
+      "D": "Breast engorgement"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does the \"R\" in REEDDA stand for?",
+    "options": {
+      "A": "Rupture",
+      "B": "Redness",
+      "C": "Relaxation",
+      "D": "Rotation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be documented after an episiotomy?",
+    "options": {
+      "A": "Type and site of episiotomy",
+      "B": "Any abnormalities like laceration or hematoma",
+      "C": "Both A and B",
+      "D": "Only maternal vital signs"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is a sign of episiotomy infection?",
+    "options": {
+      "A": "Mild itching",
+      "B": "Redness, purulent discharge",
+      "C": "Temporary swelling",
+      "D": "Slight bruising"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which instrument is specifically used for making the episiotomy incision?",
+    "options": {
+      "A": "Scalpel",
+      "B": "Episiotomy scissors",
+      "C": "Forceps",
+      "D": "Needle holder"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What suture material is commonly used for episiotomy repair?",
+    "options": {
+      "A": "Nylon",
+      "B": "Chromic catgut",
+      "C": "Silk",
+      "D": "Steel wire"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which needle is typically used for suturing the skin?",
+    "options": {
+      "A": "Round needle",
+      "B": "Cutting needle",
+      "C": "Tapered needle",
+      "D": "Curved needle"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done with used instruments after the procedure?",
+    "options": {
+      "A": "Discard them immediately",
+      "B": "Clean and return them",
+      "C": "Give them to the patient",
+      "D": "Leave them at the bedside"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why is perineal care performed before the episiotomy?",
+    "options": {
+      "A": "To reduce swelling",
+      "B": "To maintain cleanliness and reduce infection risk",
+      "C": "To numb the area",
+      "D": "To measure the perineum"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the role of a vaginal pack or swab during repair?",
+    "options": {
+      "A": "To absorb blood",
+      "B": "To improve visualization by keeping the field clear",
+      "C": "To prevent infection",
+      "D": "To support the perineum"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is NOT part of health education after episiotomy?",
+    "options": {
+      "A": "Change pads regularly",
+      "B": "Keep the wound clean and dry",
+      "C": "Avoid high-fiber foods",
+      "D": "Watch for signs of infection"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What complication is a median episiotomy more at risk for?",
+    "options": {
+      "A": "Extension into a third- or fourth-degree tear",
+      "B": "Excessive bleeding",
+      "C": "Poor healing",
+      "D": "Infection"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the main goal of episiotomy repair?",
+    "options": {
+      "A": "To stop bleeding and restore anatomy",
+      "B": "To prevent future pregnancies",
+      "C": "To reduce pain immediately",
+      "D": "To shorten hospital stay"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -7011,6 +7474,7 @@
     }
   }
 }
+
 
 
 
