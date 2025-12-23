@@ -174,7 +174,822 @@
         "title": "Abdominal Examination",
         "icon": "fas fa-hand-holding-medical",
         "description": "Examination of the pregnant abdomen.",
-        "quiz": [],
+        "quiz": [
+          {
+    "question": "What does \"antenatal\" mean?",
+    "options": {
+      "A": "After delivery",
+      "B": "During delivery",
+      "C": "Before delivery",
+      "D": "None of the above"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does antenatal assessment consist of?",
+    "options": {
+      "A": "History taking, Physical examination, Lab investigation",
+      "B": "Surgery, Medication, Follow-up",
+      "C": "X-ray, Ultrasound, Blood test only",
+      "D": "Counseling, Exercise, Diet only"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of knowing the first day of the last menstrual period (LMP)?",
+    "options": {
+      "A": "To determine blood type",
+      "B": "To detect the Expected Date of Delivery (EDD)",
+      "C": "To check for infections",
+      "D": "To measure blood pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "According to Naegele's rule, if the LMP is in January, what do you do to calculate EDD?",
+    "options": {
+      "A": "Add 7 days and subtract 3 months",
+      "B": "Add 9 months and 7 days",
+      "C": "Add 1 year and 7 days",
+      "D": "Subtract 9 months and add 7 days"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "If LMP is 4/6/2022, what is the EDD using Naegele's rule?",
+    "options": {
+      "A": "11/3/2023",
+      "B": "1/1/2023",
+      "C": "8/11/2022",
+      "D": "4/9/2022"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is considered a short height that may indicate a likely cesarean section?",
+    "options": {
+      "A": "Less than 140 cm",
+      "B": "Less than 150 cm",
+      "C": "Less than 160 cm",
+      "D": "Less than 170 cm"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is \"chloasma\" in pregnancy?",
+    "options": {
+      "A": "A type of edema",
+      "B": "A face mask (skin hyperpigmentation)",
+      "C": "A heart murmur",
+      "D": "A type of stretch mark"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of local abdominal examination?",
+    "options": {
+      "A": "To confirm pregnancy",
+      "B": "To calculate gestational age",
+      "C": "To assess wellbeing of mother and fetus",
+      "D": "All of the above"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What is \"lie\" in obstetrics?",
+    "options": {
+      "A": "Relationship between fetal parts to each other",
+      "B": "Relationship between long axis of fetus and long axis of mother",
+      "C": "The presenting part in the pelvic brim",
+      "D": "Relationship between fetal back and mother's back"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which is NOT a type of lie?",
+    "options": {
+      "A": "Longitudinal",
+      "B": "Transverse",
+      "C": "Oblique",
+      "D": "Cephalic"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What is \"attitude\"?",
+    "options": {
+      "A": "Relationship between fetal parts to each other",
+      "B": "Relationship between fetal long axis and maternal long axis",
+      "C": "The presenting part",
+      "D": "Position of the fetal back"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is a \"cephalic presentation\"?",
+    "options": {
+      "A": "Buttocks presenting",
+      "B": "Head presenting",
+      "C": "Shoulder presenting",
+      "D": "Foot presenting"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What determines the \"position\" of the fetus?",
+    "options": {
+      "A": "Relationship between fetal back and mother's back",
+      "B": "Relationship between fetal long axis and maternal long axis",
+      "C": "The presenting part",
+      "D": "Fetal heart rate"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What does LSA stand for?",
+    "options": {
+      "A": "Left Sacrum Anterior",
+      "B": "Left Scapula Anterior",
+      "C": "Longitudinal Sacrum Anterior",
+      "D": "Lateral Sacrum Anterior"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What are the methods of local abdominal examination?",
+    "options": {
+      "A": "Inspection, Palpation, Auscultation",
+      "B": "Inspection, Percussion, Auscultation",
+      "C": "Palpation, Percussion, Auscultation",
+      "D": "Inspection, Palpation, Percussion"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What should the nurse do first in preparing the client for abdominal examination?",
+    "options": {
+      "A": "Ask her to empty her bladder",
+      "B": "Explain the steps and obtain consent",
+      "C": "Position her on the couch",
+      "D": "Provide a drape"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the woman be positioned for the abdominal exam?",
+    "options": {
+      "A": "On her back with legs straight",
+      "B": "On her back with knees flexed and slightly separated",
+      "C": "On her left side",
+      "D": "In a sitting position"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Where should the nurse stand during the exam?",
+    "options": {
+      "A": "At the left side of the woman",
+      "B": "At the woman's head",
+      "C": "At the right side of the woman",
+      "D": "At the woman's feet"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is inspected on the abdomen?",
+    "options": {
+      "A": "Scars, skin pigmentation, shape, fetal movement, size",
+      "B": "Heart sounds, lung sounds, bowel sounds",
+      "C": "Reflexes, muscle strength, sensation",
+      "D": "Hair distribution, nail color, skin temperature"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is \"linea nigra\"?",
+    "options": {
+      "A": "A type of scar",
+      "B": "A dark line on the abdomen during pregnancy",
+      "C": "A stretch mark",
+      "D": "A type of rash"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a cause of a large abdomen for gestational age?",
+    "options": {
+      "A": "Oligohydramnios",
+      "B": "IUGR",
+      "C": "Polyhydramnios",
+      "D": "Miscalculation only"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is a cause of a small abdomen for gestational age?",
+    "options": {
+      "A": "Multiple pregnancies",
+      "B": "Macrosomic baby",
+      "C": "Oligohydramnios",
+      "D": "Polyhydramnios"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of measuring fundal height?",
+    "options": {
+      "A": "To determine fetal position",
+      "B": "To determine weeks of gestation",
+      "C": "To check for fetal movement",
+      "D": "To assess maternal blood pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "At how many weeks is the fundus typically at the umbilicus?",
+    "options": {
+      "A": "20 weeks",
+      "B": "24 weeks",
+      "C": "28 weeks",
+      "D": "32 weeks"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is gestational age estimated using a measuring tape?",
+    "options": {
+      "A": "Each 1 cm corresponds to 1 week",
+      "B": "Each 2 cm corresponds to 1 week",
+      "C": "Each 1 inch corresponds to 1 week",
+      "D": "Each 5 cm corresponds to 1 month"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the first Leopold maneuver used to determine?",
+    "options": {
+      "A": "Which part of the fetus is in the fundus",
+      "B": "The lie and position of the fetus",
+      "C": "The engagement of the presenting part",
+      "D": "The attitude of the fetal head"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "If the fundal part feels small, hard, and rounded, what is it likely to be?",
+    "options": {
+      "A": "Breech",
+      "B": "Head",
+      "C": "Back",
+      "D": "Extremities"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the second Leopold maneuver used to determine?",
+    "options": {
+      "A": "What is in the fundus",
+      "B": "Lie and position of the fetus, and location of the fetal back",
+      "C": "Engagement of the presenting part",
+      "D": "Attitude of the fetal head"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How does the fetal back feel on palpation?",
+    "options": {
+      "A": "Irregular, with grooves",
+      "B": "Long, regular, firm, and curved",
+      "C": "Soft and irregular",
+      "D": "Small and hard"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When is the third Leopold maneuver (Pawlik grip) typically performed?",
+    "options": {
+      "A": "At 20 weeks",
+      "B": "At 28 weeks",
+      "C": "At 36 weeks (9th month)",
+      "D": "At 40 weeks"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does the third maneuver assess?",
+    "options": {
+      "A": "Fundal contents",
+      "B": "Fetal back",
+      "C": "Size, mobility, and engagement of the presenting part",
+      "D": "Fetal attitude"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is engagement?",
+    "options": {
+      "A": "The presenting part entering the pelvic brim",
+      "B": "The fetus turning head down",
+      "C": "The start of labor",
+      "D": "The descent of the fetus into the pelvis during labor"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "How is engagement assessed using the \"rule of fifths\"?",
+    "options": {
+      "A": "By listening to fetal heart sounds",
+      "B": "By measuring fundal height",
+      "C": "By palpating how much of the fetal head is palpable abdominally",
+      "D": "By checking cervical dilation"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "If the entire head is felt abdominally, how many fifths palpable is it?",
+    "options": {
+      "A": "0/5",
+      "B": "3/5",
+      "C": "5/5",
+      "D": "2/5"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does the fourth Leopold maneuver determine?",
+    "options": {
+      "A": "Fundal contents",
+      "B": "Fetal lie",
+      "C": "Attitude of the fetal head",
+      "D": "Fetal heart rate location"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "During the fourth maneuver, where are the nurse's hands placed?",
+    "options": {
+      "A": "On the fundus",
+      "B": "On the sides of the uterus",
+      "C": "Just below the umbilicus",
+      "D": "Above the symphysis pubis"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "At what week can the fetal heart rate be heard with a Pinard fetoscope?",
+    "options": {
+      "A": "10 weeks",
+      "B": "16 weeks",
+      "C": "20 weeks",
+      "D": "28 weeks"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What device can be used to hear the fetal heart rate at 10 weeks?",
+    "options": {
+      "A": "Pinard fetoscope",
+      "B": "Stethoscope",
+      "C": "Sonicaid (Doppler)",
+      "D": "Ultrasound only"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done after the examination?",
+    "options": {
+      "A": "Leave the woman uncovered",
+      "B": "Drape the exposed abdomen",
+      "C": "Discard gloves by throwing them in regular trash",
+      "D": "Keep findings confidential from the woman"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should gloves be removed?",
+    "options": {
+      "A": "By pulling them off quickly",
+      "B": "By turning them inside out",
+      "C": "By washing them for reuse",
+      "D": "By asking the woman to remove them"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which lab test is done to check for diabetes at 28 weeks?",
+    "options": {
+      "A": "Urine analysis for sugar",
+      "B": "Hemoglobin test",
+      "C": "Blood glucose test",
+      "D": "Blood group test"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is tested in a urine analysis during antenatal care?",
+    "options": {
+      "A": "Sugar and albumin",
+      "B": "Blood and bilirubin",
+      "C": "Ketones and bacteria",
+      "D": "Protein and glucose"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Why is blood group and Rh testing important?",
+    "options": {
+      "A": "To check for anemia",
+      "B": "To check for diabetes",
+      "C": "To identify risk of Rh incompatibility",
+      "D": "To screen for infections"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What might a culture of cells from the cervix test for?",
+    "options": {
+      "A": "Diabetes",
+      "B": "Anemia",
+      "C": "Infection",
+      "D": "Blood type"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of measuring the woman's weight?",
+    "options": {
+      "A": "To calculate drug doses",
+      "B": "To assess weight gain in pregnancy",
+      "C": "To determine fetal weight",
+      "D": "To check for edema"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is examined during the general physical exam?",
+    "options": {
+      "A": "Head, chest, genitalia, extremities",
+      "B": "Only the abdomen",
+      "C": "Only the heart and lungs",
+      "D": "Only the breasts"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What are \"danger signs of pregnancy\" checked for?",
+    "options": {
+      "A": "Normal pregnancy symptoms",
+      "B": "Signs that may indicate complications",
+      "C": "Fetal movement patterns",
+      "D": "Maternal vital signs only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does \"gravida\" mean?",
+    "options": {
+      "A": "Number of pregnancies",
+      "B": "Number of live births",
+      "C": "Number of abortions",
+      "D": "Number of children"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What does \"para\" mean?",
+    "options": {
+      "A": "Number of pregnancies",
+      "B": "Number of births after 20 weeks (alive or dead)",
+      "C": "Number of living children",
+      "D": "Number of cesarean sections"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is included in menstrual history?",
+    "options": {
+      "A": "First day of LMP",
+      "B": "Blood group",
+      "C": "Surgical history",
+      "D": "Family history"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is Negele's rule used for?",
+    "options": {
+      "A": "To calculate fundal height",
+      "B": "To calculate Expected Date of Delivery",
+      "C": "To determine fetal lie",
+      "D": "To assess engagement"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "If LMP is 1/2/2022, what is the EDD?",
+    "options": {
+      "A": "8/11/2022",
+      "B": "1/11/2022",
+      "C": "8/9/2022",
+      "D": "11/3/2023"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What does EDD +/- 2 weeks mean?",
+    "options": {
+      "A": "The baby will be born exactly on that date",
+      "B": "The baby is likely to be born within two weeks before or after that date",
+      "C": "The pregnancy will last two weeks longer",
+      "D": "The due date is uncertain by two months"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of auscultation of the heart and lungs?",
+    "options": {
+      "A": "To check for fetal wellbeing",
+      "B": "To assess maternal cardiac and respiratory health",
+      "C": "To detect uterine contractions",
+      "D": "To measure blood pressure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why are breasts and nipples examined?",
+    "options": {
+      "A": "To check for cancer",
+      "B": "To assess for breastfeeding readiness",
+      "C": "To measure hormone levels",
+      "D": "To detect infections"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is checked in the examination of legs?",
+    "options": {
+      "A": "Varicose veins and edema",
+      "B": "Muscle strength",
+      "C": "Reflexes",
+      "D": "Bone density"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of inspecting the teeth?",
+    "options": {
+      "A": "To assess dental health, which can affect pregnancy",
+      "B": "To check for oral cancer",
+      "C": "To determine nutritional intake",
+      "D": "To estimate gestational age"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What blood tests are typically done?",
+    "options": {
+      "A": "Hemoglobin, blood group, antibody screen, syphilis, rubella, AFP, Hepatitis B",
+      "B": "Only hemoglobin and blood group",
+      "C": "Only sugar and albumin",
+      "D": "Only HIV test"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What does AFP screening test for?",
+    "options": {
+      "A": "Anemia",
+      "B": "Neural tube defects",
+      "C": "Diabetes",
+      "D": "Infections"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of the antibody screen?",
+    "options": {
+      "A": "To check for immunity to rubella",
+      "B": "To detect irregular antibodies that could affect the fetus",
+      "C": "To diagnose syphilis",
+      "D": "To measure hemoglobin levels"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When is a blood test for syphilis typically performed?",
+    "options": {
+      "A": "At the first antenatal visit",
+      "B": "At 28 weeks only",
+      "C": "During labor",
+      "D": "After delivery"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of checking for rubella immunity?",
+    "options": {
+      "A": "To treat if present",
+      "B": "To prevent congenital rubella syndrome",
+      "C": "To determine blood type",
+      "D": "To assess nutritional status"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is Hepatitis B screening for?",
+    "options": {
+      "A": "To check liver function",
+      "B": "To prevent transmission to the newborn",
+      "C": "To diagnose gestational diabetes",
+      "D": "To assess for anemia"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the role of the nurse during the abdominal exam?",
+    "options": {
+      "A": "To perform the exam quickly",
+      "B": "To explain each step and provide emotional support",
+      "C": "To make a diagnosis",
+      "D": "To prescribe medication"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why is it important to ask the woman to empty her bladder?",
+    "options": {
+      "A": "To obtain a urine sample",
+      "B": "For comfort and to facilitate abdominal palpation",
+      "C": "To test kidney function",
+      "D": "To prevent infection"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does \"striae gravidarum\" refer to?",
+    "options": {
+      "A": "Linea nigra",
+      "B": "Stretch marks",
+      "C": "Chloasma",
+      "D": "Varicose veins"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What might fetal movement on inspection indicate?",
+    "options": {
+      "A": "Fetal wellbeing",
+      "B": "Fetal distress",
+      "C": "Multiple pregnancy",
+      "D": "Oligohydramnios"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the \"second grip\" also known as?",
+    "options": {
+      "A": "Fundal palpation",
+      "B": "Lateral palpation",
+      "C": "Pawlik grip",
+      "D": "Pelvic palpation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the \"fourth grip\" also known as?",
+    "options": {
+      "A": "Fundal palpation",
+      "B": "Lateral palpation",
+      "C": "Pawlik grip",
+      "D": "Pelvic palpation"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What does a fully engaged head mean according to the rule of fifths?",
+    "options": {
+      "A": "5/5 palpable",
+      "B": "3/5 palpable",
+      "C": "0/5 palpable",
+      "D": "2/5 palpable"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Where is the fetal heart rate best heard?",
+    "options": {
+      "A": "Over the fetal back",
+      "B": "Over the fetal extremities",
+      "C": "Directly over the mother's heart",
+      "D": "It can be heard anywhere"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What should the nurse share with the woman after the exam?",
+    "options": {
+      "A": "Only abnormal findings",
+      "B": "The findings and the woman's reaction",
+      "C": "Nothing, it's confidential",
+      "D": "A prescription"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is recorded after the examination?",
+    "options": {
+      "A": "Only the fetal heart rate",
+      "B": "The findings and the woman's reaction",
+      "C": "Only the gestational age",
+      "D": "Only the mother's weight"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the overall goal of antenatal assessment?",
+    "options": {
+      "A": "To deliver the baby",
+      "B": "Comprehensive health supervision of the pregnant woman",
+      "C": "To perform lab tests only",
+      "D": "To schedule a cesarean section"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -4465,6 +5280,7 @@
     }
   }
 }
+
 
 
 
