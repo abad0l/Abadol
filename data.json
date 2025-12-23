@@ -1005,7 +1005,415 @@
         "title": "Management of oxytocin infusion",
         "icon": "fas fa-syringe",
         "description": "Managing oxytocin infusion.",
-        "quiz": [],
+        "quiz": [
+          {
+    "question": "What is the primary action of oxytocin on the uterus?",
+    "options": {
+      "A": "It relaxes uterine muscles",
+      "B": "It increases calcium inside muscle cells, causing contractions",
+      "C": "It decreases prostaglandin production",
+      "D": "It reduces blood flow to the uterus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is a clinical use of oxytocin?",
+    "options": {
+      "A": "Treatment of hypertension",
+      "B": "Induction and augmentation of labor",
+      "C": "Reduction of fetal heart rate",
+      "D": "Treatment of maternal diabetes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What equipment is specifically required for continuous fetal monitoring during oxytocin administration?",
+    "options": {
+      "A": "Stethoscope",
+      "B": "Electronic fetal monitor",
+      "C": "Thermometer",
+      "D": "Urine catheter"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which IV fluid is commonly used to dilute oxytocin for infusion?",
+    "options": {
+      "A": "500 mL of Ringer’s lactate",
+      "B": "100 mL of Dextrose 50%",
+      "C": "250 mL of Hypertonic saline",
+      "D": "1 L of Sterile water"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is a maternal contraindication for oxytocin administration?",
+    "options": {
+      "A": "Mild anemia",
+      "B": "Cephalopelvic disproportion (CPD)",
+      "C": "First pregnancy",
+      "D": "Maternal age over 30"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which fetal condition is a contraindication for oxytocin use?",
+    "options": {
+      "A": "Normal fetal heart rate",
+      "B": "Fetal distress",
+      "C": "Cephalic presentation",
+      "D": "Estimated fetal weight of 3 kg"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What maternal vital sign must be assessed before starting oxytocin?",
+    "options": {
+      "A": "Blood pressure",
+      "B": "Respiratory rate",
+      "C": "Temperature",
+      "D": "All of the above"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "In which position should the patient be placed before starting oxytocin infusion?",
+    "options": {
+      "A": "Prone position",
+      "B": "Left lateral position",
+      "C": "Right lateral position",
+      "D": "Trendelenburg position"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How long should fetal monitoring be performed before starting oxytocin?",
+    "options": {
+      "A": "5 minutes",
+      "B": "At least 20 minutes",
+      "C": "1 hour",
+      "D": "10 minutes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is oxytocin typically diluted for intravenous infusion?",
+    "options": {
+      "A": "10 IU oxytocin in 1 mL of IV fluid",
+      "B": "10 IU oxytocin in 10 mL of IV fluid, then add 5 mL of this to 500 mL IV fluid",
+      "C": "5 IU oxytocin directly into 500 mL IV fluid",
+      "D": "1 IU oxytocin in 100 mL IV fluid"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the typical starting dose of oxytocin infusion?",
+    "options": {
+      "A": "5–10 mU/min",
+      "B": "0.5–1.0 mU/min",
+      "C": "2–3 mU/min",
+      "D": "10–15 mU/min"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How often should the oxytocin dose be titrated?",
+    "options": {
+      "A": "Every 5 minutes",
+      "B": "Every 15–60 minutes",
+      "C": "Every 2 hours",
+      "D": "Once per shift"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What defines effective uterine contractions for labor augmentation?",
+    "options": {
+      "A": "1–2 contractions per 10 minutes, each lasting 20 seconds",
+      "B": "3–5 contractions per 10 minutes, each lasting >40 seconds",
+      "C": "6–8 contractions per 10 minutes, each lasting 30 seconds",
+      "D": "Irregular contractions of any duration"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is considered uterine hyperstimulation?",
+    "options": {
+      "A": "Contractions lasting <30 seconds",
+      "B": "Contractions >60 seconds or >5 per 10 minutes",
+      "C": "No contractions for 20 minutes",
+      "D": "Mild, irregular contractions"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the first action if complications such as hyperstimulation occur?",
+    "options": {
+      "A": "Increase the oxytocin dose",
+      "B": "Stop the infusion immediately",
+      "C": "Administer additional IV fluids only",
+      "D": "Change the patient's position to prone"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which intervention is appropriate if uterine hyperstimulation occurs?",
+    "options": {
+      "A": "Administer a tocolytic like Terbutaline",
+      "B": "Increase the oxytocin infusion rate",
+      "C": "Encourage the patient to walk",
+      "D": "Apply fundal pressure"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is a potential maternal complication of oxytocin administration?",
+    "options": {
+      "A": "Uterine rupture",
+      "B": "Improved renal function",
+      "C": "Decreased heart rate",
+      "D": "Hyperglycemia"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is a potential fetal complication of oxytocin administration?",
+    "options": {
+      "A": "Increased fetal movement",
+      "B": "Fetal distress or hypoxia",
+      "C": "Improved lung maturity",
+      "D": "Macrosomia"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be monitored closely after delivery if oxytocin infusion continues?",
+    "options": {
+      "A": "Maternal blood glucose",
+      "B": "Postpartum hemorrhage",
+      "C": "Urine color",
+      "D": "Breast engorgement"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is part of post-procedure care after oxytocin administration?",
+    "options": {
+      "A": "Record fluid intake and output",
+      "B": "Discard all monitoring equipment",
+      "C": "Avoid hand hygiene to prevent drying",
+      "D": "Discontinue all maternal observations"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Why is the left lateral position recommended during oxytocin infusion?",
+    "options": {
+      "A": "To improve fetal descent",
+      "B": "To prevent vena cava compression",
+      "C": "To reduce back pain",
+      "D": "To facilitate cervical dilation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What must be clearly labeled during oxytocin preparation?",
+    "options": {
+      "A": "The patient's bed",
+      "B": "The IV fluid containing oxytocin",
+      "C": "The fetal monitor",
+      "D": "The mother's wristband"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which parameter is NOT part of the pre-procedure assessment for oxytocin administration?",
+    "options": {
+      "A": "Cervical dilation",
+      "B": "Maternal shoe size",
+      "C": "Fetal heart sounds",
+      "D": "Uterine contractions"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the role of an infusion pump during oxytocin administration?",
+    "options": {
+      "A": "To measure maternal temperature",
+      "B": "To regulate and deliver oxytocin infusion accurately",
+      "C": "To monitor fetal heart rate",
+      "D": "To administer oral medication"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "In which situation might synthetic oxytocin be used besides labor induction?",
+    "options": {
+      "A": "To treat maternal hypertension",
+      "B": "To manage retained placenta",
+      "C": "To reduce postpartum edema",
+      "D": "To increase maternal appetite"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done if fetal heart rate patterns are non-reassuring during the initial monitoring period?",
+    "options": {
+      "A": "Start oxytocin at a lower dose",
+      "B": "Do not start oxytocin",
+      "C": "Increase the monitoring time",
+      "D": "Change the maternal position only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is the oxytocin infusion rate typically measured?",
+    "options": {
+      "A": "In milligrams per hour",
+      "B": "In drops per minute",
+      "C": "In milliliters per second",
+      "D": "In international units per liter"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of adding oxytocin to IV fluid?",
+    "options": {
+      "A": "To hydrate the mother",
+      "B": "To provide controlled and diluted administration",
+      "C": "To speed up delivery of IV fluids",
+      "D": "To prevent infection at the IV site"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is a sign of water intoxication, a potential complication of oxytocin?",
+    "options": {
+      "A": "Hypertension",
+      "B": "Headache, nausea, confusion",
+      "C": "Bradycardia",
+      "D": "Hyperglycemia"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be administered if uterine hyperstimulation causes fetal distress?",
+    "options": {
+      "A": "Additional oxytocin",
+      "B": "Oxygen via mask",
+      "C": "Intravenous dextrose",
+      "D": "Antibiotics"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When titrating oxytocin, what should be assessed before each increase?",
+    "options": {
+      "A": "Maternal blood pressure, uterine contractions, and fetal heart rate",
+      "B": "Maternal weight and height",
+      "C": "Fetal position only",
+      "D": "Cervical dilation only"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What document should be completed during oxytocin administration to track labor progress?",
+    "options": {
+      "A": "Medication chart",
+      "B": "Partogram",
+      "C": "Discharge summary",
+      "D": "Consent form"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is NOT a step in the management of oxytocin complications?",
+    "options": {
+      "A": "Stop the infusion",
+      "B": "Administer a tocolytic",
+      "C": "Increase the oxytocin dose",
+      "D": "Notify the physician"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the final step after stopping oxytocin due to complications?",
+    "options": {
+      "A": "Restart infusion at a higher dose",
+      "B": "Evaluate both mother and fetus promptly",
+      "C": "Discharge the patient",
+      "D": "Change the IV site"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How can uterine contraction frequency be assessed during oxytocin infusion?",
+    "options": {
+      "A": "By maternal report only",
+      "B": "By external tocodynamometer or palpation",
+      "C": "By fetal heart rate pattern only",
+      "D": "By checking cervical dilation hourly"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is essential for safe oxytocin administration?",
+    "options": {
+      "A": "Continuous maternal and fetal monitoring",
+      "B": "Intermittent monitoring every 2 hours",
+      "C": "Monitoring only before starting the infusion",
+      "D": "No specific monitoring needed"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is a key nursing responsibility during oxytocin infusion?",
+    "options": {
+      "A": "To leave the patient unattended",
+      "B": "To closely observe for signs of hyperstimulation and fetal distress",
+      "C": "To increase the dose without assessment",
+      "D": "To discourage the use of pain relief"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -6603,6 +7011,7 @@
     }
   }
 }
+
 
 
 
