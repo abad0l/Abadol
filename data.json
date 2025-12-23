@@ -1886,7 +1886,437 @@
         "title": "Placental examination",
         "icon": "fas fa-microscope",
         "description": "Examination of the placenta after birth.",
-        "quiz": [],
+        "quiz": [
+          {
+    "question": "What is one major risk associated with retained products of conception?",
+    "options": {
+      "A": "Decreased uterine involution",
+      "B": "Postpartum hemorrhage and infection",
+      "C": "Improved fetal bonding",
+      "D": "Enhanced milk production"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the normal shape of a placenta?",
+    "options": {
+      "A": "Oval",
+      "B": "Discoid (disc-shaped)",
+      "C": "Spherical",
+      "D": "Irregular"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the typical diameter of a normal placenta?",
+    "options": {
+      "A": "5–10 cm",
+      "B": "15–20 cm",
+      "C": "25–30 cm",
+      "D": "35–40 cm"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the approximate weight of a normal placenta?",
+    "options": {
+      "A": "200–300 gm",
+      "B": "500–600 gm",
+      "C": "700–800 gm",
+      "D": "900–1000 gm"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How does the thickness of the placenta typically vary?",
+    "options": {
+      "A": "Uniform throughout",
+      "B": "2.5 cm at the center, tapering toward the periphery",
+      "C": "Thicker at the edges",
+      "D": "Less than 1 cm throughout"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is the fetal surface of the placenta described?",
+    "options": {
+      "A": "Dull grayish-red, divided into cotyledons",
+      "B": "Smooth, white, translucent, and shiny",
+      "C": "Rough and dark red",
+      "D": "Covered with clots"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "How is the maternal surface of the placenta described?",
+    "options": {
+      "A": "Smooth, white, and shiny",
+      "B": "Dull grayish-red, divided into cotyledons",
+      "C": "Covered by amnion",
+      "D": "Contains Wharton's jelly"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Where is the umbilical cord normally inserted on the placenta?",
+    "options": {
+      "A": "At the edge",
+      "B": "In the center or near the center of the fetal surface",
+      "C": "On the maternal surface",
+      "D": "Between cotyledons"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the average length of the umbilical cord at term?",
+    "options": {
+      "A": "30 cm",
+      "B": "50 cm",
+      "C": "70 cm",
+      "D": "90 cm"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does the umbilical cord contain?",
+    "options": {
+      "A": "One artery and one vein",
+      "B": "Two arteries and one vein",
+      "C": "Two veins and one artery",
+      "D": "Three arteries and no veins"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which method of placental separation is more common?",
+    "options": {
+      "A": "Duncan method",
+      "B": "Schultze method",
+      "C": "Both are equally common",
+      "D": "Neither is common"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "In the Schultze method, how does separation begin?",
+    "options": {
+      "A": "At the periphery",
+      "B": "In the center",
+      "C": "Simultaneously everywhere",
+      "D": "At the cord insertion"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which method of separation typically presents with less bleeding?",
+    "options": {
+      "A": "Duncan method",
+      "B": "Schultze method",
+      "C": "Both have equal bleeding",
+      "D": "Neither causes bleeding"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the first step in the placental examination procedure?",
+    "options": {
+      "A": "Wash hands and wear gloves",
+      "B": "Explain the procedure to the mother",
+      "C": "Lay out the placenta",
+      "D": "Count the cord vessels"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the placenta initially be laid out for examination?",
+    "options": {
+      "A": "Maternal surface uppermost",
+      "B": "Fetal surface uppermost",
+      "C": "On its side",
+      "D": "Rolled up"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be noted when examining the cord?",
+    "options": {
+      "A": "Only its color",
+      "B": "Length, insertion point, and presence of knots or thrombi",
+      "C": "Only the number of vessels",
+      "D": "Only its smell"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why should the umbilical cord vessels be inspected at the cut end farthest from the placenta?",
+    "options": {
+      "A": "Because it is cleaner",
+      "B": "Because arteries may fuse near the insertion, making them hard to differentiate",
+      "C": "Because that end is longer",
+      "D": "Because it is closer to the baby"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What might the absence of one umbilical artery be associated with?",
+    "options": {
+      "A": "Heart defects",
+      "B": "Renal agenesis",
+      "C": "Neural tube defects",
+      "D": "Lung hypoplasia"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should you look for when observing the fetal surface?",
+    "options": {
+      "A": "Only color",
+      "B": "Succenturiate lobes, fatty deposits, or infarctions",
+      "C": "Only cord insertion",
+      "D": "Only membrane completeness"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How can you check the completeness of the membranes?",
+    "options": {
+      "A": "By weighing them",
+      "B": "By lifting the cord and holding the placenta up to inspect",
+      "C": "By stretching them",
+      "D": "By feeling their texture"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done to ensure both amnion and chorion are present?",
+    "options": {
+      "A": "Count the cotyledons",
+      "B": "Separate the amnion from the chorion by pulling it back over the cord base",
+      "C": "Measure their thickness",
+      "D": "Examine the maternal side"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When inspecting the maternal side, what should be examined?",
+    "options": {
+      "A": "Only the color",
+      "B": "Cotyledons for presence, size, infarction, clots, or calcification",
+      "C": "Only the cord insertion",
+      "D": "Only the membranes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done if there is suspicion that the placenta or membranes are incomplete?",
+    "options": {
+      "A": "Discard them",
+      "B": "Keep them for further inspection and refer to an obstetrician",
+      "C": "Give them to the mother",
+      "D": "Wash them thoroughly"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the final step after completing the examination?",
+    "options": {
+      "A": "Clean equipment and wash hands",
+      "B": "Discuss findings with the woman and document",
+      "C": "Both A and B",
+      "D": "Dispose of the placenta immediately"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which characteristic is NOT part of a normal placenta?",
+    "options": {
+      "A": "Discoid shape",
+      "B": "Diameter of 15–20 cm",
+      "C": "Weight of 1000 gm",
+      "D": "Fetal surface with cotyledons"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What surrounds the blood vessels in the umbilical cord?",
+    "options": {
+      "A": "Chorion",
+      "B": "Wharton's jelly",
+      "C": "Amniotic fluid",
+      "D": "Cotyledons"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "In the Duncan method of separation, how does the placenta typically present?",
+    "options": {
+      "A": "Maternal surface first",
+      "B": "Fetal surface first",
+      "C": "As an inverted umbrella",
+      "D": "With less bleeding"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is a key difference between the Schultze and Duncan methods of placental delivery?",
+    "options": {
+      "A": "Schultze presents with the fetal surface, Duncan with the maternal surface",
+      "B": "Schultze has more bleeding",
+      "C": "Duncan is more common",
+      "D": "Schultze separation starts at the periphery"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Why is it important to examine the placenta soon after birth?",
+    "options": {
+      "A": "To determine baby's gender",
+      "B": "To detect abnormalities and ensure completeness, preventing complications",
+      "C": "To preserve it for stem cells",
+      "D": "To measure its weight for research"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What might extra vessels or lobes in the membranes indicate?",
+    "options": {
+      "A": "A healthy placenta",
+      "B": "Succenturiate lobes or vasa previa risk",
+      "C": "Normal variation",
+      "D": "Twin pregnancy"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of counting the vessels in the cut end of the cord?",
+    "options": {
+      "A": "To estimate gestational age",
+      "B": "To detect abnormalities like a two-vessel cord",
+      "C": "To determine placental weight",
+      "D": "To check for infection"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which surface of the placenta is dull and divided into lobes?",
+    "options": {
+      "A": "Fetal surface",
+      "B": "Maternal surface",
+      "C": "Both surfaces",
+      "D": "Neither surface"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be documented after the placental examination?",
+    "options": {
+      "A": "Only the weight",
+      "B": "Shape, size, color, cord details, completeness, and any abnormalities",
+      "C": "Only the mother's reaction",
+      "D": "Only the time of delivery"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is Wharton's jelly?",
+    "options": {
+      "A": "A type of infection",
+      "B": "A gelatinous substance surrounding cord vessels",
+      "C": "A placental hormone",
+      "D": "A membrane layer"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does a \"succenturiate lobe\" refer to?",
+    "options": {
+      "A": "An extra lobe of the placenta separate from the main disc",
+      "B": "A normal cotyledon",
+      "C": "An infarction area",
+      "D": "A type of cord insertion"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "How can you best inspect the membranes for completeness?",
+    "options": {
+      "A": "By soaking them in water",
+      "B": "By spreading them out and looking for holes or extra vessels",
+      "C": "By burning them",
+      "D": "By folding them"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What might areas of infarction on the placenta indicate?",
+    "options": {
+      "A": "Healthy blood flow",
+      "B": "Reduced blood flow and possible fetal compromise",
+      "C": "Normal aging",
+      "D": "Infection"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why is the placenta's weight compared to the baby's weight?",
+    "options": {
+      "A": "To predict future pregnancies",
+      "B": "It is normally about 1/6 of the baby's birth weight",
+      "C": "To determine maternal health",
+      "D": "To calculate drug doses"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done with the placenta after examination if no abnormalities are found?",
+    "options": {
+      "A": "It is typically discarded according to hospital policy",
+      "B": "Given to the mother to take home",
+      "C": "Used for research without consent",
+      "D": "Preserved in formalin"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -7474,6 +7904,7 @@
     }
   }
 }
+
 
 
 
