@@ -1502,7 +1502,426 @@
         "title": "Uterine massage",
         "icon": "fas fa-hand-holding-heart",
         "description": "Postpartum uterine massage.",
-        "quiz": [],
+        "quiz": [
+          {
+    "question": "What is the definition of uterine massage?",
+    "options": {
+      "A": "A procedure for cleaning the perineum",
+      "B": "The manual massaging of the abdomen to rub the uterus",
+      "C": "A technique for fetal monitoring",
+      "D": "A method for breast examination"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When is uterine massage typically performed?",
+    "options": {
+      "A": "During the first stage of labor",
+      "B": "After delivery of the placenta",
+      "C": "Before conception",
+      "D": "During prenatal visits"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one objective of uterine massage?",
+    "options": {
+      "A": "To increase milk production",
+      "B": "To prevent or treat postpartum hemorrhage (PPH)",
+      "C": "To induce labor",
+      "D": "To reduce fetal heart rate"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How often should uterine tone assessment be practiced during the third stage of labor?",
+    "options": {
+      "A": "Only once",
+      "B": "Every 30 minutes",
+      "C": "Routinely as a vital part of clinical decision-making",
+      "D": "Only if bleeding occurs"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "For how long is sustained uterine massage recommended after placental delivery in women who have NOT received prophylactic oxytocin?",
+    "options": {
+      "A": "For 5 minutes",
+      "B": "Every 15 minutes for 2 hours until the uterus hardens",
+      "C": "For 1 hour only",
+      "D": "Continuously until discharge"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What equipment is needed for uterine massage?",
+    "options": {
+      "A": "Stethoscope and thermometer",
+      "B": "Gloves and sterile pad",
+      "C": "Blood pressure cuff and IV stand",
+      "D": "Ultrasound machine"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the first step in preparation for uterine massage?",
+    "options": {
+      "A": "Prepare the environment",
+      "B": "Hand washing",
+      "C": "Obtain consent",
+      "D": "Position the mother"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the mother be positioned for uterine massage?",
+    "options": {
+      "A": "Prone position",
+      "B": "Supine with the head of the bed flat",
+      "C": "Left lateral position",
+      "D": "Sitting upright"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should the mother be instructed to do before the procedure if necessary?",
+    "options": {
+      "A": "Drink water",
+      "B": "Empty her bladder",
+      "C": "Walk around",
+      "D": "Take deep breaths"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Where should the non-dominant hand be placed during uterine massage?",
+    "options": {
+      "A": "On the umbilicus",
+      "B": "Above the symphysis pubis",
+      "C": "On the fundus",
+      "D": "On the mother's shoulder"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Where should palpation begin to locate the fundus?",
+    "options": {
+      "A": "At the symphysis pubis",
+      "B": "At the umbilicus",
+      "C": "At the xiphoid process",
+      "D": "On the lower back"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the uterus be stimulated during massage?",
+    "options": {
+      "A": "With gentle tapping",
+      "B": "With repetitive massaging movements until the fundus is firm",
+      "C": "With continuous pressure without movement",
+      "D": "With cold compresses"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is recommended in cases with postpartum hemorrhage (PPH)?",
+    "options": {
+      "A": "Stop massage immediately",
+      "B": "Bimanual compression",
+      "C": "Give oral medication only",
+      "D": "Elevate the legs"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "In bimanual compression, where is the second hand placed?",
+    "options": {
+      "A": "On the abdomen only",
+      "B": "Per vagina in fist form",
+      "C": "On the mother's chest",
+      "D": "On the lower back"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be observed at the vulva during the procedure?",
+    "options": {
+      "A": "Fetal movement",
+      "B": "Passage of blood clots, hematoma, or bleeding from laceration",
+      "C": "Urine output",
+      "D": "Skin color changes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done with the perineal pad after the procedure?",
+    "options": {
+      "A": "Reuse it",
+      "B": "Remove it, clean the perineum, and apply a sterile pad",
+      "C": "Leave it in place",
+      "D": "Wash and dry it"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a post-care step?",
+    "options": {
+      "A": "Leave the woman uncovered",
+      "B": "Cover the woman and help her to a comfortable position",
+      "C": "Ask her to stand immediately",
+      "D": "Give her a cold drink"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be documented after uterine massage?",
+    "options": {
+      "A": "The mother's favorite color",
+      "B": "The tone and location of the fundus, and lochia characteristics",
+      "C": "The nurse's lunch break",
+      "D": "The room temperature"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is assessed about the fundus?",
+    "options": {
+      "A": "Its weight",
+      "B": "Its location relative to the umbilicus (above, below, or at the level)",
+      "C": "Its color",
+      "D": "Its temperature"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What characteristics of lochia should be documented?",
+    "options": {
+      "A": "Only color",
+      "B": "Color, amount, consistency, and odor",
+      "C": "Only odor",
+      "D": "Only amount"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why is uterine massage not recommended for women who have received prophylactic oxytocin?",
+    "options": {
+      "A": "It increases pain",
+      "B": "Sustained massage is not needed as oxytocin already prevents PPH",
+      "C": "It causes uterine rupture",
+      "D": "It reduces milk supply"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the primary goal of uterine massage during the third stage of labor?",
+    "options": {
+      "A": "To relax the mother",
+      "B": "To promote uterine contraction and prevent hemorrhage",
+      "C": "To assess fetal wellbeing",
+      "D": "To prepare for episiotomy"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be recorded during the first 2 hours after placental delivery?",
+    "options": {
+      "A": "Maternal heart rate only",
+      "B": "Blood loss",
+      "C": "Fetal movements",
+      "D": "Urine output"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the perineal pad be lowered at the beginning of the procedure?",
+    "options": {
+      "A": "To check for edema",
+      "B": "To observe characteristics of lochia",
+      "C": "To apply lubricant",
+      "D": "To assess skin integrity"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is one reason to perform uterine massage during the postnatal period?",
+    "options": {
+      "A": "To assess uterine involution",
+      "B": "To increase lochia flow",
+      "C": "To induce sleep",
+      "D": "To check for breast engorgement"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done with soiled perineal pads after the procedure?",
+    "options": {
+      "A": "Discard them appropriately",
+      "B": "Wash and reuse",
+      "C": "Leave them at the bedside",
+      "D": "Burn them"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of placing a hand above the symphysis pubis?",
+    "options": {
+      "A": "To support the bladder",
+      "B": "To stabilize the uterus during massage",
+      "C": "To measure cervical dilation",
+      "D": "To assess fetal position"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How long should repetitive massaging movements continue?",
+    "options": {
+      "A": "Until the mother requests to stop",
+      "B": "Until the fundus is firm",
+      "C": "For exactly 10 minutes",
+      "D": "Until the nurse gets tired"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a key component of maintaining privacy during the procedure?",
+    "options": {
+      "A": "Allowing family to watch",
+      "B": "Closing doors and using a paravane",
+      "C": "Performing the procedure in a public area",
+      "D": "Explaining loudly"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should the nurse do before wearing gloves?",
+    "options": {
+      "A": "Apply lotion",
+      "B": "Wash hands",
+      "C": "Check vital signs",
+      "D": "Prepare medication"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the role of uterine massage in active management of the third stage of labor?",
+    "options": {
+      "A": "It is optional",
+      "B": "It is a routine measure to prevent PPH",
+      "C": "It is only used in emergencies",
+      "D": "It replaces oxytocin administration"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should the nurse do if the uterus does not become firm with massage?",
+    "options": {
+      "A": "Stop immediately",
+      "B": "Continue massage and consider bimanual compression, notify physician",
+      "C": "Apply heat",
+      "D": "Ask the mother to cough"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the final step in the procedure after documentation?",
+    "options": {
+      "A": "Give the mother a meal",
+      "B": "Ensure the mother is comfortable and the environment is clean",
+      "C": "Administer pain medication routinely",
+      "D": "Schedule a follow-up appointment"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why is it important to observe for hematoma or bleeding from laceration?",
+    "options": {
+      "A": "To document normal findings",
+      "B": "To identify complications early",
+      "C": "To estimate blood loss",
+      "D": "To prepare for surgery"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does \"uterine involution\" refer to?",
+    "options": {
+      "A": "Uterine enlargement during pregnancy",
+      "B": "The return of the uterus to its pre-pregnancy size after birth",
+      "C": "Uterine contractions during labor",
+      "D": "Uterine prolapse"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How can the effectiveness of fundal massage on uterine involution be determined?",
+    "options": {
+      "A": "By measuring maternal weight",
+      "B": "By assessing fundal height and firmness over time",
+      "C": "By checking fetal heart rate",
+      "D": "By asking the mother about pain"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the recommended frequency of uterine tone assessment postpartum for early identification of atony?",
+    "options": {
+      "A": "Only once after delivery",
+      "B": "For all women, routinely",
+      "C": "Only for high-risk women",
+      "D": "Every hour for the first 12 hours"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done with the work field after the procedure?",
+    "options": {
+      "A": "Leave it as is",
+      "B": "Clean it",
+      "C": "Cover it with a sheet",
+      "D": "Disinfect with alcohol"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -6184,6 +6603,7 @@
     }
   }
 }
+
 
 
 
