@@ -1950,7 +1950,7 @@
       "C": "Rough and dark red",
       "D": "Covered with clots"
     },
-    "correctAnswer": "A",
+    "correctAnswer": "B",
     "explanation": ""
   },
   {
@@ -7904,6 +7904,7 @@
     }
   }
 }
+
 
 
 
