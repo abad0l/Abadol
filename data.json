@@ -6606,7 +6606,448 @@
         "title": "Glossary of terms",
         "icon": "fas fa-book",
         "description": "Common maternity terms.",
-        "quiz": [],
+        "quiz": [
+          {
+    "question": "What is amenorrhea?",
+    "options": {
+      "A": "Excessive menstruation",
+      "B": "Painful menstruation",
+      "C": "Absence of menstruation",
+      "D": "Irregular menstruation"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the definition of abortion in medical terms?",
+    "options": {
+      "A": "Normal delivery",
+      "B": "Cesarean section",
+      "C": "Premature termination of pregnancy",
+      "D": "Postpartum bleeding"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Where does ectopic pregnancy most commonly occur?",
+    "options": {
+      "A": "In the uterus",
+      "B": "In the ovary",
+      "C": "In the fallopian tube",
+      "D": "In the abdomen"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is amniocentesis?",
+    "options": {
+      "A": "Removal of the uterus",
+      "B": "Aspiration of amniotic fluid to test for genetic abnormalities",
+      "C": "Surgical removal of fallopian tubes",
+      "D": "Examination of the cervix"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What are androgens?",
+    "options": {
+      "A": "Female sex hormones",
+      "B": "Male sex hormones",
+      "C": "Thyroid hormones",
+      "D": "Growth hormones"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does anovulation mean?",
+    "options": {
+      "A": "Excessive ovulation",
+      "B": "Painful ovulation",
+      "C": "The absence of ovulation",
+      "D": "Normal ovulation"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is azoospermia?",
+    "options": {
+      "A": "Low sperm count",
+      "B": "Excessive sperm",
+      "C": "Absence of sperm",
+      "D": "Abnormal sperm"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the cervix?",
+    "options": {
+      "A": "Upper portion of the uterus",
+      "B": "Lower portion of the uterus that opens into the vagina",
+      "C": "Part of the ovary",
+      "D": "Fallopian tube opening"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is chlamydia?",
+    "options": {
+      "A": "A viral infection",
+      "B": "A fungal infection",
+      "C": "The most common sexually transmitted bacterial disease",
+      "D": "A parasitic infection"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does CVS stand for in pregnancy testing?",
+    "options": {
+      "A": "Cervical vaginal screening",
+      "B": "Chorionic villus sampling",
+      "C": "Cardiovascular system",
+      "D": "Cervical viral swab"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the purpose of a condom?",
+    "options": {
+      "A": "Hormonal contraception only",
+      "B": "To prevent pregnancy and sexually transmitted infections",
+      "C": "To treat infections",
+      "D": "To enhance fertility"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does D&C stand for?",
+    "options": {
+      "A": "Detection and culture",
+      "B": "Dilatation and curettage",
+      "C": "Delivery and care",
+      "D": "Diagnosis and consultation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is an embryo?",
+    "options": {
+      "A": "A baby after birth",
+      "B": "A fertilized egg from conception to eighth embryologic week",
+      "C": "An unfertilized egg",
+      "D": "A developing baby after second month until birth"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is endometriosis?",
+    "options": {
+      "A": "Inflammation of the cervix",
+      "B": "Growth of endometrial tissue outside the uterus",
+      "C": "Cancer of the uterus",
+      "D": "Infection of the ovaries"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the endometrium?",
+    "options": {
+      "A": "The outer layer of the uterus",
+      "B": "The muscular layer of the uterus",
+      "C": "The inner lining of the uterus",
+      "D": "The cervical canal"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What are estrogens?",
+    "options": {
+      "A": "Male sex hormones",
+      "B": "Female sex hormones",
+      "C": "Thyroid hormones",
+      "D": "Pancreatic hormones"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is fertilization?",
+    "options": {
+      "A": "Ovulation process",
+      "B": "Process during which sperm penetrates egg and embryo develops",
+      "C": "Menstruation",
+      "D": "Implantation only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "From when is a developing baby called a fetus?",
+    "options": {
+      "A": "From conception",
+      "B": "From the second month of pregnancy until birth",
+      "C": "From birth",
+      "D": "From the first week"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a fibroid also known as?",
+    "options": {
+      "A": "Cancerous tumor",
+      "B": "Myoma or leiomyoma",
+      "C": "Cyst",
+      "D": "Polyp"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a gamete?",
+    "options": {
+      "A": "A hormone",
+      "B": "An organ",
+      "C": "A reproductive cell",
+      "D": "A tissue"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does GIFT stand for?",
+    "options": {
+      "A": "Gamete intra fallopian transfer",
+      "B": "Genetic in vitro fertilization therapy",
+      "C": "Gonadotropin injection for fertility treatment",
+      "D": "Gynecological infection follow-up test"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What bacteria causes gonorrhea?",
+    "options": {
+      "A": "Chlamydia trachomatis",
+      "B": "Neisseria gonorrhoeae",
+      "C": "Streptococcus",
+      "D": "E. coli"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is hirsutism?",
+    "options": {
+      "A": "Hair loss",
+      "B": "Excessive hair growth",
+      "C": "Normal hair growth",
+      "D": "Premature graying"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does hCG stand for?",
+    "options": {
+      "A": "Human cancer gene",
+      "B": "Human chorionic gonadotropin",
+      "C": "Hepatic cellular growth",
+      "D": "Hypertensive cardiovascular group"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a hysterectomy?",
+    "options": {
+      "A": "Removal of ovaries",
+      "B": "Surgical removal of the uterus",
+      "C": "Removal of fallopian tubes",
+      "D": "Removal of cervix only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does HSG stand for?",
+    "options": {
+      "A": "Hormonal screening guide",
+      "B": "Hystero salpingo gram",
+      "C": "Human serum globulin",
+      "D": "Hypertensive study group"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is implantation?",
+    "options": {
+      "A": "Ovulation process",
+      "B": "Fertilization process",
+      "C": "The embedding of fertilized egg in the endometrium",
+      "D": "Delivery process"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does IVF stand for?",
+    "options": {
+      "A": "Internal vaginal fertilization",
+      "B": "In vitro fertilization",
+      "C": "Invasive vaginal filming",
+      "D": "Intrauterine viral formation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is an incompetent cervix?",
+    "options": {
+      "A": "Normal cervix",
+      "B": "Cervix unable to remain closed throughout pregnancy",
+      "C": "Infected cervix",
+      "D": "Dilated cervix during labor"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is infertility defined?",
+    "options": {
+      "A": "Inability to conceive after 6 months",
+      "B": "Inability to achieve pregnancy after one year of unprotected intercourse",
+      "C": "Inability to conceive after 2 years",
+      "D": "Any pregnancy complication"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does ICSI stand for?",
+    "options": {
+      "A": "Internal cervical sperm injection",
+      "B": "Intracytoplasmic sperm injection",
+      "C": "Intrauterine cervical stimulation injection",
+      "D": "In vitro cellular sperm insertion"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does IUI stand for?",
+    "options": {
+      "A": "Internal uterine injection",
+      "B": "Intrauterine insemination",
+      "C": "Invasive uterine installation",
+      "D": "In vitro uterine implementation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is menarche?",
+    "options": {
+      "A": "When a woman stops menstruating",
+      "B": "The time when a woman has her first menstrual period",
+      "C": "Irregular menstruation",
+      "D": "Painful menstruation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is menopause?",
+    "options": {
+      "A": "First menstrual period",
+      "B": "The time when a woman stops having menstrual periods",
+      "C": "Heavy menstruation",
+      "D": "Irregular menstruation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is myomectomy?",
+    "options": {
+      "A": "Removal of the uterus",
+      "B": "Surgical removal of a uterine fibroid tumor",
+      "C": "Removal of ovaries",
+      "D": "Removal of cervix"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does oligospermia mean?",
+    "options": {
+      "A": "Absence of sperm",
+      "B": "A low sperm count",
+      "C": "Excessive sperm",
+      "D": "Normal sperm count"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is ovulation?",
+    "options": {
+      "A": "Fertilization of egg",
+      "B": "The release of a ripened egg from its follicle",
+      "C": "Implantation",
+      "D": "Menstruation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a Pap smear used for?",
+    "options": {
+      "A": "Testing for pregnancy",
+      "B": "Removal of cells from cervix to study microscopically",
+      "C": "Testing for ovulation",
+      "D": "Measuring hormone levels"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is salpingectomy?",
+    "options": {
+      "A": "Removal of the uterus",
+      "B": "Surgical removal of the fallopian tubes",
+      "C": "Removal of ovaries",
+      "D": "Removal of cervix"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is tubal ligation?",
+    "options": {
+      "A": "Male sterilization",
+      "B": "Surgical sterilization of a woman by obstructing fallopian tubes",
+      "C": "Removal of tubes",
+      "D": "Treatment for ectopic pregnancy"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -8443,6 +8884,7 @@
     }
   }
 }
+
 
 
 
