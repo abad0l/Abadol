@@ -7055,7 +7055,789 @@
         "title": "Anatomy and Physiology of Female Reproductive System",
         "icon": "fas fa-venus",
         "description": "Anatomy and physiology of the female reproductive system.",
-        "quiz": [],
+        "quiz": [
+          {
+    "question": "What are the external female reproductive organs collectively called?",
+    "options": {
+      "A": "Perineum",
+      "B": "Vestibule",
+      "C": "Vulva",
+      "D": "Genitalia"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the mons pubis?",
+    "options": {
+      "A": "A muscular structure",
+      "B": "A glandular structure",
+      "C": "A bony structure",
+      "D": "A rounded mound of fatty tissue that covers the pubic bone"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What does the mons pubis become covered with during puberty?",
+    "options": {
+      "A": "Hair",
+      "B": "Sweat glands",
+      "C": "Skin cells",
+      "D": "Fat tissue"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the function of the labia majora?",
+    "options": {
+      "A": "Produce hormones",
+      "B": "Produce eggs",
+      "C": "Support the uterus",
+      "D": "Enclose and protect other external genital organs"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What type of glands does the labia majora contain?",
+    "options": {
+      "A": "Sweat and sebaceous glands",
+      "B": "Mammary glands",
+      "C": "Endocrine glands",
+      "D": "Lymph glands"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Where do the labia majora extend from?",
+    "options": {
+      "A": "Cervix to vagina",
+      "B": "Clitoris to anus",
+      "C": "Mons pubis to perineum",
+      "D": "Urethra to rectum"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What gives the labia minora its pink color?",
+    "options": {
+      "A": "Melanin",
+      "B": "Sebaceous glands",
+      "C": "Epithelial cells",
+      "D": "A rich supply of blood vessels"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What happens to the labia minora during sexual stimulation?",
+    "options": {
+      "A": "They become engorged with blood and swell",
+      "B": "They shrink",
+      "C": "They produce lubrication",
+      "D": "They change color to white"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Where is the clitoris located?",
+    "options": {
+      "A": "At the vaginal opening",
+      "B": "Behind the anus",
+      "C": "Between the labia minora at their upper end",
+      "D": "Inside the vagina"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What male structure is the clitoris homologous to?",
+    "options": {
+      "A": "Scrotum",
+      "B": "Testes",
+      "C": "Prostate",
+      "D": "Penis"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What type of organ is the clitoris?",
+    "options": {
+      "A": "Glandular organ",
+      "B": "Muscular organ",
+      "C": "Erectile organ",
+      "D": "Bony structure"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What can stimulating the clitoris result in?",
+    "options": {
+      "A": "Menstruation",
+      "B": "Ovulation",
+      "C": "Fertilization",
+      "D": "Orgasm"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What is the shape of the vestibule?",
+    "options": {
+      "A": "Oval-shaped",
+      "B": "Circular",
+      "C": "Triangular",
+      "D": "Square"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What structures does the vestibule contain?",
+    "options": {
+      "A": "Ovaries and uterus",
+      "B": "Fallopian tubes",
+      "C": "External urethral meatus, vaginal introitus, and Bartholin's glands",
+      "D": "Cervix and endometrium"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the hymen?",
+    "options": {
+      "A": "A muscular fold",
+      "B": "A glandular tissue",
+      "C": "An elastic epithelial fold",
+      "D": "A bony structure"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What can rupture the hymen?",
+    "options": {
+      "A": "Sexual intercourse or tampon usage",
+      "B": "Walking",
+      "C": "Urination",
+      "D": "Defecation"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What does the perineum extend from anteriorly to posteriorly?",
+    "options": {
+      "A": "Clitoris to vagina",
+      "B": "Fourchette to anus",
+      "C": "Labia majora to rectum",
+      "D": "Mons pubis to coccyx"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the length of the perineum?",
+    "options": {
+      "A": "1 to 3 cm",
+      "B": "6 to 8 cm",
+      "C": "10 to 12 cm",
+      "D": "2 to 5 cm"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What is the perineum composed of?",
+    "options": {
+      "A": "Only fatty tissue",
+      "B": "Only bone",
+      "C": "Fibrous and muscular tissues",
+      "D": "Only skin"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which is NOT a main function of external genital organs?",
+    "options": {
+      "A": "Enabling sperm to enter the body",
+      "B": "Protecting internal organs from infection",
+      "C": "Producing eggs",
+      "D": "Providing sexual pleasure"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "How long is the vagina?",
+    "options": {
+      "A": "4 to 6 cm",
+      "B": "12 to 14 cm",
+      "C": "15 to 20 cm",
+      "D": "8 to 10 cm"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What is the vagina positioned between?",
+    "options": {
+      "A": "Bladder anteriorly and rectum posteriorly",
+      "B": "Uterus and cervix",
+      "C": "Ovaries on both sides",
+      "D": "Hip bones"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What are the multiple folds in the vaginal lining called?",
+    "options": {
+      "A": "Villi",
+      "B": "Fimbriae",
+      "C": "Cilia",
+      "D": "Rugae"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What is the pH of the vagina?",
+    "options": {
+      "A": "7.0 (neutral)",
+      "B": "8.5 (alkaline)",
+      "C": "4.5 (acidic)",
+      "D": "6.0 (slightly acidic)"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What do Bartholin glands secrete?",
+    "options": {
+      "A": "Hormones",
+      "B": "Eggs",
+      "C": "Thick fluid for lubrication",
+      "D": "Acidic solution"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which is NOT a function of the vagina?",
+    "options": {
+      "A": "Allow discharge of menstrual flow",
+      "B": "Female organ of coitus",
+      "C": "Allow passage of fetus",
+      "D": "Produce hormones"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What supplies blood to the vagina?",
+    "options": {
+      "A": "Ovarian artery only",
+      "B": "Iliac artery only",
+      "C": "Femoral artery",
+      "D": "Vaginal artery and branches of uterine artery"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What is the cervix?",
+    "options": {
+      "A": "Upper part of the uterus",
+      "B": "Part of the vagina",
+      "C": "The lower part of the uterus",
+      "D": "Part of the ovary"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the length of the cervix?",
+    "options": {
+      "A": "2.5 to 3 cm",
+      "B": "1 to 2 cm",
+      "C": "4 to 5 cm",
+      "D": "6 to 7 cm"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the potential space in the center of the cervix called?",
+    "options": {
+      "A": "Cervical os",
+      "B": "Transformation zone",
+      "C": "Endocervical canal",
+      "D": "Ectocervix"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the lower part of the cervix that protrudes into the vagina called?",
+    "options": {
+      "A": "Internal os",
+      "B": "Endocervix",
+      "C": "Fundus",
+      "D": "Ectocervix"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "Where does cervical dysplasia commonly occur?",
+    "options": {
+      "A": "Transformation zone",
+      "B": "Internal os",
+      "C": "External os only",
+      "D": "Vaginal wall"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the uterus also known as?",
+    "options": {
+      "A": "Cervix",
+      "B": "Birth canal",
+      "C": "Womb",
+      "D": "Ovary"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the shape of the uterus?",
+    "options": {
+      "A": "Round",
+      "B": "Oval",
+      "C": "Pear-shaped",
+      "D": "Triangular"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the approximate weight of the uterus?",
+    "options": {
+      "A": "20-30 gm",
+      "B": "80-90 gm",
+      "C": "50-60 gm",
+      "D": "100-120 gm"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the normal position of the uterus?",
+    "options": {
+      "A": "Retroverted",
+      "B": "Lateral",
+      "C": "Posterior",
+      "D": "Anteverted and anti-flexed"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "Where does the uterus sit in relation to other organs?",
+    "options": {
+      "A": "In front of bladder",
+      "B": "Behind rectum",
+      "C": "Behind bladder and in front of rectum",
+      "D": "Above bladder"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the fundus of the uterus?",
+    "options": {
+      "A": "The lower part",
+      "B": "The middle section",
+      "C": "The broad curved area at the top",
+      "D": "The cervical portion"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the corpus of the uterus?",
+    "options": {
+      "A": "The top portion",
+      "B": "The lower narrow part",
+      "C": "The main part starting below fallopian tubes",
+      "D": "The cervical opening"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the isthmus also known as during late pregnancy?",
+    "options": {
+      "A": "Lower uterine segment",
+      "B": "Upper uterine segment",
+      "C": "Cervical canal",
+      "D": "Birth canal"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is the endometrium?",
+    "options": {
+      "A": "Outer layer",
+      "B": "Middle muscular layer",
+      "C": "Inner lining of uterus",
+      "D": "Peritoneal covering"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the myometrium?",
+    "options": {
+      "A": "Inner lining",
+      "B": "Outer epithelial layer",
+      "C": "Cervical tissue",
+      "D": "Middle layer of smooth muscle"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What happens to the endometrium during menstruation?",
+    "options": {
+      "A": "It is sloughed off",
+      "B": "It thickens",
+      "C": "It produces hormones",
+      "D": "It remains unchanged"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is another name for fallopian tubes?",
+    "options": {
+      "A": "Vaginal tubes",
+      "B": "Ovarian ducts",
+      "C": "Oviducts or uterine tubes",
+      "D": "Birth canals"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "How long are the fallopian tubes?",
+    "options": {
+      "A": "5 to 7 cm",
+      "B": "15 to 17 cm",
+      "C": "10 to 12 cm",
+      "D": "20 to 22 cm"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which part of the fallopian tube connects through the uterine wall?",
+    "options": {
+      "A": "Ampulla",
+      "B": "Infundibulum",
+      "C": "Isthmus",
+      "D": "Interstitial section"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What is the fringed funnel-like end of the fallopian tube called?",
+    "options": {
+      "A": "Infundibulum",
+      "B": "Ampulla",
+      "C": "Isthmus",
+      "D": "Interstitial section"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What are the fringes at the end of the fallopian tube called?",
+    "options": {
+      "A": "Rugae",
+      "B": "Villi",
+      "C": "Fimbriae",
+      "D": "Cilia"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the outer layer of the fallopian tube called?",
+    "options": {
+      "A": "Mucosa",
+      "B": "Muscularis",
+      "C": "Serosa",
+      "D": "Endometrium"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which is a function of the fallopian tubes?",
+    "options": {
+      "A": "Hormone production",
+      "B": "Menstruation",
+      "C": "Gamete transport",
+      "D": "Fertilization only"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is required for normal fallopian tube function?",
+    "options": {
+      "A": "Blockage",
+      "B": "Scar tissue",
+      "C": "Inflammation",
+      "D": "Patency and tubal motility"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What are the ovaries also called?",
+    "options": {
+      "A": "Female ducts",
+      "B": "Female tubes",
+      "C": "Female gonads or sex glands",
+      "D": "Female canals"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the approximate weight of each ovary?",
+    "options": {
+      "A": "1-2 gm",
+      "B": "10-12 gm",
+      "C": "4-8 gm",
+      "D": "15-20 gm"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Where are the ovaries located?",
+    "options": {
+      "A": "Above the uterus",
+      "B": "In front of the uterus",
+      "C": "On each side below and behind uterine tubes",
+      "D": "Inside the uterus"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does the cortex of the ovary contain?",
+    "options": {
+      "A": "Blood vessels only",
+      "B": "Nerves only",
+      "C": "Primary follicles in different stages",
+      "D": "Connective tissue only"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does the medulla of the ovary consist of?",
+    "options": {
+      "A": "Follicles",
+      "B": "Epithelial cells",
+      "C": "Connective tissue",
+      "D": "Muscle tissue"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which hormones do the ovaries secrete?",
+    "options": {
+      "A": "Insulin and glucagon",
+      "B": "Thyroid hormones",
+      "C": "Estrogen, progesterone and small amount of androgen",
+      "D": "Growth hormone"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which is a function of the ovary?",
+    "options": {
+      "A": "Sperm production",
+      "B": "Menstrual flow passage",
+      "C": "Production of ova",
+      "D": "Fetal support"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "How many hip bones compose the bony pelvis?",
+    "options": {
+      "A": "One",
+      "B": "Three",
+      "C": "Four",
+      "D": "Two"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What bones is each hip bone composed of?",
+    "options": {
+      "A": "Femur, tibia, fibula",
+      "B": "Sacrum, coccyx, vertebrae",
+      "C": "Ilium, ischium, pubic bone",
+      "D": "Radius, ulna, humerus"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "How many fused vertebrae form the sacrum?",
+    "options": {
+      "A": "Three",
+      "B": "Seven",
+      "C": "Five",
+      "D": "Nine"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "How many bones typically form the coccyx?",
+    "options": {
+      "A": "2-3",
+      "B": "6-7",
+      "C": "4-5",
+      "D": "8-9"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which is a function of the pelvis?",
+    "options": {
+      "A": "Produce hormones",
+      "B": "Produce blood cells",
+      "C": "Store nutrients",
+      "D": "Support weight from vertebral column"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "How many pelvic joints are there?",
+    "options": {
+      "A": "Two",
+      "B": "Six",
+      "C": "Four",
+      "D": "Eight"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Where is the symphysis pubis located?",
+    "options": {
+      "A": "At the back",
+      "B": "On the sides",
+      "C": "Between two pubic bones at front",
+      "D": "At the bottom"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does the true pelvis also called?",
+    "options": {
+      "A": "Greater pelvis",
+      "B": "False pelvis",
+      "C": "Lesser pelvis",
+      "D": "Upper pelvis"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the normal female pelvis type called?",
+    "options": {
+      "A": "Android",
+      "B": "Anthropoid",
+      "C": "Gynecoid",
+      "D": "Platypelloid"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which pelvic type has a heart-shaped outlet?",
+    "options": {
+      "A": "Gynecoid",
+      "B": "Anthropoid",
+      "C": "Android",
+      "D": "Platypelloid"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which is a function of the pelvic floor?",
+    "options": {
+      "A": "Hormone production",
+      "B": "Blood production",
+      "C": "Providing support for pelvic organs",
+      "D": "Nutrient storage"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What does the pelvic floor help maintain?",
+    "options": {
+      "A": "Blood pressure",
+      "B": "Body temperature",
+      "C": "Continence",
+      "D": "Heart rate"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What can the pelvic floor prevent?",
+    "options": {
+      "A": "Infection",
+      "B": "Pregnancy",
+      "C": "Prolapse",
+      "D": "Menstruation"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -8884,6 +9666,7 @@
     }
   }
 }
+
 
 
 
