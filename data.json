@@ -9501,7 +9501,1757 @@
         "title": "Abnormal Postpartum",
         "icon": "fas fa-bed-pulse",
         "description": "Complications in the postpartum period.",
-        "quiz": [],
+        "quiz": [
+          {
+    "question": "What is the definition of PPH?",
+    "options": {
+      "A": "Bleeding > 500 cc following vaginal delivery",
+      "B": "Bleeding > 300 cc following any delivery",
+      "C": "Bleeding > 1000 cc following vaginal delivery",
+      "D": "Any bleeding after delivery"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "When does primary PPH occur?",
+    "options": {
+      "A": "After 48 hours",
+      "B": "Within the first 24 hours",
+      "C": "After one week",
+      "D": "After one month"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What percentage of PPH cases are caused by uterine atony?",
+    "options": {
+      "A": "50%",
+      "B": "70%",
+      "C": "90%",
+      "D": "100%"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the main cause of maternal mortality in Egypt?",
+    "options": {
+      "A": "Infection",
+      "B": "PPH",
+      "C": "Hypertension",
+      "D": "Diabetes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What percentage of maternal deaths in Egypt is contributed by PPH?",
+    "options": {
+      "A": "10-15%",
+      "B": "15-20%",
+      "C": "21-27%",
+      "D": "30-35%"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What defines retained placenta?",
+    "options": {
+      "A": "More than 15 minutes",
+      "B": "More than 30 minutes",
+      "C": "More than 45 minutes",
+      "D": "More than 60 minutes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a succenturiate lobe?",
+    "options": {
+      "A": "Main placental tissue",
+      "B": "Accessory lobe connected to placenta by membrane",
+      "C": "Detached placenta",
+      "D": "Retained placenta"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which is a risk factor for PPH?",
+    "options": {
+      "A": "Normal labor",
+      "B": "Prolonged labor",
+      "C": "Short pregnancy",
+      "D": "Young age"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "At what maternal age is PPH risk increased?",
+    "options": {
+      "A": "> 25 years",
+      "B": "> 30 years",
+      "C": "> 35 years",
+      "D": "> 40 years"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What pulse rate indicates severe PPH?",
+    "options": {
+      "A": "> 80 b/min",
+      "B": "> 100 b/min",
+      "C": "> 120 b/min",
+      "D": "> 140 b/min"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What characterizes uterine atony on abdominal examination?",
+    "options": {
+      "A": "Hard uterus",
+      "B": "Lax, soft, doughy uterus",
+      "C": "Small contracted uterus",
+      "D": "Normal uterus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What color is blood in atonic PPH?",
+    "options": {
+      "A": "Bright red",
+      "B": "Dark",
+      "C": "Pink",
+      "D": "Brown"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What color is blood in traumatic PPH?",
+    "options": {
+      "A": "Dark",
+      "B": "Brown",
+      "C": "Bright red",
+      "D": "Black"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What position should be used for shock correction in PPH?",
+    "options": {
+      "A": "Supine",
+      "B": "Trendlenburg's position",
+      "C": "Sitting",
+      "D": "Left lateral"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How many units of blood may be needed in severe PPH?",
+    "options": {
+      "A": "1-2 units",
+      "B": "2-3 units",
+      "C": "4-6 units",
+      "D": "8-10 units"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What dose of morphine is given IV in PPH?",
+    "options": {
+      "A": "5-10 mg",
+      "B": "10-15 mg",
+      "C": "15-20 mg",
+      "D": "20-25 mg"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When does secondary PPH most commonly occur?",
+    "options": {
+      "A": "1-3 days after birth",
+      "B": "7-14 days after birth",
+      "C": "3-5 days after birth",
+      "D": "20-30 days after birth"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a sign of secondary PPH?",
+    "options": {
+      "A": "Normal temperature",
+      "B": "Low-grade pyrexia",
+      "C": "High fever",
+      "D": "Hypothermia"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What characterizes secondary PPH bleeding?",
+    "options": {
+      "A": "Fresh blood",
+      "B": "Often offensive and accompanied by sub-involution",
+      "C": "Bright red",
+      "D": "Minimal amount"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a cause of secondary PPH?",
+    "options": {
+      "A": "Normal involution",
+      "B": "Retained placental tissue",
+      "C": "Good uterine contraction",
+      "D": "Complete delivery"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What medication is given for retained parts in secondary PPH?",
+    "options": {
+      "A": "Insulin",
+      "B": "Ergometrine",
+      "C": "Antibiotics only",
+      "D": "Analgesics only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What dose of ergometrine is given for retained parts?",
+    "options": {
+      "A": "100-200 ml",
+      "B": "250-500 ml",
+      "C": "500-750 ml",
+      "D": "1000 ml"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the treatment for choriocarcinoma causing secondary PPH?",
+    "options": {
+      "A": "Antibiotics only",
+      "B": "Surgery only",
+      "C": "Chemotherapy with or without hysterectomy",
+      "D": "Observation"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What should be carefully examined to prevent PPH?",
+    "options": {
+      "A": "Cervix",
+      "B": "Placenta",
+      "C": "Vagina",
+      "D": "Perineum"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How often should vital signs be monitored in PPH?",
+    "options": {
+      "A": "Every hour",
+      "B": "Every 30 minutes",
+      "C": "Every 5-15 minutes",
+      "D": "Every 2 hours"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is puerperal sepsis?",
+    "options": {
+      "A": "Infection during pregnancy",
+      "B": "Genital tract infection after labor till end of puerperium",
+      "C": "Urinary infection",
+      "D": "Breast infection"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What percentage of maternal deaths is caused by obstetric infections?",
+    "options": {
+      "A": "5.5%",
+      "B": "10.7%",
+      "C": "15.3%",
+      "D": "20.1%"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which is a general predisposing factor for puerperal sepsis?",
+    "options": {
+      "A": "Normal immunity",
+      "B": "Uncontrolled diabetes",
+      "C": "Good nutrition",
+      "D": "High socioeconomic status"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is an antenatal risk factor for puerperal sepsis?",
+    "options": {
+      "A": "Normal pregnancy",
+      "B": "Amniocentesis",
+      "C": "Good prenatal care",
+      "D": "Regular check-ups"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What intrapartum factor increases sepsis risk?",
+    "options": {
+      "A": "Short labor",
+      "B": "Frequent unnecessary PV examination",
+      "C": "Normal delivery",
+      "D": "Minimal intervention"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a postpartum factor for puerperal sepsis?",
+    "options": {
+      "A": "Good hygiene",
+      "B": "Poor perineal care",
+      "C": "Adequate nutrition",
+      "D": "Rest"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a sign of puerperal sepsis?",
+    "options": {
+      "A": "Normal temperature",
+      "B": "Foul-smelling vaginal discharge",
+      "C": "Clear lochia",
+      "D": "No pain"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What complication can result from puerperal sepsis?",
+    "options": {
+      "A": "Weight gain",
+      "B": "Septic shock",
+      "C": "Improved health",
+      "D": "Normal recovery"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What position is recommended for puerperal sepsis drainage?",
+    "options": {
+      "A": "Supine",
+      "B": "Fowler's or semi-sitting position",
+      "C": "Prone",
+      "D": "Trendelenburg"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What type of diet is recommended for puerperal sepsis?",
+    "options": {
+      "A": "Heavy diet",
+      "B": "Light diet rich in vitamins and minerals",
+      "C": "Low fluid diet",
+      "D": "Restricted diet"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be monitored in puerperal sepsis?",
+    "options": {
+      "A": "Weight only",
+      "B": "Pulse, temperature, BP, lochia",
+      "C": "Diet only",
+      "D": "Sleep pattern"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When is postpartum preeclampsia most common?",
+    "options": {
+      "A": "Within 24 hours",
+      "B": "Within 48 hours",
+      "C": "After one week",
+      "D": "After one month"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Up to how long after birth can postpartum preeclampsia occur?",
+    "options": {
+      "A": "Two weeks",
+      "B": "Four weeks",
+      "C": "Six weeks",
+      "D": "Eight weeks"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is a risk factor for postpartum preeclampsia?",
+    "options": {
+      "A": "Normal weight",
+      "B": "Obesity",
+      "C": "Young age 25-30",
+      "D": "No previous history"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What age increases postpartum preeclampsia risk?",
+    "options": {
+      "A": "Younger than 15",
+      "B": "Younger than 20",
+      "C": "Younger than 25",
+      "D": "Younger than 30"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a sign of postpartum preeclampsia?",
+    "options": {
+      "A": "Low blood pressure",
+      "B": "Severe headaches",
+      "C": "Normal vision",
+      "D": "No symptoms"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What BP threshold requires treatment in postpartum preeclampsia?",
+    "options": {
+      "A": "≥140/90 mmHg",
+      "B": "≥150/100 mmHg",
+      "C": "≥160/110 mmHg",
+      "D": "≥170/120 mmHg"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the goal BP in postpartum preeclampsia treatment?",
+    "options": {
+      "A": "<120/80 mmHg",
+      "B": "<130/90 mmHg",
+      "C": "<150/100 mmHg",
+      "D": "<160/110 mmHg"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What medication is used for seizure prophylaxis in postpartum preeclampsia?",
+    "options": {
+      "A": "Insulin",
+      "B": "Magnesium",
+      "C": "Calcium",
+      "D": "Potassium"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What diuretic is commonly used in postpartum preeclampsia?",
+    "options": {
+      "A": "Spironolactone",
+      "B": "Furosemide",
+      "C": "Hydrochlorothiazide",
+      "D": "Mannitol"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When should BP be assessed after postpartum preeclampsia?",
+    "options": {
+      "A": "Never",
+      "B": "At comprehensive postpartum visit",
+      "C": "After one year",
+      "D": "Only if symptomatic"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is urinary tract infection?",
+    "options": {
+      "A": "Viral inflammation",
+      "B": "Bacterial inflammation in urinary tract",
+      "C": "Fungal infection",
+      "D": "Parasitic infection"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What percentage of deliveries have postpartum UTI?",
+    "options": {
+      "A": "1-2%",
+      "B": "2-4%",
+      "C": "5-7%",
+      "D": "8-10%"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the most common causative organism of UTI?",
+    "options": {
+      "A": "Staphylococcus",
+      "B": "Streptococcus",
+      "C": "Escherichia coli",
+      "D": "Pseudomonas"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "When do UTI symptoms typically begin postpartum?",
+    "options": {
+      "A": "First or second day",
+      "B": "Third or fourth day",
+      "C": "Fifth or sixth day",
+      "D": "After one week"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is a symptom of UTI?",
+    "options": {
+      "A": "Constipation",
+      "B": "Dysuria",
+      "C": "Headache",
+      "D": "Nausea"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What may develop on the third or fourth day in some women with UTI?",
+    "options": {
+      "A": "Lower UTI",
+      "B": "Pyelonephritis",
+      "C": "Cystitis only",
+      "D": "No progression"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What are symptoms of pyelonephritis?",
+    "options": {
+      "A": "Mild symptoms",
+      "B": "Chills, fever, flank pain",
+      "C": "No fever",
+      "D": "Minimal pain"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What urinary analgesic may be ordered for UTI?",
+    "options": {
+      "A": "Aspirin",
+      "B": "Phenazopyridine (Pyridium)",
+      "C": "Ibuprofen",
+      "D": "Acetaminophen"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How long should UTI medication be taken?",
+    "options": {
+      "A": "Until symptoms stop",
+      "B": "For entire prescribed time",
+      "C": "For 2 days only",
+      "D": "Only when symptomatic"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How much fluid should be consumed daily with UTI?",
+    "options": {
+      "A": "1000-1500 mL",
+      "B": "1500-2000 mL",
+      "C": "2500-3000 mL",
+      "D": "3500-4000 mL"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What juice acidifies urine and helps with UTI?",
+    "options": {
+      "A": "Orange juice",
+      "B": "Apple juice",
+      "C": "Cranberry juice",
+      "D": "Grape juice"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What drinks should be avoided with UTI?",
+    "options": {
+      "A": "Water",
+      "B": "Grapefruit and carbonated drinks",
+      "C": "Milk",
+      "D": "Tea"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a preventive measure for UTI?",
+    "options": {
+      "A": "Drink minimal fluids",
+      "B": "Proper perineal care",
+      "C": "Retain urine",
+      "D": "Use feminine sprays"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How should the perineal area be wiped to prevent UTI?",
+    "options": {
+      "A": "Back to front",
+      "B": "Front to back",
+      "C": "Side to side",
+      "D": "Circular motion"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done after intercourse to prevent UTI?",
+    "options": {
+      "A": "Wait to urinate",
+      "B": "Empty bladder promptly",
+      "C": "Take a bath",
+      "D": "Do nothing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is mastitis?",
+    "options": {
+      "A": "Breast cancer",
+      "B": "Inflammation of the breast",
+      "C": "Breast cyst",
+      "D": "Normal breast change"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When does mastitis most often occur after childbirth?",
+    "options": {
+      "A": "Within 24 hours",
+      "B": "2-4 weeks",
+      "C": "6-8 weeks",
+      "D": "3 months"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What percentage of lactating women are affected by mastitis?",
+    "options": {
+      "A": "1-3%",
+      "B": "5-10%",
+      "C": "15-20%",
+      "D": "25-30%"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What bacteria most often causes mastitis?",
+    "options": {
+      "A": "E. coli only",
+      "B": "Staphylococcus aureus",
+      "C": "Streptococcus only",
+      "D": "Pseudomonas"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What maternal age is a risk factor for mastitis?",
+    "options": {
+      "A": "Younger than 20",
+      "B": "Older than 25",
+      "C": "Older than 30",
+      "D": "Older than 40"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is a risk factor for mastitis?",
+    "options": {
+      "A": "Frequent feeding",
+      "B": "Sore and cracked nipples",
+      "C": "Proper positioning",
+      "D": "Good hygiene"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What can lead to mastitis regarding clothing?",
+    "options": {
+      "A": "Loose clothing",
+      "B": "Restrictive clothing",
+      "C": "Cotton clothing",
+      "D": "No bra"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What temperature characterizes mastitis fever?",
+    "options": {
+      "A": "37°C",
+      "B": "37.5°C",
+      "C": "38.5°C",
+      "D": "40°C"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done with nipples to prevent mastitis?",
+    "options": {
+      "A": "Keep dry",
+      "B": "Wash before nursing",
+      "C": "Apply powder",
+      "D": "Avoid washing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What type of bra should be worn to prevent mastitis?",
+    "options": {
+      "A": "Tight bra",
+      "B": "Comfortable bra that is not too tight",
+      "C": "No bra",
+      "D": "Sports bra only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What position should be avoided to prevent mastitis?",
+    "options": {
+      "A": "Supine",
+      "B": "Side-lying",
+      "C": "Prone",
+      "D": "Semi-sitting"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "How often should breasts be emptied to prevent mastitis?",
+    "options": {
+      "A": "Once daily",
+      "B": "Every 4-6 hours",
+      "C": "Every 2-4 hours",
+      "D": "Every 8 hours"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What antibiotics are used for mastitis treatment?",
+    "options": {
+      "A": "Tetracycline",
+      "B": "Keflex and Erythromycin",
+      "C": "Penicillin only",
+      "D": "Ampicillin only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How long should mastitis treatment continue?",
+    "options": {
+      "A": "3-5 days",
+      "B": "5-7 days",
+      "C": "10-14 days",
+      "D": "21 days"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Should breastfeeding continue with mastitis?",
+    "options": {
+      "A": "No, stop immediately",
+      "B": "Yes, continue breastfeeding",
+      "C": "Only from unaffected breast",
+      "D": "Stop for one week"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which breast should be offered first in mastitis?",
+    "options": {
+      "A": "Unaffected breast",
+      "B": "Affected breast",
+      "C": "Either breast",
+      "D": "Neither breast"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What can be applied to engorged breast with mastitis?",
+    "options": {
+      "A": "Heat only",
+      "B": "Ice pack",
+      "C": "Nothing",
+      "D": "Massage only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How long should ice pack be used on engorged breast?",
+    "options": {
+      "A": "5-10 minutes",
+      "B": "15-20 minutes",
+      "C": "30-40 minutes",
+      "D": "60 minutes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How often should breastfeeding occur during mastitis?",
+    "options": {
+      "A": "Every 4 hours",
+      "B": "At least every 2 hours",
+      "C": "Every 6 hours",
+      "D": "Once daily"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is breast abscess?",
+    "options": {
+      "A": "Normal breast tissue",
+      "B": "Infected area filled with pus",
+      "C": "Benign tumor",
+      "D": "Breast cyst"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What can sometimes lead to breast abscess?",
+    "options": {
+      "A": "Normal feeding",
+      "B": "Mastitis",
+      "C": "Good hygiene",
+      "D": "Proper positioning"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How do bacteria enter the breast in abscess?",
+    "options": {
+      "A": "Through blood",
+      "B": "Through nipple (cracked nipple)",
+      "C": "Through skin",
+      "D": "Unknown route"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a symptom of breast abscess?",
+    "options": {
+      "A": "No pain",
+      "B": "Breast pain and tenderness",
+      "C": "Increased milk production",
+      "D": "Normal temperature"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a complication of breast abscess?",
+    "options": {
+      "A": "Increased milk supply",
+      "B": "Scarring",
+      "C": "Better breastfeeding",
+      "D": "No complications"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be cleaned before nursing to prevent abscess?",
+    "options": {
+      "A": "Only nipples",
+      "B": "Nipples and breasts",
+      "C": "Only breasts",
+      "D": "Nothing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should happen during breastfeeding to prevent abscess?",
+    "options": {
+      "A": "Feed from one breast only",
+      "B": "Baby should empty both breasts",
+      "C": "Limit feeding time",
+      "D": "Skip feedings"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What can be used for nipple lubrication after nursing?",
+    "options": {
+      "A": "Soap",
+      "B": "Vitamin A&D ointment",
+      "C": "Perfumed lotion",
+      "D": "Alcohol"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What antibiotic may be given IV for breast abscess?",
+    "options": {
+      "A": "Ampicillin",
+      "B": "Oxacillin",
+      "C": "Penicillin",
+      "D": "Tetracycline"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What procedure may be done for breast abscess?",
+    "options": {
+      "A": "Mastectomy",
+      "B": "Surgical abscess drainage",
+      "C": "Biopsy only",
+      "D": "No procedure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Should nursing continue from affected breast with abscess?",
+    "options": {
+      "A": "Yes, continue",
+      "B": "No, avoid nursing from affected breast",
+      "C": "Only at night",
+      "D": "Only in morning"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is deep venous thrombosis (DVT)?",
+    "options": {
+      "A": "Superficial clot",
+      "B": "Blood clots in large veins",
+      "C": "Arterial clot",
+      "D": "No clot"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Where do DVT clots commonly form?",
+    "options": {
+      "A": "Arms only",
+      "B": "Calves and thighs",
+      "C": "Head",
+      "D": "Abdomen only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What serious complication can occur if DVT clot breaks off?",
+    "options": {
+      "A": "Infection",
+      "B": "Pulmonary embolism",
+      "C": "Headache",
+      "D": "Fever"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a risk factor for DVT?",
+    "options": {
+      "A": "Activity",
+      "B": "Inactivity",
+      "C": "Young age",
+      "D": "Low parity"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What type of birth increases DVT risk?",
+    "options": {
+      "A": "Vaginal birth",
+      "B": "Cesarean birth",
+      "C": "Water birth",
+      "D": "Home birth"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What maternal age increases DVT risk?",
+    "options": {
+      "A": "Older than 20",
+      "B": "Older than 25",
+      "C": "Older than 35",
+      "D": "Older than 45"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What may develop after delivery and be caused by DVT?",
+    "options": {
+      "A": "Headache",
+      "B": "Fever",
+      "C": "Nausea",
+      "D": "Rash"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a sign of DVT?",
+    "options": {
+      "A": "No symptoms",
+      "B": "Tenderness and warmth in calf or thigh",
+      "C": "Cold leg",
+      "D": "Improved circulation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is Homans' test?",
+    "options": {
+      "A": "Flexion of knee",
+      "B": "Dorsiflexion of foot elicits pain in calf",
+      "C": "Extension of leg",
+      "D": "Rotation of ankle"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does D-Dimer test help diagnose?",
+    "options": {
+      "A": "Infection",
+      "B": "DVT",
+      "C": "Diabetes",
+      "D": "Hypertension"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What imaging is commonly used for DVT diagnosis?",
+    "options": {
+      "A": "X-ray",
+      "B": "Venous ultrasonography",
+      "C": "CT scan",
+      "D": "PET scan"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a complication of DVT?",
+    "options": {
+      "A": "Weight gain",
+      "B": "Pulmonary embolism",
+      "C": "Improved health",
+      "D": "Better circulation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What percentage of DVT patients develop post-phlebitic syndrome?",
+    "options": {
+      "A": "5%",
+      "B": "15%",
+      "C": "25%",
+      "D": "35%"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the primary DVT treatment method?",
+    "options": {
+      "A": "Bed rest only",
+      "B": "Anticoagulant medicines",
+      "C": "Surgery",
+      "D": "Antibiotics"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What anticoagulant may be used for DVT?",
+    "options": {
+      "A": "Aspirin",
+      "B": "Warfarin",
+      "C": "Insulin",
+      "D": "Heparin only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What device improves circulation in DVT?",
+    "options": {
+      "A": "Heating pad",
+      "B": "Compression stockings",
+      "C": "Ice pack",
+      "D": "Bandage"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done with the affected leg in DVT?",
+    "options": {
+      "A": "Lower it",
+      "B": "Elevate it",
+      "C": "Immobilize completely",
+      "D": "Apply heat only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is postpartum depression (PPD)?",
+    "options": {
+      "A": "Normal sadness",
+      "B": "Complex mix of physical, emotional, behavioral changes",
+      "C": "Temporary mood change",
+      "D": "No symptoms"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When does PPD occur?",
+    "options": {
+      "A": "During pregnancy",
+      "B": "First few weeks or months after delivery",
+      "C": "Before pregnancy",
+      "D": "Years after delivery"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a cause of postpartum depression?",
+    "options": {
+      "A": "Good support",
+      "B": "Depression before or during pregnancy",
+      "C": "Financial stability",
+      "D": "Strong relationship"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What family history increases PPD risk?",
+    "options": {
+      "A": "Diabetes",
+      "B": "Close relatives with depression",
+      "C": "Hypertension",
+      "D": "Cancer"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What pregnancy problem increases PPD risk?",
+    "options": {
+      "A": "Normal delivery",
+      "B": "Preterm delivery or baby with birth defects",
+      "C": "Full term delivery",
+      "D": "Planned pregnancy"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How long do PPD symptoms typically take to develop?",
+    "options": {
+      "A": "Immediately",
+      "B": "Gradually over 3 months",
+      "C": "After 6 months",
+      "D": "After 1 year"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a common symptom of PPD?",
+    "options": {
+      "A": "Happiness",
+      "B": "Extreme sadness",
+      "C": "Energy",
+      "D": "Good sleep"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a less common symptom of PPD?",
+    "options": {
+      "A": "Joy",
+      "B": "Loss of interest in sex and activities",
+      "C": "Increased appetite",
+      "D": "Good concentration"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How many women experience \"baby blues\"?",
+    "options": {
+      "A": "30%",
+      "B": "50%",
+      "C": "70%",
+      "D": "90%"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "How long do baby blues last?",
+    "options": {
+      "A": "A few hours to 1-2 weeks",
+      "B": "One month",
+      "C": "Several months",
+      "D": "One year"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Do baby blues usually need treatment?",
+    "options": {
+      "A": "Yes, always",
+      "B": "Usually don't need treatment",
+      "C": "Always need medication",
+      "D": "Require hospitalization"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When can postpartum psychosis happen?",
+    "options": {
+      "A": "After 6 months",
+      "B": "Within first 3 months",
+      "C": "After 1 year",
+      "D": "During pregnancy"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What can women with postpartum psychosis experience?",
+    "options": {
+      "A": "Normal thoughts",
+      "B": "Auditory hallucinations and delusions",
+      "C": "Good sleep",
+      "D": "Happiness"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Do women with postpartum psychosis need immediate treatment?",
+    "options": {
+      "A": "No treatment needed",
+      "B": "Yes, need treatment right away",
+      "C": "Can wait",
+      "D": "Only counseling"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why are women with postpartum psychosis sometimes hospitalized?",
+    "options": {
+      "A": "For rest",
+      "B": "Risk of hurting themselves or others",
+      "C": "For monitoring only",
+      "D": "Not necessary"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How are baby blues usually treated?",
+    "options": {
+      "A": "Medication",
+      "B": "Usually fade on their own",
+      "C": "Surgery",
+      "D": "Hospitalization"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should women with baby blues do?",
+    "options": {
+      "A": "Isolate themselves",
+      "B": "Get as much rest as possible",
+      "C": "Refuse help",
+      "D": "Stay awake"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is recommended for connecting during baby blues?",
+    "options": {
+      "A": "Avoid people",
+      "B": "Connect with other new moms",
+      "C": "Stay alone",
+      "D": "No social contact"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is postpartum depression often treated?",
+    "options": {
+      "A": "Ignored",
+      "B": "Psychotherapy, medication or both",
+      "C": "No treatment",
+      "D": "Rest only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What may be used for postpartum psychosis treatment?",
+    "options": {
+      "A": "Rest only",
+      "B": "Combination of medications",
+      "C": "No medication",
+      "D": "Observation only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What procedure may be used for postpartum psychosis?",
+    "options": {
+      "A": "Surgery",
+      "B": "Electroconvulsive therapy (ECT)",
+      "C": "Physical therapy",
+      "D": "No procedure"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should nurses remember about baby blues?",
+    "options": {
+      "A": "They are abnormal",
+      "B": "The \"blues\" are normal",
+      "C": "Need medication",
+      "D": "Require hospitalization"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What relaxation techniques can help postpartum mood?",
+    "options": {
+      "A": "None",
+      "B": "Techniques learned in childbirth classes",
+      "C": "Strenuous exercise",
+      "D": "Isolation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be provided to parents experiencing postpartum mood changes?",
+    "options": {
+      "A": "Criticism",
+      "B": "Reassurance and understanding",
+      "C": "Isolation",
+      "D": "No support"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What helps new mothers cope with baby blues?",
+    "options": {
+      "A": "Complete isolation",
+      "B": "Support groups and talking with other moms",
+      "C": "Avoiding help",
+      "D": "Refusing visitors"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is important for mothers with PPD regarding self-care?",
+    "options": {
+      "A": "Ignore themselves",
+      "B": "Create time to take care of themselves",
+      "C": "No rest",
+      "D": "Constant work"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Should friends and family help be accepted during baby blues?",
+    "options": {
+      "A": "No, refuse help",
+      "B": "Yes, accept help",
+      "C": "Maybe",
+      "D": "Never"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What napping pattern is recommended for baby blues?",
+    "options": {
+      "A": "Never nap",
+      "B": "Nap when baby does",
+      "C": "Nap all day",
+      "D": "No specific pattern"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done about visitors during postpartum recovery?",
+    "options": {
+      "A": "No restrictions",
+      "B": "Let friends know when to visit",
+      "C": "Constant visitors",
+      "D": "Refuse all visitors"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What blood loss amount defines PPH after cesarean section?",
+    "options": {
+      "A": "> 500 cc",
+      "B": "> 750 cc",
+      "C": "> 1000 cc",
+      "D": "> 1500 cc"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "When does secondary PPH occur?",
+    "options": {
+      "A": "Within 24 hours",
+      "B": "After 24 hours till end of puerperium",
+      "C": "During labor",
+      "D": "Before delivery"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is placenta accreta?",
+    "options": {
+      "A": "Normal placental attachment",
+      "B": "Morbid adhesion of placenta",
+      "C": "Retained placenta",
+      "D": "Complete placenta"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What genital tract injury can cause PPH?",
+    "options": {
+      "A": "Normal episiotomy",
+      "B": "Extension of episiotomy",
+      "C": "No injury",
+      "D": "Healed laceration"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What coagulation defect can cause PPH?",
+    "options": {
+      "A": "Normal clotting",
+      "B": "HELLP syndrome",
+      "C": "Good platelets",
+      "D": "Normal fibrinogen"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What labor pattern increases PPH risk?",
+    "options": {
+      "A": "Normal labor",
+      "B": "Very rapid labor",
+      "C": "Short second stage",
+      "D": "Easy delivery"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What uterine condition increases PPH risk?",
+    "options": {
+      "A": "Normal uterus",
+      "B": "Over distended uterus",
+      "C": "Small uterus",
+      "D": "Empty uterus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What parity increases PPH risk?",
+    "options": {
+      "A": "Nullipara",
+      "B": "Increased parity",
+      "C": "First pregnancy",
+      "D": "Low parity"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What maternal condition increases PPH risk?",
+    "options": {
+      "A": "Normal weight",
+      "B": "Obesity",
+      "C": "Low BMI",
+      "D": "Good health"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What placental condition increases PPH risk?",
+    "options": {
+      "A": "Normal placenta",
+      "B": "Abruptio placenta",
+      "C": "Complete placenta",
+      "D": "Small placenta"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What clinical feature characterizes mild PPH?",
+    "options": {
+      "A": "Shock",
+      "B": "Tachycardia pulse >100 b/min",
+      "C": "Anuria",
+      "D": "Severe hypotension"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What happens to blood pressure in moderate PPH?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Stays normal",
+      "D": "Fluctuates widely"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What symptom characterizes severe PPH?",
+    "options": {
+      "A": "Normal vital signs",
+      "B": "Anuria and shock",
+      "C": "Mild tachycardia",
+      "D": "Slight fatigue"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What causes atonic postpartum hemorrhage?",
+    "options": {
+      "A": "Lacerations",
+      "B": "Retained placental parts",
+      "C": "Cervical tear",
+      "D": "Normal delivery"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What type of shock occurs in traumatic PPH?",
+    "options": {
+      "A": "Cardiogenic only",
+      "B": "Neurogenic and hemorrhagic",
+      "C": "Septic only",
+      "D": "Anaphylactic"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the uterine finding in traumatic PPH?",
+    "options": {
+      "A": "Soft and enlarged",
+      "B": "Contracted",
+      "C": "Normal",
+      "D": "Lax"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What laboratory test should be done for PPH?",
+    "options": {
+      "A": "Glucose only",
+      "B": "Complete blood count",
+      "C": "Urinalysis only",
+      "D": "Stool test"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be prepared for high-risk PPH patients during labor?",
+    "options": {
+      "A": "Nothing special",
+      "B": "Fresh blood and fresh frozen plasma",
+      "C": "Only IV fluids",
+      "D": "Observation only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be given in the third stage of labor to prevent PPH?",
+    "options": {
+      "A": "Analgesics",
+      "B": "Ergometrine and uterine massage",
+      "C": "Antibiotics",
+      "D": "Nothing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How long should patient be watched after labor in fourth stage?",
+    "options": {
+      "A": "30 minutes",
+      "B": "1 hour",
+      "C": "2 hours",
+      "D": "4 hours"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be done after difficult labor to prevent PPH?",
+    "options": {
+      "A": "Nothing",
+      "B": "Examination of birth canal to repair tears",
+      "C": "Immediate discharge",
+      "D": "Observation only"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Why should urinary catheter be inserted in PPH?",
+    "options": {
+      "A": "For comfort",
+      "B": "Full bladder impedes uterine contraction",
+      "C": "For medication",
+      "D": "Not necessary"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -9666,6 +11416,7 @@
     }
   }
 }
+
 
 
 
