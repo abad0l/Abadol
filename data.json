@@ -11282,7 +11282,2570 @@
         "title": "High Risk Pregnancy",
         "icon": "fas fa-triangle-exclamation",
         "description": "Medical perspective on high-risk pregnancy.",
-        "quiz": [],
+        "quiz": [{
+    "question": "Which structure is responsible for vaginal acidity?",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "Doderlein's bacilli",
+      "D": "Bartholin's gland"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "The normal position of the uterus is:",
+    "options": {
+      "A": "Retroverted and retroflexed",
+      "B": "Anteverted and anteflexed",
+      "C": "Mid-position",
+      "D": "Retroverted and anteflexed"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which hormone is primarily responsible for the LH surge?",
+    "options": {
+      "A": "Progesterone",
+      "B": "Estrogen",
+      "C": "FSH",
+      "D": "Prolactin"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "The hormone responsible for the secretory phase of the endometrial cycle is:",
+    "options": {
+      "A": "FSH",
+      "B": "Estrogen",
+      "C": "Progesterone",
+      "D": "LH"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "The corpus luteum secretes which hormone predominantly?",
+    "options": {
+      "A": "Estrogen",
+      "B": "FSH",
+      "C": "Progesterone",
+      "D": "LH"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "During the follicular phase of the ovarian cycle, which hormone is dominant?",
+    "options": {
+      "A": "LH",
+      "B": "FSH",
+      "C": "Estrogen",
+      "D": "Progesterone"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "The \"two-cell theory\" of estrogen production involves:",
+    "options": {
+      "A": "Granulosa and theca cells",
+      "B": "Theca and stromal cells",
+      "C": "Follicular and lutein cells",
+      "D": "Cortical and medullary cell"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Ovulation is mainly triggered by:",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "LH surge",
+      "D": "FSH surge"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "The duration of the luteal phase of the menstrual cycle is:",
+    "options": {
+      "A": "10 days",
+      "B": "14 days",
+      "C": "16 days",
+      "D": "Variable"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "The hormone responsible for corpus luteum maintenance in early pregnancy is:",
+    "options": {
+      "A": "FSH",
+      "B": "LH",
+      "C": "Progesterone",
+      "D": "hCG"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "The mean age of menopause is:",
+    "options": {
+      "A": "40 years",
+      "B": "45 years",
+      "C": "51 years",
+      "D": "55 years"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "A key hormonal diagnostic marker for menopause is:",
+    "options": {
+      "A": "LH > 10 IU",
+      "B": "Progesterone < 5 ng/ml",
+      "C": "FSH > 40 IU",
+      "D": "Estrogen < 100 pg/ml"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Delayed menopause is defined as menopause after the age of:",
+    "options": {
+      "A": "50 years",
+      "B": "52 years",
+      "C": "55 years",
+      "D": "58 years"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Climacteric refers to:",
+    "options": {
+      "A": "Onset of menstruation",
+      "B": "Transition from reproductive to non-reproductive life",
+      "C": "Irregular menstruation",
+      "D": "First year after menopause"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is a contraindication to hormone replacement therapy (HRT)?",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "Premature menopause",
+      "C": "Abnormal uterine bleeding",
+      "D": "Menopausal hot flushes"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following hormones is decreased after menopause?",
+    "options": {
+      "A": "FSH",
+      "B": "LH",
+      "C": "Estrogen",
+      "D": "Androgens"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "The primary site of estradiol synthesis is:",
+    "options": {
+      "A": "Placenta",
+      "B": "Granulosa cells",
+      "C": "Adrenal cortex",
+      "D": "Liver"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the primary function of Bartholin's glands in the female external genitalia?",
+    "options": {
+      "A": "Produce estrogen",
+      "B": "Secrete sebaceous material for lubrication",
+      "C": "Regulate vaginal pH",
+      "D": "Support the perineal body"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "The vaginal mucosa is primarily composed of which type of epithelium?",
+    "options": {
+      "A": "Simple columnar",
+      "B": "Stratified squamous non-keratinized",
+      "C": "Transitional",
+      "D": "Pseudostratified columnar"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "The uterus is typically in which position in the pelvis?",
+    "options": {
+      "A": "Retroverted-retroflexed",
+      "B": "Anteverted-anteflexed",
+      "C": "Mid-position",
+      "D": "Laterally flexed"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which ligament is primarily responsible for the anteversion position of the uterus?",
+    "options": {
+      "A": "Broad ligament",
+      "B": "Uterosacral ligament",
+      "C": "Ovarian ligament",
+      "D": "Round ligament"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "What is the average duration of the ovarian cycle?",
+    "options": {
+      "A": "14-21 days",
+      "B": "21-35 days",
+      "C": "35-42 days",
+      "D": "42-56 days"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the normal amount of blood loss during menstruation?",
+    "options": {
+      "A": "10-20 ml",
+      "B": "30-80 ml",
+      "C": "100-150 ml",
+      "D": "200-250 ml"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a major symptom of menopausal syndrome?",
+    "options": {
+      "A": "Hypertension",
+      "B": "Hot flushes",
+      "C": "Weight gain",
+      "D": "Hair growth"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a contraindication for hormonal replacement therapy (HRT)?",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "Hot flushes",
+      "C": "Family history of endometrial carcinoma",
+      "D": "Psychological symptoms"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "AUB-P refers to:",
+    "options": {
+      "A": "Polycystic ovary",
+      "B": "Polyp",
+      "C": "Pituitary cause",
+      "D": "Pregnancy-related cause"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is a non-structural cause of AUB?",
+    "options": {
+      "A": "Adenomyosis",
+      "B": "Leiomyoma",
+      "C": "Ovulatory dysfunction",
+      "D": "Malignancy"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is most useful in diagnosing bleeding disorders in adolescents with AUB?",
+    "options": {
+      "A": "Pap smear",
+      "B": "Coagulation profile",
+      "C": "CA-125",
+      "D": "Serum estrogen"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Uterine fibroids are most commonly found in which location?",
+    "options": {
+      "A": "Cervix",
+      "B": "Fundus",
+      "C": "Corpus",
+      "D": "Ligaments"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Leiomyomas are hormone-dependent tumors; primarily they depend on:",
+    "options": {
+      "A": "Progesterone",
+      "B": "FSH",
+      "C": "Estrogen",
+      "D": "Androgens"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Most common symptom of leiomyoma:",
+    "options": {
+      "A": "Pain",
+      "B": "Infertility",
+      "C": "Menorrhagia",
+      "D": "Dysmenorrhea"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Torsion is a complication seen in:",
+    "options": {
+      "A": "Subserous pedunculated fibroid",
+      "B": "Interstitial fibroid",
+      "C": "Cervical fibroid",
+      "D": "Broad ligament fibroid"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Adenomyosis typically affects women in:",
+    "options": {
+      "A": "Early reproductive years",
+      "B": "Adolescence",
+      "C": "Perimenopausal period",
+      "D": "Postmenopause"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Most common location of fibroid-related infertility:",
+    "options": {
+      "A": "Intramural",
+      "B": "Subserosal",
+      "C": "Submucosal",
+      "D": "Cervical"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Retroversion of the uterus means:",
+    "options": {
+      "A": "Backward bending of uterine body",
+      "B": "Uterus turned inside out",
+      "C": "Uterine axis tilted backward",
+      "D": "Cervical axis tilted forward"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "The most severe form of uterine prolapse is:",
+    "options": {
+      "A": "Stage II",
+      "B": "Stage I",
+      "C": "Procidentia",
+      "D": "Vault prolapse"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Enterocele is defined as:",
+    "options": {
+      "A": "Prolapse of the rectum",
+      "B": "Herniation of the pouch of Douglas",
+      "C": "Descent of the bladder",
+      "D": "Vaginal vault prolapse"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "The structure supporting Level 1 of the vagina is:",
+    "options": {
+      "A": "Perineal body",
+      "B": "Pubocervical fascia",
+      "C": "Uterosacral ligament",
+      "D": "Rectovaginal fascia"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "The most common symptom of POP is:",
+    "options": {
+      "A": "Dyspareunia",
+      "B": "Dragging sensation",
+      "C": "Dysmenorrhea",
+      "D": "Pruritus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Vaginal vault prolapse occurs commonly after:",
+    "options": {
+      "A": "Hysterectomy",
+      "B": "Menopause",
+      "C": "Pregnancy",
+      "D": "Menarche"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Stage 2 POP on bearing down corresponds to:",
+    "options": {
+      "A": "Cervix above ischial spine",
+      "B": "Cervix at vaginal introitus",
+      "C": "Complete uterine eversion",
+      "D": "Partial vaginal eversion"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Prolapse in nullipara is usually due to:",
+    "options": {
+      "A": "Menopause",
+      "B": "Congenital mesenchymal weakness",
+      "C": "Endometriosis",
+      "D": "Obesity"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "The first-line conservative management for early POP is:",
+    "options": {
+      "A": "Vaginal hysterectomy",
+      "B": "Pelvic floor exercises",
+      "C": "Mesh repair",
+      "D": "Posterior colporrhaphy"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "SUI is defined as involuntary urine loss:",
+    "options": {
+      "A": "During sleep",
+      "B": "On urge to urinate",
+      "C": "With exertion or coughing",
+      "D": "With bladder contractions"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "One key muscle responsible for pelvic support is:",
+    "options": {
+      "A": "Piriformis",
+      "B": "Obturator externus",
+      "C": "Puborectalis",
+      "D": "Quadratus lumborum"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "The perineal body contributes to support at:",
+    "options": {
+      "A": "Level 1",
+      "B": "Level 2",
+      "C": "Level 3",
+      "D": "No level"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Posterior vaginal wall prolapse may present with:",
+    "options": {
+      "A": "Urethral pain",
+      "B": "Urinary retention",
+      "C": "Obstructed defecation",
+      "D": "Dyspnea"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which vaginal condition helps protect against infections?",
+    "options": {
+      "A": "Alkalinity",
+      "B": "Stratified squamous epithelium",
+      "C": "Glandular lining",
+      "D": "High estrogen levels"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Normal vaginal flora is predominantly composed of:",
+    "options": {
+      "A": "E. coli",
+      "B": "Streptococcus",
+      "C": "Lactobacilli",
+      "D": "Candida"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Cervical mucus contributes to immunity by containing:",
+    "options": {
+      "A": "IgG",
+      "B": "IgM",
+      "C": "IgE",
+      "D": "IgA"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "Infection below the internal os is classified as:",
+    "options": {
+      "A": "PID",
+      "B": "Lower genital tract infection",
+      "C": "Systemic infection",
+      "D": "Urinary tract infection"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Vulvovaginitis in children is most commonly due to:",
+    "options": {
+      "A": "Sexual abuse",
+      "B": "Candida",
+      "C": "Poor hygiene",
+      "D": "Gonorrhea"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "A foreign body in the vagina of a child can cause:",
+    "options": {
+      "A": "PID",
+      "B": "Bartholinitis",
+      "C": "Vulvovaginitis",
+      "D": "Ectopic pregnancy"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Atrophic vaginitis is most commonly caused by:",
+    "options": {
+      "A": "Diabetes",
+      "B": "Estrogen deficiency",
+      "C": "Bacterial infection",
+      "D": "Gonorrhea"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Treatment of senile vaginitis includes:",
+    "options": {
+      "A": "Systemic antibiotics",
+      "B": "Local estrogen cream",
+      "C": "Steroids",
+      "D": "Antivirals"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Candida albicans thrives in:",
+    "options": {
+      "A": "Alkaline media",
+      "B": "Acidic media",
+      "C": "Neutral pH",
+      "D": "Oxygen-rich environment"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "A common predisposing factor for candidiasis is:",
+    "options": {
+      "A": "Menopause",
+      "B": "Antibiotic use",
+      "C": "OCP discontinuation",
+      "D": "Excessive washing"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Vaginal discharge in candidiasis is:",
+    "options": {
+      "A": "Yellow and frothy",
+      "B": "Thin and gray",
+      "C": "White, thick, curd-like",
+      "D": "Watery and brown"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Vaginal candidiasis commonly shows:",
+    "options": {
+      "A": "Flagellated protozoa",
+      "B": "Gram-negative rods",
+      "C": "Pseudo-hyphae and spores",
+      "D": "Clue cells"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "The primary treatment for uncomplicated candidiasis is:",
+    "options": {
+      "A": "Oral metronidazole",
+      "B": "Topical clotrimazole",
+      "C": "Oral ciprofloxacin",
+      "D": "Vaginal lavage"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Oral therapy for Candida includes:",
+    "options": {
+      "A": "Fluconazole",
+      "B": "Acyclovir",
+      "C": "Doxycycline",
+      "D": "Gentamicin"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is NOT a risk factor for Candida infection?",
+    "options": {
+      "A": "Diabetes",
+      "B": "Pregnancy",
+      "C": "Oral contraceptives",
+      "D": "Low estrogen"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "Characteristic sign of candidiasis:",
+    "options": {
+      "A": "Strawberry cervix",
+      "B": "Cervical erosion",
+      "C": "Vaginal plaques",
+      "D": "Cervical motion tenderness"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Candidiasis discharge is usually:",
+    "options": {
+      "A": "Foul-smelling",
+      "B": "Frothy",
+      "C": "Adherent and odorless",
+      "D": "Bloody"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Trichomonas vaginalis is a:",
+    "options": {
+      "A": "Bacterium",
+      "B": "Fungus",
+      "C": "Protozoon",
+      "D": "Virus"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Trichomoniasis thrives in vaginal pH:",
+    "options": {
+      "A": "<4",
+      "B": "4–4.5",
+      "C": "5.5–6.5",
+      "D": ">7"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Typical discharge in trichomoniasis is:",
+    "options": {
+      "A": "Thick, white",
+      "B": "Thin, gray",
+      "C": "Yellow, frothy, foul-smelling",
+      "D": "Bloody"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "A classic sign of trichomoniasis on speculum exam is:",
+    "options": {
+      "A": "Strawberry cervix",
+      "B": "Nabothian cyst",
+      "C": "Cervical polyp",
+      "D": "Cervical erosion"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Recommended treatment for trichomoniasis is:",
+    "options": {
+      "A": "Clotrimazole",
+      "B": "Doxycycline",
+      "C": "Metronidazole",
+      "D": "Penicillin"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "In trichomoniasis, the husband should be:",
+    "options": {
+      "A": "Observed",
+      "B": "Treated simultaneously",
+      "C": "Screened only",
+      "D": "Treated if symptomatic"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Trichomoniasis is transmitted by:",
+    "options": {
+      "A": "Fecal-oral route",
+      "B": "Mosquito bites",
+      "C": "Sexual contact and contaminated objects",
+      "D": "Skin-to-skin contact only"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Trichomoniasis is most symptomatic:",
+    "options": {
+      "A": "During ovulation",
+      "B": "After menstruation",
+      "C": "In menopause",
+      "D": "Pre-menarche"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Bacterial vaginosis is caused by overgrowth of:",
+    "options": {
+      "A": "Trichomonas",
+      "B": "Gardnerella vaginalis",
+      "C": "Candida albicans",
+      "D": "Lactobacilli"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "The classic diagnostic cell in BV is:",
+    "options": {
+      "A": "Koilocyte",
+      "B": "Reed–Sternberg cell",
+      "C": "Clue cell",
+      "D": "Foam cell"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Positive \"whiff test\" smells like:",
+    "options": {
+      "A": "Vinegar",
+      "B": "Fishy odor",
+      "C": "Yeast",
+      "D": "Sweet"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Treatment for recurrent BV includes:",
+    "options": {
+      "A": "Local estrogen",
+      "B": "Partner treatment",
+      "C": "Steroids",
+      "D": "Tampon use"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Preferred oral drug in pregnancy for BV is:",
+    "options": {
+      "A": "Metronidazole (after first trimester)",
+      "B": "Doxycycline",
+      "C": "Ciprofloxacin",
+      "D": "Gentamicin"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Vaginal discharge in BV is usually:",
+    "options": {
+      "A": "Thick, curdy",
+      "B": "Watery and bloody",
+      "C": "Thin, grayish-white",
+      "D": "Frothy and yellow"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Symptomatic treatment of BV includes:",
+    "options": {
+      "A": "Podophyllin",
+      "B": "Metronidazole cream",
+      "C": "Fluconazole",
+      "D": "Anticholinergics"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Vaginal flora imbalance in BV involves decreased:",
+    "options": {
+      "A": "Anaerobes",
+      "B": "Lactobacilli",
+      "C": "Gardnerella",
+      "D": "Enterococcus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Acute cervicitis is most commonly caused by:",
+    "options": {
+      "A": "TB",
+      "B": "Chlamydia and Gonorrhea",
+      "C": "HPV",
+      "D": "Candida"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "A classic symptom of cervicitis is:",
+    "options": {
+      "A": "Amenorrhea",
+      "B": "Pelvic organ prolapse",
+      "C": "Mucopurulent vaginal discharge",
+      "D": "Vaginal dryness"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is a clinical symptom of ovarian tumors with torsion?",
+    "options": {
+      "A": "Chronic back pain",
+      "B": "Acute abdomen",
+      "C": "Postmenopausal bleeding",
+      "D": "Pruritis"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "PID is most commonly caused by:",
+    "options": {
+      "A": "Candida and herpes",
+      "B": "Gonorrhea and Chlamydia",
+      "C": "HPV and syphilis",
+      "D": "E. coli and Mycoplasma"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "A classical symptom of PID is:",
+    "options": {
+      "A": "Amenorrhea",
+      "B": "Lower abdominal pain",
+      "C": "Dysuria",
+      "D": "Urticaria"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Most common complication of PID is:",
+    "options": {
+      "A": "Endometrial hyperplasia",
+      "B": "Ectopic pregnancy",
+      "C": "Menorrhagia",
+      "D": "PCOS"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Tubo-ovarian abscess is a complication of:",
+    "options": {
+      "A": "Bacterial vaginosis",
+      "B": "PID",
+      "C": "Candidiasis",
+      "D": "Chlamydia"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Fitz-Hugh–Curtis syndrome is associated with:",
+    "options": {
+      "A": "PID and perihepatitis",
+      "B": "Genital herpes",
+      "C": "Endometriosis",
+      "D": "Trichomoniasis"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "A first-line antibiotic for PID is:",
+    "options": {
+      "A": "Metronidazole alone",
+      "B": "Ceftriaxone + Doxycycline + Metronidazole",
+      "C": "Acyclovir",
+      "D": "Fluconazole"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Minimum duration of oral PID treatment:",
+    "options": {
+      "A": "3 days",
+      "B": "7 days",
+      "C": "10–14 days",
+      "D": "21 days"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "A common PID sequela is:",
+    "options": {
+      "A": "Fibroid",
+      "B": "Infertility",
+      "C": "PCOS",
+      "D": "Cervical cancer"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Hydrosalpinx results from:",
+    "options": {
+      "A": "Myoma",
+      "B": "Ovulation failure",
+      "C": "Blocked fallopian tube with serous fluid",
+      "D": "PCOS"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which is NOT a CDC minimum criteria for PID diagnosis?",
+    "options": {
+      "A": "Cervical motion tenderness",
+      "B": "Fever",
+      "C": "Adnexal tenderness",
+      "D": "Uterine tenderness"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When laparoscopy is performed in PID, it may show:",
+    "options": {
+      "A": "Pyosalpinx",
+      "B": "Hematometra",
+      "C": "Ovarian torsion",
+      "D": "Septate uterus"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "PID can result in:",
+    "options": {
+      "A": "Menopause",
+      "B": "Adhesions",
+      "C": "Fibroids",
+      "D": "Vaginal agenesis"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Genital herpes ulcers are typically:",
+    "options": {
+      "A": "Hard and dry",
+      "B": "Vesicular and painful",
+      "C": "Painless and dry",
+      "D": "Nodular"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Treatment of herpes genitalis is with:",
+    "options": {
+      "A": "Metronidazole",
+      "B": "Penicillin",
+      "C": "Acyclovir",
+      "D": "Fluconazole"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Lymphogranuloma venereum (LGV) is caused by:",
+    "options": {
+      "A": "Chlamydia trachomatis L1–L3",
+      "B": "HSV",
+      "C": "Treponema",
+      "D": "HPV"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Chlamydia trachomatis causes:",
+    "options": {
+      "A": "Genital herpes",
+      "B": "PID and cervicitis",
+      "C": "Candidiasis",
+      "D": "Bacterial vaginosis"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Common symptom of chlamydial infection:",
+    "options": {
+      "A": "Vaginal dryness",
+      "B": "Painless ulcer",
+      "C": "Mucopurulent discharge",
+      "D": "Vesicular rash"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "First-line drug for uncomplicated chlamydia:",
+    "options": {
+      "A": "Erythromycin",
+      "B": "Doxycycline",
+      "C": "Penicillin",
+      "D": "Metronidazole"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the most common gynecologic cancer in developed countries?",
+    "options": {
+      "A": "Cervical carcinoma",
+      "B": "Endometrial carcinoma",
+      "C": "Ovarian carcinoma",
+      "D": "Vulvar carcinoma"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the age group most commonly affected by CIN?",
+    "options": {
+      "A": "15–25 years",
+      "B": "25–35 years",
+      "C": "35–45 years",
+      "D": "45–55 years"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which HPV types are most associated with CIN?",
+    "options": {
+      "A": "6 and 11",
+      "B": "16 and 18",
+      "C": "31 and 33",
+      "D": "45 and 56"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the primary symptom of CIN?",
+    "options": {
+      "A": "Pelvic pain",
+      "B": "Asymptomatic",
+      "C": "Heavy menstrual bleeding",
+      "D": "Fever"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which condition is NOT associated with endometrial hyperplasia etiology?",
+    "options": {
+      "A": "Chronic unopposed estrogen stimulation",
+      "B": "Tamoxifen therapy",
+      "C": "HPV infection",
+      "D": "Lynch II syndrome"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the most common presenting symptom of endometrial hyperplasia?",
+    "options": {
+      "A": "Pelvic pain",
+      "B": "Perimenopausal bleeding",
+      "C": "Ascites",
+      "D": "Weight gain"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the regression rate of CIN-1?",
+    "options": {
+      "A": "33%",
+      "B": "40%",
+      "C": "60%",
+      "D": "55%"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the second most common female cancer according to the document?",
+    "options": {
+      "A": "Endometrial carcinoma",
+      "B": "Cervical carcinoma",
+      "C": "Ovarian carcinoma",
+      "D": "Vulvar carcinoma"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is a risk factor for CIN?",
+    "options": {
+      "A": "High parity",
+      "B": "Prolonged hormonal contraception with HPV infection",
+      "C": "Obesity",
+      "D": "Diabetes mellitus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What does CIN-3 indicate on microscopic examination?",
+    "options": {
+      "A": "Infiltration of the lower 1/3 of the epithelium",
+      "B": "Infiltration of the middle 1/3 of the epithelium",
+      "C": "Infiltration of the upper 1/3 of the epithelium",
+      "D": "Full thickness infiltration"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "Which screening test is used for CIN diagnosis?",
+    "options": {
+      "A": "Ultrasound",
+      "B": "Cervical cytology with Pap stain",
+      "C": "MRI",
+      "D": "Tumor marker CA-125"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the progression rate of CIN-3 to invasive cancer?",
+    "options": {
+      "A": ">12%",
+      "B": "10%",
+      "C": "20%",
+      "D": "33%"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Which infection, besides HPV, is associated with CIN?",
+    "options": {
+      "A": "Hepatitis B",
+      "B": "Herpes simplex virus (HSV) II",
+      "C": "Cytomegalovirus",
+      "D": "Epstein-Barr virus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the naked-eye appearance of CIN?",
+    "options": {
+      "A": "Cauliflower mass",
+      "B": "Normal or red cervix",
+      "C": "Ulcerative lesion",
+      "D": "Pigmented patches"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the persistence rate of CIN-2?",
+    "options": {
+      "A": "30%",
+      "B": "40%",
+      "C": "55%",
+      "D": "60%"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which screening interval is recommended for CIN prevention?",
+    "options": {
+      "A": "Every 6 months",
+      "B": "Every 1–3 years",
+      "C": "Every 5 years",
+      "D": "Every 10 years"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the regression rate of CIN-2?",
+    "options": {
+      "A": "33%",
+      "B": "40%",
+      "C": "55%",
+      "D": "60%"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which factor increases the persistence rate of CIN?",
+    "options": {
+      "A": "Young age",
+      "B": "High parity",
+      "C": "Immunosuppression",
+      "D": "Obesity"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the progression rate of CIN-1 to CIN-3?",
+    "options": {
+      "A": "1%",
+      "B": "10%",
+      "C": "20%",
+      "D": "33%"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Where does fertilization typically occur in the female reproductive system?",
+    "options": {
+      "A": "Uterus",
+      "B": "Fallopian tube",
+      "C": "Ovary",
+      "D": "Cervix"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the primary role of Human Chorionic Gonadotrophin (HCG) in early pregnancy?",
+    "options": {
+      "A": "Stimulates uterine contractions",
+      "B": "Maintains the corpus luteum",
+      "C": "Regulates fetal heart rate",
+      "D": "Promotes fetal lung development"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the average maternal weight gain during pregnancy?",
+    "options": {
+      "A": "5 kg",
+      "B": "12.5 kg",
+      "C": "20 kg",
+      "D": "25 kg"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the primary source of progesterone after the first few weeks of pregnancy?",
+    "options": {
+      "A": "Corpus luteum",
+      "B": "Maternal adrenals",
+      "C": "Placenta",
+      "D": "Fetal liver"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the most common early symptom suggesting pregnancy in women with regular menstrual cycles?",
+    "options": {
+      "A": "Nausea",
+      "B": "Amenorrhea",
+      "C": "Breast tenderness",
+      "D": "Quickening"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "If the last normal menstrual period (LNMP) was on 10/9/2024, what is the expected date of delivery (EDD)?",
+    "options": {
+      "A": "17/5/2025",
+      "B": "17/6/2025",
+      "C": "10/6/2025",
+      "D": "10/7/2025"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the recommended daily iron supplementation during pregnancy?",
+    "options": {
+      "A": "10-20 mg",
+      "B": "30-60 mg",
+      "C": "70-90 mg",
+      "D": "100-120 mg"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a warning sign in pregnancy that requires immediate reporting?",
+    "options": {
+      "A": "Mild nausea",
+      "B": "Vaginal bleeding",
+      "C": "Increased appetite",
+      "D": "Fatigue"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When is quickening typically felt by primigravida women?",
+    "options": {
+      "A": "12-14 weeks",
+      "B": "16-18 weeks",
+      "C": "18-20 weeks",
+      "D": "20-22 weeks"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What defines antepartum hemorrhage?",
+    "options": {
+      "A": "Bleeding before 20 weeks",
+      "B": "Bleeding in the third trimester",
+      "C": "Bleeding during labor",
+      "D": "Postpartum bleeding"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the most common risk factor for placenta previa?",
+    "options": {
+      "A": "Nulliparity",
+      "B": "Past history of placenta previa",
+      "C": "Young maternal age",
+      "D": "Singleton pregnancy"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the main symptom of placenta previa?",
+    "options": {
+      "A": "Painful vaginal bleeding",
+      "B": "Painless, recurrent vaginal bleeding",
+      "C": "Fever",
+      "D": "Severe abdominal pain"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the most important risk factor for placenta accreta spectrum (PAS)?",
+    "options": {
+      "A": "Nulliparity",
+      "B": "Placenta previa after prior cesarean",
+      "C": "Advanced maternal age",
+      "D": "Twin pregnancy"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the most common cause of placental abruption?",
+    "options": {
+      "A": "Trauma",
+      "B": "Hypertensive disease",
+      "C": "Smoking",
+      "D": "Polyhydramnios"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a common cause of oligohydramnios?",
+    "options": {
+      "A": "Maternal diabetes",
+      "B": "Premature rupture of membranes",
+      "C": "Multiple gestation",
+      "D": "Polyhydramnios"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a complication of polyhydramnios?",
+    "options": {
+      "A": "Oliguria",
+      "B": "Preterm labor",
+      "C": "Fetal macrosomia",
+      "D": "Intrauterine growth restriction"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a major risk factor for PROM?",
+    "options": {
+      "A": "Advanced maternal age",
+      "B": "Genital infection",
+      "C": "Nulliparity",
+      "D": "Obesity"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a maternal cause of polyhydramnios?",
+    "options": {
+      "A": "Hypertension",
+      "B": "Diabetes mellitus",
+      "C": "Anemia",
+      "D": "Infection"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the earliest sign of chorioamnionitis in PROM?",
+    "options": {
+      "A": "Maternal fever",
+      "B": "Fetal tachycardia",
+      "C": "Uterine tenderness",
+      "D": "Leukocytosis"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is PROM managed if there is chorioamnionitis?",
+    "options": {
+      "A": "Expectant treatment",
+      "B": "Termination of pregnancy",
+      "C": "Tocolysis",
+      "D": "Corticosteroids"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a risk factor for hypertensive disorders in pregnancy?",
+    "options": {
+      "A": "Low BMI",
+      "B": "Multifetal gestation",
+      "C": "Advanced paternal age",
+      "D": "Female fetus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a laboratory finding in HELLP syndrome?",
+    "options": {
+      "A": "Normal platelet count",
+      "B": "Elevated liver enzymes",
+      "C": "Low bilirubin",
+      "D": "Normal SGOT"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a preventive measure for PROM?",
+    "options": {
+      "A": "Routine coitus in late pregnancy",
+      "B": "Treatment of genital infection",
+      "C": "Smoking cessation",
+      "D": "Cervical cerclage for all patients"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a maternal sign of eclampsia?",
+    "options": {
+      "A": "Hypotension",
+      "B": "Headache",
+      "C": "Polyuria",
+      "D": "Jaundice"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a laboratory test for evaluating hypertension in pregnancy?",
+    "options": {
+      "A": "Serum cortisol",
+      "B": "Urine protein",
+      "C": "Fasting glucose",
+      "D": "Thyroid function"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a sign of chorioamnionitis in PROM?",
+    "options": {
+      "A": "Normal fetal heart rate",
+      "B": "Uterine tenderness",
+      "C": "Hypothermia",
+      "D": "Clear vaginal discharge"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a characteristic ofplacenta previa bleeding?",
+    "options": {
+      "A": "Associated with pain",
+      "B": "Caused by trauma",
+      "C": "Painless and recurrent",
+      "D": "Minimal in volume"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is a sign of HELLP syndrome?",
+    "options": {
+      "A": "Elevated platelet count",
+      "B": "Hemolysis",
+      "C": "Normal liver enzymes",
+      "D": "Hypotension"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a fetal complication of preeclampsia?",
+    "options": {
+      "A": "Macrosomia",
+      "B": "Intrauterine growth restriction",
+      "C": "Polyhydramnios",
+      "D": "Congenital heart disease"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a maternal complication of preeclampsia?",
+    "options": {
+      "A": "Gestational diabetes",
+      "B": "Acute renal failure",
+      "C": "Oligohydramnios",
+      "D": "Vasa previa"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a neurological complication of preeclampsia?",
+    "options": {
+      "A": "Seizures",
+      "B": "Polyuria",
+      "C": "Jaundice",
+      "D": "Fever"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is a risk factor for PROM?",
+    "options": {
+      "A": "Advanced maternal age",
+      "B": "Bacterial vaginosis",
+      "C": "Nulliparity",
+      "D": "Obesity"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a cause of oligohydramnios?",
+    "options": {
+      "A": "Maternal diabetes",
+      "B": "Intrauterine growth restriction",
+      "C": "Multiple gestation",
+      "D": "Chorioangioma"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a clinical feature of placental abruption?",
+    "options": {
+      "A": "Painless bleeding",
+      "B": "Tense, tender uterus",
+      "C": "Normal fetal heart rate",
+      "D": "Soft uterus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a complication of placenta accreta spectrum?",
+    "options": {
+      "A": "Fetal macrosomia",
+      "B": "Life-threatening hemorrhage",
+      "C": "Intrauterine growth restriction",
+      "D": "Polyhydramnios"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a common maternal sign of eclampsia?",
+    "options": {
+      "A": "Hypotension",
+      "B": "Generalized tonic-clonic seizure",
+      "C": "Jaundice",
+      "D": "Polyuria"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What defines gestational hypertension?",
+    "options": {
+      "A": "Hypertension with proteinuria",
+      "B": "Mild hypertension after 20 weeks without proteinuria",
+      "C": "Seizures",
+      "D": "Chronic hypertension"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What characterizes superimposed preeclampsia?",
+    "options": {
+      "A": "Preeclampsia without prior hypertension",
+      "B": "Preeclampsia on chronic hypertension",
+      "C": "Gestational hypertension",
+      "D": "Eclampsia"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What defines hypertension in pregnancy?",
+    "options": {
+      "A": "BP ≥ 130/80 mmHg",
+      "B": "BP ≥ 140/90 mmHg",
+      "C": "BP ≥ 150/100 mmHg",
+      "D": "BP ≥ 160/110 mmHg"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "When is chronic hypertension typically diagnosed in pregnancy?",
+    "options": {
+      "A": "After 20 weeks",
+      "B": "Before 20 weeks",
+      "C": "Postpartum",
+      "D": "During labor"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What defines preeclampsia?",
+    "options": {
+      "A": "Hypertension before 20 weeks",
+      "B": "Hypertension after 20 weeks with proteinuria or organ dysfunction",
+      "C": "Seizures without hypertension",
+      "D": "Mild hypertension without proteinuria"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a symptom of severe preeclampsia?",
+    "options": {
+      "A": "Mild headache",
+      "B": "Blurred vision",
+      "C": "Polyuria",
+      "D": "Weight loss"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a risk factor for preeclampsia?",
+    "options": {
+      "A": "Multiparity",
+      "B": "Age < 20 or > 35 years",
+      "C": "Low BMI",
+      "D": "Male fetus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a complication of preeclampsia?",
+    "options": {
+      "A": "Gestational diabetes",
+      "B": "HELLP syndrome",
+      "C": "Oligohydramnios",
+      "D": "Vasa previa"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a risk factor for gestational diabetes mellitus?",
+    "options": {
+      "A": "Age < 25 years",
+      "B": "Family history of DM in first-degree relatives",
+      "C": "Primiparity",
+      "D": "Low BMI"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a management strategy for severe anemia after 35 weeks in pregnancy?",
+    "options": {
+      "A": "Oral iron",
+      "B": "Packed RBC transfusion",
+      "C": "Folic acid",
+      "D": "Vitamin B12"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a clinical sign of iron deficiency anemia in pregnancy?",
+    "options": {
+      "A": "Jaundice",
+      "B": "Pallor",
+      "C": "Splenomegaly",
+      "D": "Cyanosis"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a neonatal risk in infants of diabetic mothers?",
+    "options": {
+      "A": "Hypercalcemia",
+      "B": "Respiratory distress syndrome",
+      "C": "Hypobilirubinemia",
+      "D": "Reduced risk of type 1 DM"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a maternal effect of pregnancy on diabetes mellitus?",
+    "options": {
+      "A": "Reduced insulin resistance",
+      "B": "Increased diabetic complications",
+      "C": "Decreased insulin requirements",
+      "D": "No change in glycemic control"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a fetal complication of maternal diabetes mellitus?",
+    "options": {
+      "A": "Oligohydramnios",
+      "B": "Fetal macrosomia",
+      "C": "Gestational hypertension",
+      "D": "Preterm labor"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the prophylactic dose of folic acid recommended for all pregnant women?",
+    "options": {
+      "A": "200 µg/day",
+      "B": "400 µg/day",
+      "C": "600 µg/day",
+      "D": "800 µg/day"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the gold standard test for diagnosing gestational diabetes mellitus?",
+    "options": {
+      "A": "50 gm 1-hour OGTT",
+      "B": "100 gm 3-hour OGTT",
+      "C": "HbA1c",
+      "D": "Fasting blood sugar"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the threshold for fasting plasma glucose in the 100 gm 3-hour OGTT to diagnose GDM?",
+    "options": {
+      "A": "95 mg/dl",
+      "B": "105 mg/dl",
+      "C": "115 mg/dl",
+      "D": "125 mg/dl"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "What is a neonatal complication of maternal diabetes?",
+    "options": {
+      "A": "Hyperglycemia",
+      "B": "Hypoglycemia",
+      "C": "Hypercalcemia",
+      "D": "Hypobilirubinemia"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is anemia in pregnancy defined in the first trimester?",
+    "options": {
+      "A": "Hb < 10 g/dl",
+      "B": "Hb < 10.5 g/dl",
+      "C": "Hb < 11 g/dl",
+      "D": "Hb < 11.5 g/dl"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the most common type of anemia in pregnancy?",
+    "options": {
+      "A": "Folic acid deficiency",
+      "B": "Iron deficiency",
+      "C": "Vitamin B12 deficiency",
+      "D": "Hemorrhagic"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the daily iron requirement for a pregnant woman?",
+    "options": {
+      "A": "2 mg",
+      "B": "4 mg",
+      "C": "6 mg",
+      "D": "8 mg"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What divides the bony pelvis into false and true pelvis?",
+    "options": {
+      "A": "Pelvic cavity",
+      "B": "Pelvic brim",
+      "C": "Sacral promontory",
+      "D": "Ischial spines"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which pelvic diameter is the largest at the inlet?",
+    "options": {
+      "A": "Anteroposterior",
+      "B": "Oblique",
+      "C": "Transverse",
+      "D": "Diagonal"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which type of pelvis is most common in women?",
+    "options": {
+      "A": "Android",
+      "B": "Gynecoid",
+      "C": "Anthropoid",
+      "D": "Platypelloid"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What percentage of women have a gynecoid pelvis?",
+    "options": {
+      "A": "25%",
+      "B": "30%",
+      "C": "50%",
+      "D": "75%"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "Which pelvis type is associated with a heart-shaped brim?",
+    "options": {
+      "A": "Gynecoid",
+      "B": "Android",
+      "C": "Anthropoid",
+      "D": "Platypelloid"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which ligament connects the lateral aspect of the sacrum to the ischial spines?",
+    "options": {
+      "A": "Sacroiliac",
+      "B": "Sacro-spinous",
+      "C": "Sacro-tuberous",
+      "D": "Ilio-lumbar"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the largest transverse diameter of the fetal skull?",
+    "options": {
+      "A": "Bitemporal",
+      "B": "Biparietal",
+      "C": "Bimastoid",
+      "D": "Subparieto-supraparietal"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How is normal labor defined?",
+    "options": {
+      "A": "Cesarean delivery of a mature fetus",
+      "B": "Spontaneous vertex delivery within 3-24 hours",
+      "C": "Induced labor with oxytocin",
+      "D": "Delivery with forceps assistance"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What marks the onset of the first stage of labor?",
+    "options": {
+      "A": "Full cervical dilatation",
+      "B": "True labor pains",
+      "C": "Rupture of membranes",
+      "D": "Delivery of the placenta"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the duration of the first stage of labor in nullipara?",
+    "options": {
+      "A": "3-6 hours",
+      "B": "6-8 hours",
+      "C": "10-16 hours",
+      "D": "16-24 hours"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is a sign of the second stage of labor during vaginal examination?",
+    "options": {
+      "A": "Cervical ripening",
+      "B": "Formation of bag of fore-water",
+      "C": "Full cervical dilatation",
+      "D": "Placental separation"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the role of the Brandt-Andrews maneuver?",
+    "options": {
+      "A": "To deliver the fetal head",
+      "B": "To facilitate placental delivery",
+      "C": "To prevent perineal lacerations",
+      "D": "To assess cervical dilatation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the main force causing descent in the first stage of labor?",
+    "options": {
+      "A": "Voluntary bearing down",
+      "B": "Uterine contractions",
+      "C": "Fetal molding",
+      "D": "Pelvic floor resistance"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What muscle forms part of the pelvic floor?",
+    "options": {
+      "A": "Iliacus",
+      "B": "Levator ani",
+      "C": "Psoas",
+      "D": "Pyriformis"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the main source of blood loss during the third stage of labor?",
+    "options": {
+      "A": "Cervical lacerations",
+      "B": "Placental site",
+      "C": "Uterine rupture",
+      "D": "Fetal membranes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What should be avoided during the first stage of labor to prevent exhaustion?",
+    "options": {
+      "A": "Vaginal examinations",
+      "B": "Bearing down",
+      "C": "Analgesia",
+      "D": "Mobility"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What indicates the onset of the second stage of labor?",
+    "options": {
+      "A": "True labor pains",
+      "B": "Full cervical dilatation",
+      "C": "Placental separation",
+      "D": "Rupture of membranes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a sure sign of labor during vaginal examination?",
+    "options": {
+      "A": "Cervical ripening",
+      "B": "Formation of the bag of fore-water",
+      "C": "Head engagement",
+      "D": "Uterine relaxation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What characterizes true labor pains?",
+    "options": {
+      "A": "Irregular and relieved by analgesics",
+      "B": "Regular, increasing in frequency and duration",
+      "C": "Confined to the lower abdomen",
+      "D": "Relieved by walking"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a symptom of the prodromal stage of labor?",
+    "options": {
+      "A": "Full cervical dilatation",
+      "B": "Lightening",
+      "C": "Placental separation",
+      "D": "Crowning"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which sign indicates placental separation?",
+    "options": {
+      "A": "Cervical dilatation",
+      "B": "Sudden gush of blood",
+      "C": "Fetal descent",
+      "D": "Uterine relaxation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "How long does the third stage of labor typically last?",
+    "options": {
+      "A": "1-2 hours",
+      "B": "15-30 minutes",
+      "C": "3-6 hours",
+      "D": "6-8 hours"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is crowning in the second stage of labor?",
+    "options": {
+      "A": "Full cervical dilatation",
+      "B": "Passage of BPD diameter through the pelvic outlet",
+      "C": "Delivery of the shoulders",
+      "D": "Rupture of membranes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the main force in the second stage of labor?",
+    "options": {
+      "A": "Cervical dilatation",
+      "B": "Uterine contractions and voluntary bearing down",
+      "C": "Placental separation",
+      "D": "Fetal molding"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the definition of a malposition in obstetrics?",
+    "options": {
+      "A": "Any presentation other than vertex",
+      "B": "Vertex presentation with occiput directed posteriorly",
+      "C": "Breech presentation with extended legs",
+      "D": "Transverse lie of the fetus"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is considered a normal presentation?",
+    "options": {
+      "A": "Left occiput posterior (LOP)",
+      "B": "Right occiput anterior (ROA)",
+      "C": "Face presentation",
+      "D": "Brow presentation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the most common cause of malpresentations in multiparas?",
+    "options": {
+      "A": "Contracted pelvis",
+      "B": "Laxity of uterine and abdominal muscles",
+      "C": "Prematurity",
+      "D": "Placenta previa"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which pelvic shape is commonly associated with malpresentations?",
+    "options": {
+      "A": "Gynecoid",
+      "B": "Android",
+      "C": "Platypelloid",
+      "D": "Oval"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the most common cause of malpresentations in nulliparas?",
+    "options": {
+      "A": "Contracted pelvis",
+      "B": "Polyhydramnios",
+      "C": "Large fetus",
+      "D": "Uterine anomalies"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Which fetal condition is a common cause of malpresentations?",
+    "options": {
+      "A": "Postmaturity",
+      "B": "Prematurity",
+      "C": "Normal fetal size",
+      "D": "Single gestation"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a maternal complication of malpresentations?",
+    "options": {
+      "A": "Reduced labor duration",
+      "B": "Premature rupture of membranes (PROM)",
+      "C": "Decreased incidence of instrumental deliveries",
+      "D": "No risk of puerperal sepsis"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What fetal complication is associated with malpresentations?",
+    "options": {
+      "A": "Increased birth weight",
+      "B": "Asphyxia",
+      "C": "Normal delivery",
+      "D": "Reduced risk of injury"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which presentation is considered undeliverable at full term?",
+    "options": {
+      "A": "Occiput anterior",
+      "B": "Brow presentation",
+      "C": "Frank breech",
+      "D": "Complete breech"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which pelvic shape is associated with primary occiput posterior (OP)?",
+    "options": {
+      "A": "Gynecoid",
+      "B": "Anthropoid",
+      "C": "Platypelloid",
+      "D": "Oval"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a maternal complication of malpresentations?",
+    "options": {
+      "A": "Reduced labor duration",
+      "B": "Postpartum hemorrhage",
+      "C": "No risk of infection",
+      "D": "Decreased instrumental deliveries"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a cause of fetal asphyxia in malpresentations?",
+    "options": {
+      "A": "Normal delivery",
+      "B": "Cord prolapse",
+      "C": "Small fetus",
+      "D": "Roomy pelvis"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the definition of postpartum hemorrhage (PPH)?",
+    "options": {
+      "A": "Bleeding <500 cc after vaginal delivery",
+      "B": "Bleeding >500 cc after vaginal or >1000 cc after cesarean delivery",
+      "C": "Bleeding only during labor",
+      "D": "Bleeding that does not affect the patient's condition"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the incidence of PPH?",
+    "options": {
+      "A": "10-15%",
+      "B": "1-4%",
+      "C": "20-25%",
+      "D": "0.1-0.5%"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the most common cause of primary PPH?",
+    "options": {
+      "A": "Trauma",
+      "B": "Uterine atony",
+      "C": "Coagulopathy",
+      "D": "Retained placenta"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which of the following is a risk factor for atonic PPH?",
+    "options": {
+      "A": "Normal uterine size",
+      "B": "Polyhydramnios",
+      "C": "Small fetus",
+      "D": "Short labor"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a cause of traumatic PPH?",
+    "options": {
+      "A": "Retained placenta",
+      "B": "Cervical laceration",
+      "C": "Uterine atony",
+      "D": "Coagulopathy"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a clinical risk factor for retained placental tissue?",
+    "options": {
+      "A": "Normal placenta on ultrasound",
+      "B": "Incomplete placenta at delivery",
+      "C": "Low parity",
+      "D": "No previous uterine surgery"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a cause of PPH due to thrombin (coagulopathy)?",
+    "options": {
+      "A": "Normal coagulation profile",
+      "B": "Disseminated intravascular coagulation (DIC)",
+      "C": "Small fetus",
+      "D": "Intact membranes"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a sign of atonic PPH on abdominal examination?",
+    "options": {
+      "A": "Contracted uterus",
+      "B": "Lax, soft uterus with rising fundal level",
+      "C": "No blood expulsion on fundal pressure",
+      "D": "Normal fundal height"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is observed in traumatic PPH during vaginal examination?",
+    "options": {
+      "A": "Dark blood",
+      "B": "Bright red blood",
+      "C": "No bleeding",
+      "D": "Foul-smelling lochia"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a preventive measure for PPH during labor?",
+    "options": {
+      "A": "Prolonged labor",
+      "B": "Routine oxytocic administration",
+      "C": "Full bladder",
+      "D": "Traumatic delivery"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the first step in active management of PPH?",
+    "options": {
+      "A": "Uterine artery embolization",
+      "B": "Initial assessment and resuscitation",
+      "C": "Hysterectomy",
+      "D": "Manual compression"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a cause of secondary PPH?",
+    "options": {
+      "A": "Normal lochia",
+      "B": "Retained placental tissue",
+      "C": "No infection",
+      "D": "Normal uterine involution"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is precipitate labor?",
+    "options": {
+      "A": "Cervical dilatation <1 cm/hr",
+      "B": "Cervical dilatation >5 cm/hr in primipara",
+      "C": "Prolonged second stage",
+      "D": "No uterine contractions"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the duration of the normal puerperium?",
+    "options": {
+      "A": "2-4 weeks",
+      "B": "6-8 weeks",
+      "C": "10-12 weeks",
+      "D": "1-2 weeks"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What process contributes to uterine involution?",
+    "options": {
+      "A": "Increased blood flow",
+      "B": "Autolysis",
+      "C": "Cervical dilatation",
+      "D": "Placental retention"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is a characteristic of lochia serosa?",
+    "options": {
+      "A": "Fresh blood",
+      "B": "Whitish discharge",
+      "C": "Brownish-pink discharge",
+      "D": "No discharge"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the mean duration of lochia?",
+    "options": {
+      "A": "1-15 days",
+      "B": "21-33 days",
+      "C": "40-50 days",
+      "D": "60-70 days"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the definition of intrauterine growth restriction (IUGR)?",
+    "options": {
+      "A": "Infant weight >90th percentile",
+      "B": "Infant weight <10th percentile",
+      "C": "Infant weight =50th percentile",
+      "D": "Infant weight >75th percentile"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "What is the perinatal mortality rate for IUGR fetuses compared to normal fetuses?",
+    "options": {
+      "A": "1-2 times higher",
+      "B": "5-20 times higher",
+      "C": "50 times higher",
+      "D": "No difference"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Which maternal factor is associated with IUGR?",
+    "options": {
+      "A": "Normal BMI",
+      "B": "Cigarette smoking",
+      "C": "High socioeconomic status",
+      "D": "No anemia"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  }
+        ],
         "explanation": "<p>Explanation currently unavailable.</p>",
         "flipCards": []
       },
@@ -11416,6 +13979,7 @@
     }
   }
 }
+
 
 
 
